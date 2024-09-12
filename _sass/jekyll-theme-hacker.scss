@@ -14,17 +14,16 @@
 
 
 html {
-    /* font: normal 15px/19px "IBM Plex Sans","VT323", "Lucida Sans Unicode", verdana, lucida,
-    sans-serif; */
-    font: normal 15px/19px "Martian Mono", 'IBM Plex Sans', "Lucida Sans Unicode", verdana, lucida, sans-serif; 
-  background : #0D0D0D;
+    font: normal 15px/19px "VT323", "IBM Plex Sans", "Lucida Sans Unicode", verdana, lucida,
+    sans-serif; 
+    /* font: normal 15px/19px "Martian Mono", 'IBM Plex Sans', "Lucida Sans Unicode", verdana, lucida, sans-serif;  */
+  background : #0D0D0D; 
   background-image :
     linear-gradient(#262626 1px, transparent 0),
     linear-gradient(90deg, #262626 1px, transparent 0);
   background-size: 30px 30px;
     /* font-family: "VT323", monospace; */
-    font-family: "Martian Mono", monospace; 
-    background-attachment: fixed;   
+        background-attachment: fixed;   
     height: 100%;
     width: 100%;
   }
@@ -76,7 +75,7 @@ body {
   color: white;
 
 }
-
+/*
 
 p {
   display: flex;
@@ -92,6 +91,8 @@ p {
   hyphens: auto;
   display:block;
 }
+
+*/
 @keyframes slidein {
   from {
     margin-right: 100%;
@@ -279,7 +280,6 @@ li:hover ul {
   border-right: 4px solid #2e97f2;
   color: #fff;
 }
-
 .css3badge {
   display: inline;
   float: right;
@@ -845,11 +845,22 @@ img[alt="whiteslavery40"] {
   background: #f2b29b;
   border-radius: 1px;
 }
-
 .swatch {
-  /*display: grid;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  position:relative;
+  opacity: 1;
+  max-width: max-content;
+animation: 1s ease-out 0s 1 slideInFromLeft;
+animation: 1s ease-in 3s 1 saturate;
+
+}
+
+/* .swatch {
+  display: grid;
   grid-gap: 5px;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr; 
     grid-gap: 0px;
     grid-template-columns: 1fr 2fr 1fr 1fr ; 
     display: flex;
@@ -859,15 +870,39 @@ img[alt="whiteslavery40"] {
     opacity: 1;
     max-width: max-content;
 animation: 1s ease-out 0s 1 slideInFromLeft;
+animation: 1s ease-in 3s 1 saturate;
 
 }
-
+*/
 .swatch div {
   flex: 1 1 auto;
-  padding: 5px 40px;
-  
+  padding: 15px 15px;
+  animation-direction: alternate;
 } 
 
+.swatch div:nth-child(odd) {
+  animation: 4s ease-out 0s 1 slideInFromLeft;
+  animation-direction: alternate;
+}
+.swatch div:nth-child(even) {
+  animation: 4s ease-out 0s 1 slideInFromRight;
+  animation-direction: alternate;
+}
+.swatch:nth-child(4n-7) {  /* or 4n+1 */
+  animation: 2s ease-out 0s 1 slideInFromLeft;
+}
+.swatch.swatch:nth-child(5n-9) {  /* or 4n+1 */
+  animation: 1s ease-in 0s 1 slideInFromRight;
+}
+
+@keyframes slideInFromRight {
+    0% {
+        transform: translateX(100%);
+    }
+    100% {
+        transform: translateX(0);
+    }
+}
 @keyframes slideInFromLeft {
     0% {
         transform: translateX(-100%);
@@ -877,6 +912,59 @@ animation: 1s ease-out 0s 1 slideInFromLeft;
     }
 }
 
+@keyframes blur {
+    0% {
+        filter: blur(1.5rem);
+    }
+    100% {
+        filter: blur(0rem);
+    }
+}
+
+@keyframes flip {
+    0% {
+        filter: blur(1.5rem);
+      transform: rotateZ(90deg);
+    }
+    100% {
+        filter: blur(0rem);
+      transform: rotateZ(0deg);
+    }
+}
+@keyframes saturate {
+    0% {
+
+      filter: saturate(7);
+    }
+    100% {
+
+      filter: saturate(3);
+    }
+}
+
+@keyframes scale {
+    0% {
+
+      transform: scale( 2, 2);
+    }
+    100% {
+
+      transform: scale(4, 1);
+
+    }
+}
+
+@keyframes rotate {
+    0% {
+
+      transform: rotate(300.142rad);
+    }
+    100% {
+
+      transform: rotate(0rad);
+
+    }
+}
 .swatch div:nth-child(1) {
   background: #352ef2;
   border-radius: 0px;
@@ -967,7 +1055,7 @@ animation: 1s ease-out 0s 1 slideInFromLeft;
   background: #ff7276;
 }
 .swatch div:nth-child(27) {
-  background: #ff3eb5;
+  background: #ff3eb5;animation: 1s ease-out 0s 1 slideInFromRight;
 }
 .swatch div:nth-child(28) {
   background: #ea27c2;
@@ -994,7 +1082,7 @@ animation: 1s ease-out 0s 1 slideInFromLeft;
   background: #8a8d8f;
 }
 .swatch div:nth-child(36) {
-  background: #ffd900;
+  background: #ffd900;animation: 0.2s ease-out 0s 1 slideInFromRight;
 }
 .swatch div:nth-child(37) {
   background: #ff5e00;
@@ -1024,7 +1112,7 @@ animation: 1s ease-out 0s 1 slideInFromLeft;
 .swatch div:nth-child(45) {
   background: #222223;
   animation: 3s ease-out 0s 1 slideInFromLeft;
-  
+
 }
 .swatch div:nth-child(46) {
   background: #f6eb61;
@@ -1081,7 +1169,7 @@ animation: 1s ease-out 0s 1 slideInFromLeft;
   background: #daaa00;
 }
 .swatch div:nth-child(64) {
-  background: #aa8a00;
+  background: #aa8a00;animation: 1s ease-out 0s 1 slideInFromRight;
 }
 .swatch div:nth-child(65) {
   background: #9c8412;
@@ -1093,7 +1181,7 @@ animation: 1s ease-out 0s 1 slideInFromLeft;
   background: #fbdd40;
 }
 .swatch div:nth-child(68) {
-  background: #fdda24;
+  background: #fdda24;animation: 1s ease-out 0s 1 slideInFromRight;
 }
 .swatch div:nth-child(69) {
   background: #ffcd00;
@@ -1117,7 +1205,7 @@ animation: 1s ease-out 0s 1 slideInFromLeft;
   background: #f3d03e;
 }
 .swatch div:nth-child(76) {
-  background: #f2a900;
+  background: #f2a900;animation: 1s ease-out 0s 1 slideInFromRight;
 }
 .swatch div:nth-child(77) {
   background: #cc8a00;
@@ -2870,7 +2958,7 @@ animation: 1s ease-out 0s 1 slideInFromLeft;
   background: #7a99ac;
 }
 .swatch div:nth-child(660) {
-  background: #5b7f95;
+  background: #5b7f95;animation: 3s ease-out 0s 1 slideInFromRight;
 }
 .swatch div:nth-child(661) {
   background: #4f758b;
@@ -4897,7 +4985,7 @@ animation: 1s ease-out 0s 1 slideInFromLeft;
   display: flex;
   flex-wrap: wrap;
   width: 100%;
-  height: 80px;
+  height: 10px;
 }
 .normani div:nth-child(1) {
   background: #f2e205;
@@ -4917,9 +5005,10 @@ animation: 1s ease-out 0s 1 slideInFromLeft;
 }
 
 .normani div {
-  flex: 0 1 200px;
-  flex: 1 1 200px;
-  padding: 0px;
+  flex: 1 1 auto;
+  display:flex;
+  animation-direction: alternate;
+
 }
 
 .gullies {
@@ -4929,36 +5018,43 @@ animation: 1s ease-out 0s 1 slideInFromLeft;
   display: flex;
   flex-wrap: wrap;
   width: 100%;
-  height: 2em;
+  height: 1em;
+
 }
 .gullies div:nth-child(1) {
   background: #3029f2;
     animation: .2s ease-out 0s 1 slideInFromLeft;
+ 
+
 }
 .gullies div:nth-child(2) {
   background: #446ff2;
+  animation: .2s ease-out 0s 1 slideInFromRight;
+  
 }
 .gullies div:nth-child(3) {
   background: #3098f2;
-  animation: .8s ease-out 0s 1 slideInFromLeft;
+  animation: .8s ease-in 0s 1 slideInFromLeft;
+  
 }
 .gullies div:nth-child(4) {
   background: #0dd9c4;
-  animation: .9s ease-out 0s 1 slideInFromLeft;
+  animation: .9s ease-in 0s 1 slideInFromRight;
+  
 }
 .gullies div:nth-child(5) {
   background: #3df28b;
-     
-    animation: 3s infinite alternate 0s 1 slideInFromLeft;  
-  
+    
+  animation: .8s ease-in 0s 1 slideInFromLeft;  
+
 }
 
 .gullies div {
-  flex: 0 1 200px;
-  flex: 1 1 200px;
-  padding: 0px;
+  flex: 1 1 auto;
+  padding: 15px 15px;
+  animation-direction: alternate;
 
-  
+
 }
 
 .oncall {
@@ -4968,7 +5064,7 @@ animation: 1s ease-out 0s 1 slideInFromLeft;
   display: flex;
   flex-wrap: wrap;
   width: 100%;
-  height: 5%;
+  height: 1em;
 }
 .oncall div:nth-child(1) {
   background: #f2a922;
@@ -4982,16 +5078,18 @@ animation: 1s ease-out 0s 1 slideInFromLeft;
 }
 .oncall div:nth-child(4) {
   background: #732e07;
+
 }
 .oncall div:nth-child(5) {
   background: #bf3706;
 }
 
 .oncall div {
-  flex: 0 1 200px;
-  flex: 1 1 200px;
-  padding: 0px;
+  flex: 1 1 auto;
+  padding: 15px 15px;
+  animation-direction: alternate;
     animation: 1s ease-out 0s 1 slideInFromLeft;
+
 }
 
 #a-title {
@@ -5005,7 +5103,7 @@ animation: 1s ease-out 0s 1 slideInFromLeft;
   display: flex;
   flex-wrap: wrap;
   width: 100%;
-  height: 3em;
+  height: 1em;
 
 }
 
@@ -5017,9 +5115,9 @@ animation: 1s ease-out 0s 1 slideInFromLeft;
 
 .megan div {
 
-  flex: 0 1 200px;
-  flex: 1 1 200px;
-  padding: 0px;
+  flex: 1 1 auto;
+  padding: 15px 15px;
+  animation-direction: alternate;
 
 }
 
@@ -5033,10 +5131,10 @@ animation: 1s ease-out 0s 1 slideInFromLeft;
   display: flex;
   flex-wrap: wrap;
   width: 100%;
-  height: 3em;
+  height: 1em;
 
 }
-.viking div:nth-child(1) { background: #F2F2F2;}
+.viking div:nth-child(1) { background: #F2F2F2; }
 .viking div:nth-child(2) { background: #73463C;}
 .viking div:nth-child(3) { background: #8C564A;}
 .viking div:nth-child(4) { background: #260101;}
@@ -5044,9 +5142,10 @@ animation: 1s ease-out 0s 1 slideInFromLeft;
 
 .viking div {
 
-  flex: 0 1 200px;
-  flex: 1 1 200px;
+  
+  flex: 1 1 100px;
   padding: 0px;
+
 
 }
 
@@ -5058,20 +5157,20 @@ animation: 1s ease-out 0s 1 slideInFromLeft;
   display: flex;
   flex-wrap: nowrap;
   width: 100%;
-  height: 80px;
+  height: 30px;
 
 }
-.vikingbright div:nth-child(1) { background: #F2F2F2;}
+.vikingbright div:nth-child(1) { background: #F2F2F2;animation: 1s ease-out 0s 1 flip}
 .vikingbright div:nth-child(2) { background: #D9AA71;}
 .vikingbright div:nth-child(3) { background: #A65F46;}
 .vikingbright div:nth-child(4) { background: #73463C;}
-.vikingbright div:nth-child(5) { background: #0D0000;}
+.vikingbright div:nth-child(5) { background: #0D0000;animation: 1s ease-out 0s 1 flip;}
 
 .vikingbright div {
 
-  flex: 0 1 200px;
-  flex: 1 1 200px;
-  padding: 0px;
+  flex: 1 1 auto;
+  padding: 5px 5px;
+  animation-direction: alternate;
 
 }
 
@@ -5082,10 +5181,11 @@ animation: 1s ease-out 0s 1 slideInFromLeft;
 
 
 
-.playlist {
+#playlist {
   display:flex;
-  flex-flow: row wrap;
+  flex-flow: row nowrap;
   flex-direction: row;
+  padding:5px;
 
 } 
 
@@ -5154,3 +5254,56 @@ audio:hover, audio:focus, audio:active
 -moz-transform: scale(1.05);
 transform: scale(1.05);
 }
+
+
+.gallery-rover {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 70vh;
+}
+
+.item {
+  flex: 1;
+  height: 100%;
+  background-position: center;
+  background-size: cover;
+  background-repeat: none;
+  transition: flex 0.8s ease;
+  
+  &:hover{
+    flex: 7;
+  }
+}
+
+.item-rover1 { 
+  background-image: url('https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00450/ids/edr/browse/edl/EBE_0450_0706921761_624ECM_N0260000EDLC00450_0050LUJ01_1200.jpg');
+}
+
+.item-rover2 { 
+  background-image: url('https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00000/ids/edr/browse/edl/ESF_0000_0666965708_609ECM_N0010052EDLC00000_0000LUJ01_1200.jpg');
+}
+
+.item-rover3 { 
+  background-image: url('https://science.nasa.gov/wp-content/uploads/2024/03/1005.gif?w=768&format=webp');
+}
+
+.item-rover4 { 
+  background-image: url('https://science.nasa.gov/wp-content/uploads/2024/03/1007.gif?w=768&format=webp');
+}
+
+.item-rover5 { 
+  background-image: url('https://science.nasa.gov/wp-content/uploads/2024/03/25703_PIA24490_ncam_left_drive-web.gif?w=768&format=webp');
+}
+
+.social{
+  position: absolute;
+  right: 35px;
+  bottom: 0;
+  
+  img{
+    display: block;
+    width: 32px;
+  }
+}
+

@@ -1,11 +1,218 @@
 {% highlight ruby %} 
 1 # HOLE_TO_ANOTHER_UNiVERSE##########NormaniBossLady #
-2 # TO####NEW_POSTS /worknotes02 /imsufferingmskaren####
+2 # TO####NEW_POSTS /worknotes02 /civic03####
 3 # ANOTHER##########https://s.id/1kmbG################# 
 4 # UNiVERSE#############################Hi####CORaL### 
 {% endhighlight %}
 
 # Currently Compiling
+
+## An Ocean in Bloom 8/16/2024
+[Credits](https://svs.gsfc.nasa.gov/14648#section_credits)
+[NasaGoodard](https://www.nasa.gov/goddard/)
+
+<video controls width="100%" height="auto" poster="https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014648/NHQ_2024_0724_AnOceanInBloom_PROMO3.01389_print.jpg">
+
+  <source src="https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014648/NHQ_2024_0801_AnOceanInBloom_FinalCut_HD.mp4" type="video/mp4" />
+
+  <source src="https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014648/NHQ_2024_0801_AnOceanInBloom_FinalCut_HD.mp4" type="video/mp4" />
+
+  Download the
+  or
+  <a href="https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014648/NHQ_2024_0801_AnOceanInBloom_FinalCut_HD.mp4">MP4</a>
+  video.
+</video>
+
+### PACE is NASA's Plankton, Aerosol, Cloud, ocean Ecosystem mission,
+![phytoplankton](https://pace.oceansciences.org/images/layout/pace_l2_banner_txt.png) [Get to Know PACE](https://pace.oceansciences.org/about.htm)
+![pace](https://oceancolor.gsfc.nasa.gov/gallery/feature/images/LC08_L1TP_206045-7_20240209_20240209_02_A_complex_system_sm.png) [Phytoplankton Toxins and Their Potential Therapeutic Applications: A Journey toward the Quest for Potent Pharmaceuticals PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9030253/pdf/marinedrugs-20-00271.pdf)
+
+
+This data visualization shows 50 years of algal blooms collected across a spinning globe. Once all the data is accumulated, the globe then unwraps into a Robinson projection so the viewer can see the entire global dataset. [WorldView](https://worldview.earthdata.nasa.gov/?v=307627.14771113126,-4164550.6316866404,1387215.8072848828,-3362710.6908941357&p=arctic&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor,MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=true&t=2024-05-16-T20%3A25%3A43Z)
+
+<video controls width="100%" height="auto" poster="https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014648/unwrap_v43_2023-10-26_1332.00760_print.jpg">
+
+  <source src="https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014648/sphere2FL_v44_2023-10-26_1330.mp4" type="video/mp4" />
+
+  <source src="https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014648/sphere2FL_v44_2023-10-26_1330.mp4" type="video/mp4" />
+
+  Download the
+  or
+  <a href="https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014648/sphere2FL_v44_2023-10-26_1330.mp4">MP4</a>
+  video.
+</video>
+[Peek-a-Bloom in the North Atlantic](https://earthobservatory.nasa.gov/images/152953/peek-a-bloom-in-the-north-atlantic)
+![ocean](https://eoimages.gsfc.nasa.gov/images/imagerecords/152000/152953/greenlandbloom_amo_20240616_lrg.jpg)
+
+### worknotes
+[ricoThaka.GiTHUB.iO/workNotes(current)](https://ricothaka.github.io/worknotes03/)
+
+### ♫♪.ılılıll|̲̅̅●̲̅̅|̲̅̅=̲̅̅|̲̅̅●̲̅̅|llılılı.♫♪
+[Game Type-Tragedy Khadafi](https://www.youtube.com/watch?v=CU_LYy4cnE0) [Tragedy Khadafi - Da Funk Mode [Extra P Remix] (feat. Havoc)](https://www.youtube.com/watch?v=euyyIgBDlaE) [Outkast - Ms. Jackson ](https://youtu.be/CSD2J8yaMmM?si=KnN0jo5__y-u4bTY)
+
+
+
+# André 3000 - Listening To The Sun  
+[André 3000 - Listening To The Sun (an intimate album film for New Blue Sun 11/17/2023)](https://www.youtube.com/watch?v=2nOxSeBhQAA)
+
+![Darkstalkers](https://upload.wikimedia.org/wikipedia/en/4/40/Darkstalkers_arcade_flyer.png)
+Darkstalkers: The Night Warriors, known in Japan as Vampire: The Night Warriors (ヴァンパイア ザ ナイト ウォーリアー, Vanpaia Za Naito Wōriā), is a 1994 fighting game developed and released by Capcom originally for the [CPS II arcade hardware](https://en.wikipedia.org/wiki/CP_System_II) as the first game in the first title in the Darkstalkers series
+![CPS2](https://wiki.arcadeotaku.com/images/d/d3/CPS2.gif)
+<iframe src="https://archive.org/embed/arcade_dstlk" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+### ♫♪.ılılıll|̲̅̅●̲̅̅|̲̅̅=̲̅̅|̲̅̅●̲̅̅|llılılı.♫♪
+
+[Brand Nubian - All For One](https://www.youtube.com/watch?v=u6n7ZXxGbio) [Grand Puba - I Like It (I Wanna Be Where You Are)](https://www.youtube.com/watch?v=yn7KoADZlRk) [Tink - Fake Love (Official Visualizer)](https://www.youtube.com/watch?v=FSlFD6DnxeQ) [Fast Life Kool G Rap feat Nas](https://youtu.be/EQl7ENwIwXc?si=Vp4AuYCrNAXLz4E1) [Game Type - Tragedy Khadafi](https://youtu.be/CU_LYy4cnE0?si=D8iDnyyp0kG705H7) [Scarface - Now I Feel Ya](https://www.youtube.com/watch?v=q-yYwKYqtsU) [Devin The Dude - Lacville '79](https://www.youtube.com/watch?v=Fo_2TE6C56Y) [What a Job - Devin The Dude feat Snoop + Andre3000](https://www.youtube.com/watch?v=DD7t8PKkvmE) [Outkast - In Due Time](https://www.youtube.com/watch?v=gvMCA9jHFZ0) [Aquemini song . . . normani (⋟﹏⋞) . . .](https://www.youtube.com/watch?v=M4fwLA1_ARM)
+
+{% include soundcloudfavs.md %}
+
+[Normani - All Yours](https://youtu.be/iHS9gu-RZGQ?si=W7gbLHUdKXktGebp) [Marco Polo feat. Masta Ace - Nostalgia](https://www.youtube.com/watch?v=PPZ2-FVcM3M) [The Visionaries - Blessings](https://youtu.be/I2zWUFlfWWM?si=KofRVQ_Ic5Qoh8Jo) [Capone-N-Noreaga - Thug Paradise](https://www.youtube.com/watch?v=0Ei1mcRvOV4) [O.C. Times Up](https://youtu.be/6gNmCGQRpcc?si=u5qa7C0yNHCB16U4) [Bahamadia- Spontaneity](https://www.youtube.com/watch?v=_LG8YLpQvoQ) [Acid Raindrops - People Under The Stairs](https://youtu.be/UcKDx4cmvio?si=tB9kdDqslizc-bVW) [(っ◕‿◕)っ Normani - Lights On](https://www.youtube.com/watch?v=6Rzd1ch_cvo) [Monica - So Gone](https://youtu.be/UE6zfOuYfVI?si=TMIp7w9KD08mvvYF) [Mary J Blige - All My Love](https://www.youtube.com/watch?v=6ArSfXnm2c0) [Mary J BLige - You Gotta Believe](https://www.youtube.com/watch?v=9ZXuZZbKH8Y) [Aaliyah - Never Givin' Up](https://youtu.be/LbS7vO1qwg4?si=EzYyldmQVHPnxdgZ) [ (っ◕‿◕)っMuni Long - Time MAchine ](https://www.youtube.com/watch?v=uMV-UVpe568) [Time Machine - Mind in a Spin](https://www.youtube.com/watch?v=HWwCVqWmgro) [Beef - Boogie Down Productions](https://youtu.be/nn4JLAmbbJk?si=anpyTQiTPZz4qyy9) 
+
+### ¯\_(ツ)_/¯ ¯\_(ツ)_/¯ ¯\_(ツ)_/¯ 
+
+[Keke Wyatt's World Season 1 Episode 1](https://youtu.be/SPh6o23ZdTE?si=SG2-_Uq4cWGNmIR9) [GloRilla Responds Too Being COMPROMISED By Her Label With A SHOCKING Response!](https://youtu.be/Za9oGQZ2l_o?si=Myy2PyItUubgaYKX) [¯\_(ツ)_/¯ Marlon Wayans' Hollywood Stories & Mo'Nique Saying The Wayans Bros Stole Her Joke In White Chicks](https://www.youtube.com/watch?v=xhP4qSYlFIA) [Chloe Bailey Talks New Music, Rumored Relationships, Being An Auntie, Pursuit Of Perfection](https://www.youtube.com/watch?v=CXC2qxnaQAE) [LL COOL J Talks New Album, Ownership Vs Artistry, New School Hip Hop](https://www.youtube.com/watch?v=BtvsibBnNhI) [Muni Long: New Album Revenge, Writing "Hrs & Hrs", & Upcoming Tour  Apple Music](https://youtu.be/SIcKQsVVmQQ?si=xn5bLONdfiOo36iB) [Muni Long Explains Revenge Album Title, Florida Activities & She Sings in Spanish](https://www.youtube.com/watch?v=uMV-UVpe568) [Muni Long On Writing Hits, Streaming Vs Radio, Autism, Mental Health](https://www.youtube.com/watch?v=KaoOWrfzKQ4) [Muni long Freestyles Over 50 Cent's "21 Questions"  SWAY’S UNIVERSE](https://youtu.be/D_wf3619krs?si=gfWLVWasEt7H8T79) [Muni Long Talks Writing for Your Favorite Artists, Overcoming Lupus & Freestyle over “21 Questions”](https://youtu.be/qCOQhTnMeN0?si=KtVXKrCKYpLgUKQM) [Cardi B Tells Truth About GloRilla, Lying about Shakira + New Album after 6 year break](https://www.youtube.com/watch?v=PrxR9Qvq2Fg) [Cardi B Addresses Her Beefs In The Music, Craziest Paparazzi Experience ](https://www.youtube.com/watch?v=uI7MWduMadU) [Megan Thee Stallion and GloRilla  Close Friends Only with Instagram](https://www.youtube.com/watch?v=VO2P161QYp0) [Glorilla talks MixTape, Megan Thee Stallion, Dating & Social Media, The Twerking Challenge](https://youtu.be/bIHSnQRCVMM?si=GnjqqH629zLF0Glq) [Ice Spice Has Baby Fever? + She Talks New Album, Gunna, The Bronx](https://www.youtube.com/watch?v=llknoscDK9M) [Latto Speaks on Jason Lee Revealing Her Messy Affair With 21 Savage](https://youtu.be/fyyfRPHMN-k?si=ANRCfTGv_zOU1TnZ) [Latto Is The Queen Of Humbling Dudes ‿( ́ ̵ _-`)‿  The Joe Budden Podcast](https://youtu.be/PRGFxlB36Zk?si=3bnNU-hdlVoQnyY8) [Latto Says Her Man Pays All The Bills + Crazy ATL Strip Club Story](https://www.youtube.com/watch?v=3Fls39A29uo)   [Anycia Reveals Collab With GloRillaTalks How ATL Rap Scene Really Is  More  Acton Entertainment](https://youtu.be/GJtIvBju_Wo?si=0vS2yu-y8NO6l80D) [Monaleo Answers 20 Questions for 2023  MTV's Women In Rap Week](https://youtu.be/26e0VYO-aA4?si=aKFdnT4f79krrkPG) [MONALEO LIVE @ Rolling Loud Miami 2022 ](https://www.youtube.com/watch?v=RO4Er6RWHKA) [Kaliii LIVE @ Rolling Loud New York 2021](https://www.youtube.com/watch?v=powXt9cN55M) [Open Thoughts with Nicki Minaj](https://www.youtube.com/watch?v=Ignr0g9ZHB0)
+
+
+![CosmoPolitan](https://hips.hearstapps.com/hmg-prod/images/screen-shot-2024-05-07-at-4-50-21-pm-663a92f07701c.png?crop=0.764xw:1.00xh;0.134xw,0&resize=980:*)
+
+
+![TMNT](https://m.media-amazon.com/images/I/91pD0WLbJYL._AC_UF1000,1000_QL80_.jpg)
+
+
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+<a href="https://www.retrogames.cc/arcade-games/teenage-mutant-ninja-turtles-japan-2-players.html"><h3>Arcade</h3><img src="https://pbs.twimg.com/media/GW51FBDa8AI2P5E?format=png&name=small"></a>
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+
+<a href="https://archive.org/details/internetarcadeturbo?page=3"><h3>movie</h3><img src="https://pbs.twimg.com/media/GW51IXXbkAAc1lD?format=jpg&name=medium"></a>
+         </div>
+    </div>
+  </div>
+</div>
+
+## Teenage Mutant Ninja Turtles 1990 
+
+<video controls width="100%" height="auto" poster="https://pbs.twimg.com/media/GW55EZPboAAdLG0?format=jpg&name=large">
+
+  <source src="https://archive.org/download/teenage-mutant-ninja-turtles-1990-720p-blu-ray-yts.-mx/Teenage.Mutant.Ninja.Turtles.1990.720p.BluRay.x264-%5BYTS.AM%5D.mp4" type="video/mp4" />
+
+  <source src="https://archive.org/download/teenage-mutant-ninja-turtles-1990-720p-blu-ray-yts.-mx/Teenage.Mutant.Ninja.Turtles.1990.720p.BluRay.x264-%5BYTS.AM%5D.mp4" type="video/mp4" />
+
+  Download the
+  or
+  <a href="https://archive.org/download/teenage-mutant-ninja-turtles-1990-720p-blu-ray-yts.-mx/Teenage.Mutant.Ninja.Turtles.1990.720p.BluRay.x264-%5BYTS.AM%5D.mp4">MP4</a>
+  video.
+</video>
+
+<iframe src="https://archive.org/embed/tmnt_mame" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![TMNT](https://pbs.twimg.com/media/GW59Xgea8AEo9Pr?format=jpg&name=large)
+
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+<a href="https://www.retrogames.cc/nes-games/teenage-mutant-ninja-turtles-tournament-fighters-usa.html"><h3>NES</h3><img src="https://pbs.twimg.com/media/GW5yAESa8AMD3xj?format=jpg&name=large"></a>
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+
+<a href="https://www.retrogames.cc/snes-games/teenage-mutant-ninja-turtles-tournament-fighters-usa.html"><h3>SNES</h3><img src="https://pbs.twimg.com/media/GW5yQFza8AAjv7K?format=jpg&name=large"></a>
+         </div>
+    </div>
+  </div>
+</div>
+
+![TMNTtf](https://pbs.twimg.com/media/GW5w1TKa8AAJNxZ?format=jpg&name=large)
+
+## [Good Times Bad Times - Led Zeppelin](https://youtu.be/g-FR3L1jS5Q?si=TLabKx0o6zz2dV7b)
+
+![Tashi_B](https://pbs.twimg.com/media/GIMBeb3a0AEHgjt?format=jpg&name=medium)
+
+<video controls width="100%" height="auto" poster="https://eoimages.gsfc.nasa.gov/images/imagerecords/152000/152995/globalheat_geos5_20240625_front.jpg">
+    
+<source src="https://eoimages.gsfc.nasa.gov/images/imagerecords/152000/152995/globalheat_geos5_20240625.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://eoimages.gsfc.nasa.gov/images/imagerecords/152000/152995/globalheat_geos5_20240625.mp4">MP4</a>
+        video.
+</video> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/NASA_Landsat?ref_src=twsrc%5Etfw">@NASA_Landsat</a> <a href="https://twitter.com/NASAClimate?ref_src=twsrc%5Etfw">@NASAClimate</a> can u look<a href="https://twitter.com/hashtag/LosAngelesPublicLibrary?src=hash&amp;ref_src=twsrc%5Etfw">#LosAngelesPublicLibrary</a>, <a href="https://twitter.com/hashtag/LosAngelesCounty?src=hash&amp;ref_src=twsrc%5Etfw">#LosAngelesCounty</a>. Latitude and longitude coordinates 34.050259, -118.254837. <a href="https://twitter.com/NASA_Landsat?ref_src=twsrc%5Etfw">@NASA_Landsat</a> <a href="https://twitter.com/NASA_SPoRT?ref_src=twsrc%5Etfw">@NASA_SPoRT</a> <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@NASAJPL</a> thia sludgy alge is concerning me <a href="https://twitter.com/HildaSolis?ref_src=twsrc%5Etfw">@HildaSolis</a> <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> <a href="https://twitter.com/NASAClimate?ref_src=twsrc%5Etfw">@NASAClimate</a> <a href="https://t.co/sAOQheIHZT">https://t.co/sAOQheIHZT</a> <a href="https://t.co/OK3w9QaC7t">pic.twitter.com/OK3w9QaC7t</a></p>&mdash; ThakaRasharD (@MooNLOVER404) <a href="https://twitter.com/MooNLOVER404/status/1823773125043269734?ref_src=twsrc%5Etfw">August 14, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+![Detroit](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153282/lakeeriebloom_oli2_20240813_lrg.jpg)
+Algal blooms have become a common occurrence on Lake Erie, as much a part of summer at the lake as island-hopping, scenic cruises, and roller coasters. In 2024, a bloom of blue-green algae began forming in the lake’s western basin on June 24—the earliest that a bloom has been identified by NOAA since the agency began tracking them in 2002. It was still present in early September. Bloom season can last into October, with its duration depending on the frequency of wind events that mix lake waters in the fall.
+
+When the OLI-2 (Operational Land Imager-2) on Landsat 9 acquired this image on August 13, the bloom covered approximately 320 square miles (830 square kilometers). Since that date, which was the last time Landsat satellites got a clear look at this part of the lake, the bloom would more than double in area to the season’s likely largest extent of 660 square miles (1,700 square kilometers) on August 22.
+
+Phytoplankton blooms carry implications for the lake ecosystem, human health, the local economy, and even municipal water supplies. 
+![PhytoPlankton California](https://eoimages.gsfc.nasa.gov/images/imagerecords/152000/152867/clearlakebloom_oli2_20240515_lrg.jpg)
+An algal bloom clouded the waters of California’s Clear Lake in mid-May 2024. Bright green swirls were visible across most of the lake’s area when the OLI-2 (Operational Land Imager-2) on the Landsat 9 satellite acquired this natural-color image on May 15.
+![LEDZep](https://upload.wikimedia.org/wikipedia/en/3/3d/Gtbtsingle.jpg) "Good Times Bad Times" is a song by the English rock band Led Zeppelin, featured as the opening track on their 1969 debut album Led Zeppelin. The song was Led Zeppelin's first single released in the US, where it reached the Billboard Hot 100 chart. [Led Zeppelin - Good Times Bad Times](https://www.youtube.com/watch?v=g-FR3L1jS5Q)
+[Quit social media  Dr. Cal Newport  TEDxTysons](https://www.youtube.com/watch?v=3E7hkPZ-HTk) [Learning to look up again – controlling your smartphone addiction   Ross Sleight   TEDxLeamingtonSpa](https://www.youtube.com/watch?v=m1_QlV6XCNs) [The Dialect of Black Americans (1970)](https://www.youtube.com/watch?v=l5OYV3ewZQQ) [THE SECRET OF SELLING THE NEGRO (1954)](https://www.youtube.com/watch?v=E8PBrhFN35c) [How Smartphones Change The Way You Think Jeff Butler TEDxHilliard](https://www.youtube.com/watch?v=pWvSwX-jq7o&t=315s) [Learning to look up again – controlling your smartphone addiction  Ross Sleight  TEDxLeamingtonSpa](https://www.youtube.com/watch?v=m1_QlV6XCNs) [From smartphone addiction to human connection  Ritzo ten Cate  TEDxBredaFrom smartphone addiction to human connection  Ritzo ten Cate  TEDxBreda](https://www.youtube.com/watch?v=B-sJ3vJxBiY) [Chappelle's Show - The Niggar Family - Uncensored](https://www.youtube.com/watch?v=hLOw_SzkRQ8) [Chappelle's Show - Charlie Murphy's True Hollywood Stories - Rick James Pt. 1 - Uncensored](https://www.youtube.com/watch?v=ZdVAH8Z5O90) [Chappelle's Show - The Wayne Brady Show - Uncensored](https://www.youtube.com/watch?v=X-zSJljpKNc)
+
+
+## [R̲u̲sh - R̲u̲sh 1974](https://www.youtube.com/watch?v=YeAnzAaN0ZU)
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+<a href="https://www.youtube.com/watch?v=YeAnzAaN0ZU"><img src="https://pbs.twimg.com/media/GW5ATyda8AI___w?format=jpg&name=small"></a>
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+
+<a href="https://www.youtube.com/watch?v=YeAnzAaN0ZU"><img src="https://pbs.twimg.com/media/GW5ALhsa8AEcrnp?format=jpg&name=medium"></a>
+         </div>
+    </div>
+  </div>
+</div>
+
+![Rush](https://i.discogs.com/KLnJUaC8niAaQ3G1pKjBVsbIY-pzdH6zwX7nZv5WHZ0/rs:fit/g:sm/q:90/h:396/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDYy/Njc3LTE1MDkxNTgz/MDYtMTY3Ny5qcGVn.jpeg)
+![RushCassette](https://m.media-amazon.com/images/I/51XLG-OID6L._UF1000,1000_QL80_.jpg)
+![RushCassettpaper](https://i.discogs.com/g50rHMOWF5gCgvzutWavk1aTvYOcVQJGCZfyTWZvDpE/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDYy/Njc3LTE1MDkxNTgy/OTEtNjc4NS5qcGVn.jpeg)
+
+## File name: W00020096.jpg
+Taken: Nov. 28, 2006 5:06 PM
+Received: Nov. 29, 2006 8:55 AM
+
+The camera was pointing toward SATURN-RINGS, and the image was taken using the CL1 and CL2 filters. This image has not been validated or calibrated. A validated/calibrated image will be archived with the NASA Planetary Data System.
+![SaturnRings](https://solarsystem.nasa.gov/images/casJPGFullS26/W00020096.jpg)
+
+<iframe src="https://archive.org/embed/aaliyah-one-in-a-million" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+## There Is Only Now : by Adrian Younge & souls Of Mischief
+<iframe src="https://archive.org/embed/adrianmischiefsthereisonlynow" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+## The Lost Tapes II by Nas
+<iframe src="https://archive.org/embed/nas-the-lost-tapes-2" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+## The Empire strikes Back
+<iframe src="https://archive.org/embed/arcade_esb" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+## Discs of Tron ![DiscsOfTron](https://upload.wikimedia.org/wikipedia/en/d/da/Discs_of_Tron_Flyer.png)
+Discs of Tron is the second arcade video game based on the 1982 Disney film Tron.[2][3] While the first Tron is a collection of four minigames, Discs of Tron is a single game inspired by Tron's disc-battles. It is set in an arena similar to the one in the jai alai–style sequence.
+[Archive](https://archive.org/details/arcade_dotron)
+<iframe src="https://archive.org/embed/arcade_dotron" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+## Run and Gun (ver EAA 1993 10.8)
+<iframe src="https://archive.org/embed/arcade_rungun" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+# CiviC 03
+Erika, im talking about you in here. I forgive you, i have moved on sexually, even tho i still have feelings for you., Im not able to function and have to tell me story. I hope i dont needlessly offend you
+[Updates at ricoThaka](https://ricothaka.github.io/civic03) [ThakaRashard](thakarashard.github.io) Normani I dont know who nicki minaj is but whatever Muna Ahmed was thats the only person i made physical contact with other than you. Erika kissed me b4 it all ended it was gross
+
+![Civic03](https://pbs.twimg.com/media/GWvg0Z6a8AE6ARR?format=jpg&name=large)
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/307011498&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/officialmaryjblige" title="MaryJBlige" target="_blank" style="color: #cccccc; text-decoration: none;">MaryJBlige</a> · <a href="https://soundcloud.com/officialmaryjblige/u-me-love-lesson" title="U + Me (Love Lesson)" target="_blank" style="color: #cccccc; text-decoration: none;">U + Me (Love Lesson)</a></div>
+
+{% include dear-coral-games.md %}
 
 
 ![insight](https://photojournal.jpl.nasa.gov/archive/PIA22892.gif)
@@ -37,7 +244,7 @@ You have to talk about how im being burned and my hair has lice mounds, that sti
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ga0y2Bn_oko?si=RIMk--7f-M63KDbq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
+{% include sega.md %}
 {% include webtools.md %}
 
 [T.I. vs. T.I.P.](https://www.youtube.com/watch?v=m22FBIW8w1k) [DG Yola Fea. Goodie Mob "Get Some Of Dat Yola" ](https://www.youtube.com/watch?v=Rc1v8zcNhpI)
@@ -92,19 +299,6 @@ please let me know if either of these scrambles for you
 
 [BOB MARLEY and THE WAILERS - Soul Rebels LP 1970 Full Album](https://www.youtube.com/watch?v=w967mz2v_BY)
 
-[Quit social media | Dr. Cal Newport | TEDxTysons](https://www.youtube.com/watch?v=3E7hkPZ-HTk)
-[Learning to look up again – controlling your smartphone addiction | Ross Sleight | TEDxLeamingtonSpa](https://www.youtube.com/watch?v=m1_QlV6XCNs)
-
-[The Dialect of Black Americans (1970)](https://www.youtube.com/watch?v=l5OYV3ewZQQ)
-
-[THE SECRET OF SELLING THE NEGRO (1954)](https://www.youtube.com/watch?v=E8PBrhFN35c)
-
-[How Smartphones Change The Way You Think | Jeff Butler | TEDxHilliard](https://www.youtube.com/watch?v=pWvSwX-jq7o&t=315s)
-[Learning to look up again – controlling your smartphone addiction | Ross Sleight | TEDxLeamingtonSpa](https://www.youtube.com/watch?v=m1_QlV6XCNs)
-[From smartphone addiction to human connection | Ritzo ten Cate | TEDxBredaFrom smartphone addiction to human connection | Ritzo ten Cate | TEDxBreda](https://www.youtube.com/watch?v=B-sJ3vJxBiY)
-[Chappelle's Show - The Niggar Family - Uncensored](https://www.youtube.com/watch?v=hLOw_SzkRQ8)
-[Chappelle's Show - Charlie Murphy's True Hollywood Stories - Rick James Pt. 1 - Uncensored](https://www.youtube.com/watch?v=ZdVAH8Z5O90)
-[Chappelle's Show - The Wayne Brady Show - Uncensored](https://www.youtube.com/watch?v=X-zSJljpKNc)
 
 
 [Abandon Ship (feat. Rampage the Last Boy Scout)](https://www.youtube.com/watch?v=pptLcLcRJz4)
@@ -386,17 +580,6 @@ https://mars.nasa.gov/mars2020/multimedia/raw-images/ZR0_0297_0693322301_098ECM_
 
 
 
-![MEGADRiVE](https://upload.wikimedia.org/wikipedia/commons/f/fd/JP_MegaDrive_Logo.gif)
-
-[Sonic the Hedgehog Rev 1](https://archive.org/details/sg_Sonic_the_Hedgehog_Rev_1_1991_Sega_JP-KR_en)
-Sonic the Hedgehog (ソニック・ザ・ヘッジホッグ Sonikku za Hejjihoggu?) is a platform video game developed by Sonic Team and published by Sega for the Sega Mega Drive/Genesis. First released in North America, Europe, and Australia on June 23, 1991, the game is the first installment in the Sonic the Hedgehog series 
-
-
-
-![Sonic1 Not For Resale](https://www.lifewire.com/thmb/8ncd0X34c6dglK5uEdM60asZn8Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Sonic_the_Hedgehog_Coverart-4-5b958f8ac9e77c0082ee596c.jpg)" 
-
-
-
 
 
 
@@ -482,7 +665,7 @@ Back to the Spectacle, there was a man named Percy Riddle he married a lady name
 <iframe width="731" height="729" src="https://www.youtube.com/embed/SReOKWeSKRM" title="Love Under New Management" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-[5 Classic Books Every Designer Should Have by Margaret Penney | November 11, 2016](https://www.sessions.edu/notes-on-design/5-classic-books-every-designer-should-have/)
+[5 Classic Books Every Designer Should Have by Margaret Penney November 11 2016](https://www.sessions.edu/notes-on-design/5-classic-books-every-designer-should-have/)
 
 <div class="twoPanelSpread">
   <div class="row">
@@ -554,7 +737,7 @@ A grid system provides an easy way for designers to structure and present conten
 ![Cardi like missed messages](https://pbs.twimg.com/media/GV3Yjl5bMAAreIG?format=jpg&name=large)
 
 {% include computing.md %}
-{% include sega.md %}
+
 
 
 ![pickup](https://pbs.twimg.com/media/GVyF015a8AEOLYG?format=jpg&name=large)
