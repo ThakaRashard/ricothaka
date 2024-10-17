@@ -26,7 +26,7 @@ html {
   background-size: 30px 30px;
      font-family: "VT323", monospace; */
      --s: 32px; /* control the size*/
-     --c1: #1d1d1d;
+     --c1: #0D0D0D;
      --c2: #4e4f51;
      --c3: #3c3c3c;
      
@@ -470,6 +470,7 @@ embed {
   width: 100%;
   display: block;
   text-align: center;
+  border-bottom: 1px solid #b5e853;;
 }
 
 iframe {
@@ -674,6 +675,20 @@ embed {
 }
 
 
+img[src*="usgs.gov"] {
+  width: 100%;
+  border-bottom:solid 10px #c9ff23;
+  
+  }
+img[src*="nasa.gov"] {
+width: 100%;
+border-bottom:solid 10px #c9ff23;
+
+}
+img[alt="kk"] {
+  width: 100%;
+  
+}
 img[alt="whiteslavery"] {
   max-width: 15%;
   float: right;
@@ -682,6 +697,7 @@ img[alt="whiteslavery40"] {
   max-width: 40%;
   transform: rotate(45deg);
 }
+
 
 .gallery-wrap {
   display: flex;
