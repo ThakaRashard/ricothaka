@@ -1,3 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Mono:ital,wght@0,300..700;1,300..700&display=swap');
+@import "rouge-base16-dark";
+@font-face {
+  font-family: Cluster;
+  src: url(https://raw.githubusercontent.com/ThakaRashard/thakarashardOLD/master/assets/fonts/clusrg__.ttf);
+}
+
+html {
+  font-family: "Red Hat Mono", monospace;
+font-optical-sizing: auto;
+
+}
+
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -56,10 +70,23 @@ body {
               #fb3 25%, #58a 0, #58a 50%,
               #fb3 0, #fb3 75%, #58a 0);
 background-size: 80.4px 80.4px;
+
+  background-attachment: fixed;
+  
+}
+/*
+body {
+  
+  background: linear-gradient(45deg, 
+              #fb3 25%, #58a 0, #58a 50%,
+              #fb3 0, #fb3 75%, #58a 0);
+background-size: 70.4px 70.4px;
    font-family: "VT323", monospace;
   background-attachment: fixed;
   
 }
+  */
+
 #wrapper
 {
 margin:0 auto;
@@ -72,12 +99,153 @@ margin:0 auto;
   grid-template-rows: auto auto auto;
   background-color: black;
   color:white;
-  padding:5px;
+  top: 0;
+  padding: 0px;
   position:fixed;
   width:100%;
   width:50vw;
   
 }
+
+
+/*
+#heading {
+
+  flex-wrap:nowrap;
+    width:50vw;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
+    0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
+   position:fixed;
+    display: grid;
+grid-template-rows: auto auto auto;
+    background-color: black;
+  color:white;
+  padding:5px;
+  position:fixed;
+
+} */
+
+.logo {
+  float: left;
+  background-color: black;
+  display: block;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+  color: white;
+}
+
+li {
+  display: inline;
+  position: relative;
+  color: white;
+}
+
+ul ul {
+  position: absolute;
+  display: none;
+}
+
+li:hover ul {
+  display: block;
+}
+
+.logo {
+  float: left;
+  background-color: black;
+  display: block;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+  color: white;
+}
+
+li {
+  display: inline;
+  position: relative;
+  color: white;
+}
+
+ul ul {
+  position: absolute;
+  display: none;
+}
+
+li:hover ul {
+  display: block;
+}
+
+#navcontainer {
+  display:block;
+  padding: 0;
+  top: 0;
+width: 55vw;
+  height: 20px;
+  display: flex;
+  background-color: black;
+  position: fixed;
+  color: white;
+  top: 0;
+}
+
+#navcontainer ul {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-align: center;
+}
+
+#navcontainer ul li {
+  display: block;
+
+  float: right;
+  text-align: center;
+  padding: 0px;
+  margin: 0;
+}
+
+#navcontainer ul li a {
+  width: 100px;
+  height: max-content;
+  background: #262626;
+  border-left: 1px dashed #f5d7b4;
+  border-bottom: 1px solid #262626;
+  border-right: 1px solid #262626;
+  padding: 0;
+  margin: 0 0 0px 0;
+  color: #a6a6a6;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+}
+
+#navcontainer ul li a:hover {
+  color: #f2f2f2;
+  background: #262626;
+  border-top: 1px solid magenta;
+}
+
+#navcontainer a:active {
+  background: #262626;
+  color: #fff;
+}
+
+#navcontainer li#active a {
+  background: #262626;
+  border-right: 4px solid #2e97f2;
+  color: #fff;
+}
+.css3badge {
+  display: inline;
+  float: right;
+  flex-wrap: nowrap;
+}
+
 
 #main {
 
@@ -98,20 +266,9 @@ grid-template-rows: auto auto auto;
 }
 
 
-body {
-  
-  background: linear-gradient(45deg, 
-              #fb3 25%, #58a 0, #58a 50%,
-              #fb3 0, #fb3 75%, #58a 0);
-background-size: 70.4px 70.4px;
-   font-family: "VT323", monospace;
-  background-attachment: fixed;
-  
-}
+
 p {
   display:inline;
-  font-family: "VT323", monospace;
-  font-weight: 300;
   text-align: center;
   color:white;
     background: transparent
@@ -119,8 +276,8 @@ p {
     center repeat;
 }
 ::selection {
-color: white;
-background: cyan;
+color: #F2E205
+background: #595302;
 }
 p::first-letter {
   font-size: 2rem;
@@ -129,7 +286,7 @@ p::first-letter {
   color: cyan;
 }
 p:first-of-type {
-  animation-duration: 3s;
+  animation-duration: 4s;
   animation-name: slidein;
 }
 h1,
@@ -145,7 +302,18 @@ h3 {
   text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
     0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
 }
-
+h2 {
+  word-spacing: -.2ch;
+  font-kerning: auto;
+  letter-spacing: 2pt;
+  background: transparent
+   url(https://photojournal.jpl.nasa.gov/jpeg/PIA20753.jpg) center repeat;
+  font-size: 30pt;
+  color: white;
+  font-family: Cluster;
+  word-break: break-all; 
+  width: 100%;
+}
 /*
 #content {
 
