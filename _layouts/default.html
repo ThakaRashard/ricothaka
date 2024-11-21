@@ -14,7 +14,8 @@
 
 <body>
   <div id="wrapper">
-  <div id="MAiN">
+  <div id="MAiN" class="floatleft floatright">
+    <div id="playlist">
     <div class="swatch">
       <div></div>
       <div></div>
@@ -132,83 +133,64 @@
       <div></div>
       <div></div>
       </div>
+
+
+
+    </div>
+
+
+
+
+
+
+
+
+    
     <div id="navcontainer">
       <div class="logo">./HoleToAnotherUniverse=></div>
       <ul id="navlist">
-        
-       <li>
-          
-          <ul>
 
+       <li>
+
+          <ul>
+            <li><a href="https://ricothaka.github.io/marsblog1.html">MarsArchive1</a></li>
+            <li><a href="https://ricothaka.github.io/marsblog.html">MarsArchive2</a></li>
           </ul>
         </li>
             <li>
-          <a href="{{ site.url }}{{ site.baseurl }}/compiling/index.html">ComPiLinG</a>
+          <a href="https://ricothaka.github.io/compiling/index.html">ComPiLinG</a>
           <ul>
-            
-            <!-- <li><a href="{{ site.url }}{{ site.baseurl }}/bubblegumpop24/">BubbleguMPoP</a></li> -->
-            
-            
+            <a href="https://ricothaka.github.io/worknotes">WorkNoteS</a>
+            <!-- <li><a href="https://ricothaka.github.io/bubblegumpop24/">BubbleguMPoP</a></li> -->
+            <li><a href="https://ricothaka.github.io/htau.html">BubbleguMPoP</a></li>
+            <li><a href="https://ricothaka.github.io/holetoanotheruniverse/">Hole2AnotherUniversE</a></li>
 
           </ul>
         </li>
          <li>
-          <a href="{{ site.url }}{{ site.baseurl }}/">Home</a>
+          <a href="https://ricothaka.github.io/">Home</a>
           <ul>
-            <a href="{{ site.url }}{{ site.baseurl }}/compiling/index.html">ComPiLinG</a>
-            <li><a href="https://thakarashard.github.io/">FAiLOVER</a></li>
-            <li><a href="{{ site.url }}{{ site.baseurl }}/civic01">civic</a></li>
-            <li><a href="{{ site.url }}{{ site.baseurl }}/marsblog1.html">MarsArchive1</a></li>
-            <li><a href="{{ site.url }}{{ site.baseurl }}/marsblog.html">MarsArchive2</a></li>
-            <li><a href="{{ site.url }}{{ site.baseurl }}/cv">resume</a></li>
-            <li><a href="{{ site.url }}{{ site.baseurl }}/worknotes">WorkNoteS<</a></li>
-            <li><a href="{{ site.url }}{{ site.baseurl }}/htau.html">BubbleguMPoP</a></li>
-            <li><a href="https://ricothaka.github.io/twitters.html">TwitterS</a></li>
-            <li><a href="https://moonlov3r.wordpress.com/blog-feed/">WordPress</a></li>
+            <li><a href="https://thakarashard.github.io/rashardmro">MarsBlog</a></li>
+            <li><a href="https://ricothaka.github.io/compiling/">Compiling</a></li>
+            <li><a href="https://ricothaka.github.io/astronomy">AstronomY</a></li>
+            <li><a href="https://ricothaka.github.io/normani">Normani</a></li>
+            <li><a href="https://thakarashard.github.io/">ThakaRashard</a></li>
+            <li><a href="https://ricothaka.github.io/twitters">TwitterS</a></li>
+            <li><a href="https://ricothaka.github.io/cv">curriculum vitae</a></li>
+            <li><a href="https://ricothaka.github.io/rashardlearned">RashardLearned</a></li>
+            <li><a href="https://moonlov3r.wordpress.com/blog-feed/">moonlov3r - WP</a></li>
             <li><a href="https://bubblegumpop01.tumblr.com/">BubbleGumPop01</a></li>
             <li><a href="https://bubblegumfm01.tumblr.com/">BubbleGumFM</a></li>
-            <li><a href="{{ site.url }}{{ site.baseurl }}/holetoanotheruniverse/">Hole2AnotherUniversE</a></li>
            </ul>
         </li>
 
       </ul>
-      <a href="{{ "/" | prepend: site.baseurl | replace: '//', '/' }}">
-        {% assign owner_first_name = site.owner | split: " " %}
-        {{ owner_first_name[0] | downcase }}localhost.localdomain
+      <a href="ricothaka.github.io">
+
+        localhost.localdomain
         </a>
     </div>
-    
-    <div class="oncall">
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-    </div>
 
-    <div class="gullies">
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-    </div>
-    <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1421706457&color=%231f9c6f&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/wearedelasoul" title="De La Soul" target="_blank" style="color: #cccccc; text-decoration: none;">De La Soul</a> · <a href="https://soundcloud.com/wearedelasoul/area-1" title="Area" target="_blank" style="color: #cccccc; text-decoration: none;">Area</a></div>
-    <div class="viking">
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-    </div>
-
-    <div class="normani">
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-    </div>
 
     {{ content }}
     <div class="swatch">
@@ -1545,6 +1527,7 @@
       <div></div>
 
     </div>
+<h6>HoleToAnotherUniverse</h6>   
     <div id="footer">
 
     
@@ -1579,11 +1562,17 @@
   </div>
   <script type="text/javascript" src="/js/lightbox.js"></script>
 <link rel="stylesheet" href="/css/lightbox.css">
-{% if page.mermaid %}
-<script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
-<script>mermaid.initialize({startOnLoad:true});</script>
-{% endif %}
+
+
+
+
+
 
 </body>
+
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({ startOnLoad: true });
+</script>
 
 </html>

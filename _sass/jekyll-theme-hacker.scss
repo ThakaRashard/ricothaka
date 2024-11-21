@@ -1,59 +1,130 @@
 @import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Roboto+Mono:ital,wght@0,200;0,400;0,700;1,200;1,400;1,700&family=Silkscreen:wght@400;700&family=Trade+Winds&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anybody:wght@900&family=Fredoka+One&display=swap');
 @import "normalize";
 @import "fonts";
-@import url("https://fonts.googleapis.com/css2?family=Martian+Mono:wght@100..800&display=swap");
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
-@import url('https://cdn.rawgit.com/lonekorean/gist-syntax-themes/d49b91b3/stylesheets/idle-fingers.css');
+@import "rouge-base16-dark";
+@import "_media.css";
 @font-face {
   font-family: Cluster;
   src: url(https://raw.githubusercontent.com/ThakaRashard/thakarashardOLD/master/assets/fonts/clusrg__.ttf);
 }
+@import "default_colors";
 
+$body-background: $cod-grey !default;
+$body-foreground: $gallery !default;
+$header: $conifer !default;
+$blockquote-color: $silver-chalice !default;
+$blockquote-border: $dove-grey !default;
+$container-max-width: 1000px;
 
-
-
-html {
-    /* font: normal 15px/19px "IBM Plex Sans","VT323", "Lucida Sans Unicode", verdana, lucida,
-    sans-serif; */
-    font: normal 15px/19px "Martian Mono", 'IBM Plex Sans', "Lucida Sans Unicode", verdana, lucida, sans-serif; 
-  background : #0D0D0D;
-  background-image :
-    linear-gradient(#262626 1px, transparent 0),
-    linear-gradient(90deg, #262626 1px, transparent 0);
-  background-size: 30px 30px;
-    /* font-family: "VT323", monospace; */
-    font-family: "Martian Mono", monospace; 
-    background-attachment: fixed;   
-    height: 100%;
-    width: 100%;
+@mixin media-max-width($max-width) {
+  @media (max-width: $max-width) {
+      @content;
   }
-
-p {
-  padding:6px;
-  display: flex;
-  text-align: left;
-  color: white;
-  background: transparent
-  url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
-  center repeat;
-  /* background: black; */
-  /* background: linear-gradient(90deg, black 0%, rgba(38,38,38,0.7049194677871149) 35%, rgba(89,89,89,0.5900735294117647) 100%); */
-  border-left: 1px solid dodgerblue;
-  border-right: 1px solid #BFBFBF;
-  column-count: auto;
-  column-fill: balance-all;
-  word-break: break-all;
-  hyphens: auto;
-  display:block;
 }
 
 
 
+html {
+  
+  font-family: "IBM Plex Sans", "vt323", Arial, sans-serif, "Comfortaa", -apple-system, Ubuntu, "Ariel Black", Verdana;
+  font-size: 1rem;
+background : #0D0D0D;
+background-image :
+  linear-gradient(#262626 1px, transparent 0),
+  linear-gradient(90deg, #262626 1px, transparent 0);
+background-size: 30px 30px;
+  background-attachment: fixed;   
+    height: 100vh;
+    width: 100vw;
+  }
+
+
+  p {
+    display: flex;
+    text-align: left;
+    margin-top:10px;
+    margin-bottom:10px;
+    font-size: 1.2rem;
+    display: block;
+    text-align: left;
+    color: white;
+    text-shadow: 0 0 5px rgba(242, 242, 242, 0.5);
+    background: transparent
+    url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
+    center repeat;
+     background: black; 
+    background: linear-gradient(90deg, black 0%, rgba(38,38,38,0.7049194677871149) 35%, rgba(89,89,89,0.5900735294117647) 100%); 
+    border-left: 1px solid grey;
+    border-right: 1px solid grey;
+    column-count: auto;
+    column-fill: balance-all;
+    word-break: break-word;
+    hyphens: auto;
+    display:block;
+  }
+
+
+.floatright img:nth-child(odd) {
+  float: right;
+}
+.floatleft img:nth-child(even) {
+  float: left;
+  border-bottom: solid 10px #ffffff50;
+}
+
+h1 {
+ /* font: normal 14px/18px "Arial Black", "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 3em;
+   color: white;
+  text-shadow: rgba(255,255,255,1) 0px 0px 6px;
+  background: linear-gradient(45deg, 
+ #F2D338 25%, #262626 0, #262626 50%,
+ #F2D338 0, #F2D338 75%, #262626 0);
+background-size: 80.4px 80.4px; */
+display: block;
+line-height: 1.7rem;
+font: normal 14px/18px 'Fredoka One', 'Anybody', -apple-system, Ubuntu, "Ariel Black", Verdana;
+font-size: 3rem;
+word-break: break-all;
+color: #fff;
+text-shadow:
+
+      0 0 42px #0DCBFF,
+      0 0 82px #0DCBFF,
+      0 0 92px #0DCBFF,
+      0 0 102px #0DCBFF,
+      0 0 125px #0DCBFF;
+
+}
+
+
+h2 {
+  word-spacing: -.2ch;
+  font-kerning: auto;
+  letter-spacing: 2pt;
+  background: transparent
+   url(https://photojournal.jpl.nasa.gov/jpeg/PIA20753.jpg) center repeat;
+  font-size: 30pt;
+  color: white;
+  font-family: Cluster;
+  word-break: break-all; 
+  width: 100%;
+}
 
 
 
+h3 {
+  
+  text-shadow:
+  0 0 7px white,
+  0 0 10px #2e97f2,
+  0 0 21px white,
+  0 0 42px white;
 
+
+}
 h1,
 h2,
 h3,
@@ -64,11 +135,70 @@ h6 {
   background: transparent
     url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
     center repeat;
-  font-weight: 900;
-  margin: 5px;
-  padding: 5px;
 
 }
+
+h6 {
+
+  display: block;
+  word-break: break-all;
+font-size: 3rem;
+  line-height: 1.7rem;
+  margin: auto;
+  font-family: 'Fredoka One', 'Anybody', -apple-system, Ubuntu, "Ariel Black", Verdana;
+    text-shadow:
+
+        0 0 42px #0DCBFF,
+        0 0 82px #0DCBFF,
+        0 0 92px #0DCBFF,
+        0 0 102px #0DCBFF,
+        0 0 125px #0DCBFF;
+    letter-spacing: -1px;
+
+}
+
+
+h4 {
+width: 100%;
+text-shadow:
+  0 0 7px white,
+  0 0 10px #2e97f2,
+  0 0 21px white,
+  0 0 42px white;
+
+}
+
+
+.featured-post {
+  height: 400px;
+  margin: 0px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.featured-post h2 {
+  bottom: 0;
+  margin: 0;
+  padding: 10px;
+  position: absolute;
+}
+.featured-post h2 span {
+  display: inline-block;
+  color: white;
+  font: bold 24px/45px Helvetica, Sans-Serif;
+  letter-spacing: -1px;
+  background: rgb(0, 0, 0); /* fallback color */
+  background: rgba(0, 0, 0, 0.7);
+  padding: 10px;
+}
+.featured-post span a {
+  color: white;
+}
+.featured-post h1 {
+  margin: 10px;
+}
+
 
 body {
   /* seems resource heavy text-shadow: 0 0 11px #ffffff;
@@ -78,6 +208,20 @@ body {
 }
 
 
+img[src*="Midway_Games_logo"] {background: transparent
+  url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-white.gif)
+  center repeat; width: 100%;}
+img[src*="6071cc4b982fd393d892490ed7a702738c595099"] {background: transparent
+  url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-white.gif)
+  center repeat; width: 100%;}
+  img[src*="859740137800_cover.jpg/1200x1200bf-60.jpg"] {width: 25%; border: 5px solid #003da550;}
+img[src*="workflows/ci.yaml/badge.svg"] {width: 100%;}
+img[src*="https://badge.fury.io"] {width: 100%;}
+img[src*="img.shields.io/badge/Social-ricoThaka"] {width: 100%;}
+svg { width: max-content;
+display: inline-block; }
+
+  /*
 p {
   display: flex;
   text-align: left;
@@ -92,6 +236,8 @@ p {
   hyphens: auto;
   display:block;
 }
+
+*/
 @keyframes slidein {
   from {
     margin-right: 100%;
@@ -140,7 +286,7 @@ p:first-of-type {
 #MAiN {
   margin: 0 auto;
   width: 55vw;
-  height: 99vh;
+  height: 100vh;
   margin: auto;
   
 
@@ -221,8 +367,9 @@ li:hover ul {
 }
 
 #navcontainer {
+  display:block;
   padding: 0;
-
+width: 55vw;
   height: 20px;
   display: flex;
   background-color: black;
@@ -279,56 +426,12 @@ li:hover ul {
   border-right: 4px solid #2e97f2;
   color: #fff;
 }
-
 .css3badge {
   display: inline;
   float: right;
   flex-wrap: nowrap;
 }
-h1 {
-  font-size: 170%;
-  color: white;
-  /* background: linear-gradient(45deg, 
- #F2D338 25%, #262626 0, #262626 50%,
- #F2D338 0, #F2D338 75%, #262626 0);
-background-size: 80.4px 80.4px; */
-  font-family: "VT323", monospace;
 
-  background-color: #6d695c;
-  background-image:
-  repeating-linear-gradient(120deg, rgba(255,255,255,.1), rgba(255,255,255,.1) 1px, transparent 1px, transparent 60px),
-  repeating-linear-gradient(60deg, rgba(255,255,255,.1), rgba(255,255,255,.1) 1px, transparent 1px, transparent 60px),
-  linear-gradient(60deg, rgba(0,0,0,.1) 25%, transparent 25%, transparent 75%, rgba(0,0,0,.1) 75%, rgba(0,0,0,.1)),
-  linear-gradient(120deg, rgba(0,0,0,.1) 25%, transparent 25%, transparent 75%, rgba(0,0,0,.1) 75%, rgba(0,0,0,.1));
-  background-size: 70px 120px;
-  background-attachment: fixed;
-}
-
-
-h2 {
-  word-spacing: -.2ch;
-  font-kerning: auto;
-  letter-spacing: 2pt;
-  background: transparent
-   url(https://photojournal.jpl.nasa.gov/jpeg/PIA20753.jpg) center repeat;
-  font-size: 30pt;
-  color: white;
-  font-family: Cluster;
-  word-break: break-all; 
-}
-
-
-
-h3 {
-  
-  text-shadow:
-  0 0 7px white,
-  0 0 10px #2e97f2,
-  0 0 21px white,
-  0 0 42px white;
-
-
-}
 
 /* Buttons
 */
@@ -345,22 +448,29 @@ ul li {
 }
 
 blockquote {
-  color: aqua;
-  padding-left: 10px;
-  margin-right:10px;
-  border-left: 1px dotted yellow;
+  font: normal 15px/19px "Martian Mono", 'IBM Plex Sans', "Lucida Sans Unicode", verdana, lucida, sans-serif;  
+  padding-left: 20px;
+  color:white;
+  text-shadow: 1px 1px 2px white;
+  margin-right:20px;
+  border-left: 2px dotted yellow;
+  background: transparent
+  url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
+  center repeat;
 }
 
 pre {
   background: rgba(0, 0, 0, 0.9);
   border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 2px;
   padding: 10px;
   font-size: 16px;
   color: #b5e853;
-  border-radius: 0px;
   word-wrap: normal;
   overflow: auto;
   overflow-y: hidden;
+
+
 }
 
 code.highlighter-rouge {
@@ -426,24 +536,15 @@ hr {
   }
 */
 
-img:nth-child(odd) {
-  float: right;
-}
-img:nth-child(even) {
-float: left;
-}
 
-img {
-  display: block;
-  max-height: 100%;
-  max-width: 100%;
-}
+
 
 
 embed {
   width: 100%;
   display: block;
   text-align: center;
+  border-bottom: 1px solid #b5e853;;
 }
 
 iframe {
@@ -505,21 +606,30 @@ hr {
 
 a:hover,
 a:visited a:hover {
-  font-size: 130%;
-  padding: 5px;
-  color:#0dd9c4 ;
-  ;
+  /*font-size: 130%; */
+  color: #63c0f5;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  
+  
 
 }
 
 a {
-  color: #63c0f5;
-  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
-  transition: all .2s ease-out;
+  padding: 0px;
+  color:#29F247 ;
+  text-shadow: 0 0 5px rgba(41, 242, 71, 0.5);
+ 
 
 
 }
-
+.crt {
+  padding: 50px;
+  background: black;
+}
+img.crt {
+  padding: 50px;
+  background: black;
+}
 video {
   height: 400px;
   width: 100%;
@@ -648,14 +758,8 @@ embed {
 }
 
 
-img[alt="whiteslavery"] {
-  max-width: 15%;
-  float: right;
-}
-img[alt="whiteslavery40"] {
-  max-width: 40%;
-  transform: rotate(45deg);
-}
+
+
 
 .gallery-wrap {
   display: flex;
@@ -845,11 +949,21 @@ img[alt="whiteslavery40"] {
   background: #f2b29b;
   border-radius: 1px;
 }
-
 .swatch {
-  /*display: grid;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  position:relative;
+  opacity: 1;
+  max-width: max-content;
+
+
+}
+
+/* .swatch {
+  display: grid;
   grid-gap: 5px;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr; 
     grid-gap: 0px;
     grid-template-columns: 1fr 2fr 1fr 1fr ; 
     display: flex;
@@ -859,15 +973,40 @@ img[alt="whiteslavery40"] {
     opacity: 1;
     max-width: max-content;
 animation: 1s ease-out 0s 1 slideInFromLeft;
+animation: 1s ease-in 3s 1 saturate;
 
 }
-
+*/
 .swatch div {
   flex: 1 1 auto;
-  padding: 5px 40px;
-  
+  padding: 5px 25px;
+  animation-direction: alternate;
+
 } 
 
+.swatch div:nth-child(odd) {
+  animation: 4s ease-out 3s 1 slideInFromLeft;
+  animation-direction: alternate;
+}
+.swatch div:nth-child(even) {
+  animation: 4s ease-out 3s 1 slideInFromRight;
+  animation-direction: alternate;
+}
+.swatch:nth-child(5n-9) {  /* or 4n+1 */
+  animation: 2s ease-out 0s 1 slideInFromLeft;
+}
+.swatch.swatch:nth-child(5n-9) {  /* or 4n+1 */
+  animation: 2s ease-in 1s 1 slideInFromRight;
+}
+
+@keyframes slideInFromRight {
+    0% {
+        transform: translateX(100%);
+    }
+    100% {
+        transform: translateX(0);
+    }
+}
 @keyframes slideInFromLeft {
     0% {
         transform: translateX(-100%);
@@ -877,6 +1016,59 @@ animation: 1s ease-out 0s 1 slideInFromLeft;
     }
 }
 
+@keyframes blur {
+    0% {
+        filter: blur(1.5rem);
+    }
+    100% {
+        filter: blur(0rem);
+    }
+}
+
+@keyframes flip {
+    0% {
+        filter: blur(1.5rem);
+      transform: rotateZ(90deg);
+    }
+    100% {
+        filter: blur(0rem);
+      transform: rotateZ(0deg);
+    }
+}
+@keyframes saturate {
+    0% {
+
+      filter: saturate(7);
+    }
+    100% {
+
+      filter: saturate(3);
+    }
+}
+
+@keyframes scale {
+    0% {
+
+      transform: scale( 2, 2);
+    }
+    100% {
+
+      transform: scale(4, 1);
+
+    }
+}
+
+@keyframes rotate {
+    0% {
+
+      transform: rotate(300.142rad);
+    }
+    100% {
+
+      transform: rotate(0rad);
+
+    }
+}
 .swatch div:nth-child(1) {
   background: #352ef2;
   border-radius: 0px;
@@ -967,7 +1159,7 @@ animation: 1s ease-out 0s 1 slideInFromLeft;
   background: #ff7276;
 }
 .swatch div:nth-child(27) {
-  background: #ff3eb5;
+  background: #ff3eb5;animation: 1s ease-out 0s 1 slideInFromRight;
 }
 .swatch div:nth-child(28) {
   background: #ea27c2;
@@ -994,7 +1186,7 @@ animation: 1s ease-out 0s 1 slideInFromLeft;
   background: #8a8d8f;
 }
 .swatch div:nth-child(36) {
-  background: #ffd900;
+  background: #ffd900;animation: 0.2s ease-out 0s 1 slideInFromRight;
 }
 .swatch div:nth-child(37) {
   background: #ff5e00;
@@ -1024,7 +1216,7 @@ animation: 1s ease-out 0s 1 slideInFromLeft;
 .swatch div:nth-child(45) {
   background: #222223;
   animation: 3s ease-out 0s 1 slideInFromLeft;
-  
+
 }
 .swatch div:nth-child(46) {
   background: #f6eb61;
@@ -1081,7 +1273,7 @@ animation: 1s ease-out 0s 1 slideInFromLeft;
   background: #daaa00;
 }
 .swatch div:nth-child(64) {
-  background: #aa8a00;
+  background: #aa8a00;animation: 1s ease-out 0s 1 slideInFromRight;
 }
 .swatch div:nth-child(65) {
   background: #9c8412;
@@ -1093,7 +1285,7 @@ animation: 1s ease-out 0s 1 slideInFromLeft;
   background: #fbdd40;
 }
 .swatch div:nth-child(68) {
-  background: #fdda24;
+  background: #fdda24;animation: 1s ease-out 0s 1 slideInFromRight;
 }
 .swatch div:nth-child(69) {
   background: #ffcd00;
@@ -1117,7 +1309,7 @@ animation: 1s ease-out 0s 1 slideInFromLeft;
   background: #f3d03e;
 }
 .swatch div:nth-child(76) {
-  background: #f2a900;
+  background: #f2a900;animation: 1s ease-out 0s 1 slideInFromRight;
 }
 .swatch div:nth-child(77) {
   background: #cc8a00;
@@ -2870,7 +3062,7 @@ animation: 1s ease-out 0s 1 slideInFromLeft;
   background: #7a99ac;
 }
 .swatch div:nth-child(660) {
-  background: #5b7f95;
+  background: #5b7f95;animation: 3s ease-out 0s 1 slideInFromRight;
 }
 .swatch div:nth-child(661) {
   background: #4f758b;
@@ -4897,7 +5089,7 @@ animation: 1s ease-out 0s 1 slideInFromLeft;
   display: flex;
   flex-wrap: wrap;
   width: 100%;
-  height: 80px;
+  height: 10px;
 }
 .normani div:nth-child(1) {
   background: #f2e205;
@@ -4917,9 +5109,10 @@ animation: 1s ease-out 0s 1 slideInFromLeft;
 }
 
 .normani div {
-  flex: 0 1 200px;
-  flex: 1 1 200px;
-  padding: 0px;
+  flex: 1 1 auto;
+  display:flex;
+  animation-direction: alternate;
+
 }
 
 .gullies {
@@ -4929,36 +5122,43 @@ animation: 1s ease-out 0s 1 slideInFromLeft;
   display: flex;
   flex-wrap: wrap;
   width: 100%;
-  height: 2em;
+  height: 1em;
+
 }
 .gullies div:nth-child(1) {
   background: #3029f2;
     animation: .2s ease-out 0s 1 slideInFromLeft;
+ 
+
 }
 .gullies div:nth-child(2) {
   background: #446ff2;
+  animation: .2s ease-out 0s 1 slideInFromRight;
+  
 }
 .gullies div:nth-child(3) {
   background: #3098f2;
-  animation: .8s ease-out 0s 1 slideInFromLeft;
+  animation: .8s ease-in 0s 1 slideInFromLeft;
+  
 }
 .gullies div:nth-child(4) {
   background: #0dd9c4;
-  animation: .9s ease-out 0s 1 slideInFromLeft;
+  animation: .9s ease-in 0s 1 slideInFromRight;
+  
 }
 .gullies div:nth-child(5) {
   background: #3df28b;
-     
-    animation: 3s infinite alternate 0s 1 slideInFromLeft;  
-  
+    
+  animation: .8s ease-in 0s 1 slideInFromLeft;  
+
 }
 
 .gullies div {
-  flex: 0 1 200px;
-  flex: 1 1 200px;
-  padding: 0px;
+  flex: 1 1 auto;
+  padding: 15px 15px;
+  animation-direction: alternate;
 
-  
+
 }
 
 .oncall {
@@ -4968,7 +5168,7 @@ animation: 1s ease-out 0s 1 slideInFromLeft;
   display: flex;
   flex-wrap: wrap;
   width: 100%;
-  height: 5%;
+  height: 1em;
 }
 .oncall div:nth-child(1) {
   background: #f2a922;
@@ -4982,16 +5182,18 @@ animation: 1s ease-out 0s 1 slideInFromLeft;
 }
 .oncall div:nth-child(4) {
   background: #732e07;
+
 }
 .oncall div:nth-child(5) {
   background: #bf3706;
 }
 
 .oncall div {
-  flex: 0 1 200px;
-  flex: 1 1 200px;
-  padding: 0px;
+  flex: 1 1 auto;
+  padding: 15px 15px;
+  animation-direction: alternate;
     animation: 1s ease-out 0s 1 slideInFromLeft;
+
 }
 
 #a-title {
@@ -5005,7 +5207,7 @@ animation: 1s ease-out 0s 1 slideInFromLeft;
   display: flex;
   flex-wrap: wrap;
   width: 100%;
-  height: 3em;
+  height: 1em;
 
 }
 
@@ -5017,9 +5219,9 @@ animation: 1s ease-out 0s 1 slideInFromLeft;
 
 .megan div {
 
-  flex: 0 1 200px;
-  flex: 1 1 200px;
-  padding: 0px;
+  flex: 1 1 auto;
+  padding: 15px 15px;
+  animation-direction: alternate;
 
 }
 
@@ -5033,10 +5235,10 @@ animation: 1s ease-out 0s 1 slideInFromLeft;
   display: flex;
   flex-wrap: wrap;
   width: 100%;
-  height: 3em;
+  height: 1em;
 
 }
-.viking div:nth-child(1) { background: #F2F2F2;}
+.viking div:nth-child(1) { background: #F2F2F2; }
 .viking div:nth-child(2) { background: #73463C;}
 .viking div:nth-child(3) { background: #8C564A;}
 .viking div:nth-child(4) { background: #260101;}
@@ -5044,9 +5246,10 @@ animation: 1s ease-out 0s 1 slideInFromLeft;
 
 .viking div {
 
-  flex: 0 1 200px;
-  flex: 1 1 200px;
+  
+  flex: 1 1 100px;
   padding: 0px;
+
 
 }
 
@@ -5058,27 +5261,26 @@ animation: 1s ease-out 0s 1 slideInFromLeft;
   display: flex;
   flex-wrap: nowrap;
   width: 100%;
-  height: 80px;
+  height: 30px;
 
 }
-.vikingbright div:nth-child(1) { background: #F2F2F2;}
+.vikingbright div:nth-child(1) { background: #F2F2F2;animation: 1s ease-out 0s 1 flip}
 .vikingbright div:nth-child(2) { background: #D9AA71;}
 .vikingbright div:nth-child(3) { background: #A65F46;}
 .vikingbright div:nth-child(4) { background: #73463C;}
-.vikingbright div:nth-child(5) { background: #0D0000;}
+.vikingbright div:nth-child(5) { background: #0D0000;animation: 1s ease-out 0s 1 flip;}
 
 .vikingbright div {
 
-  flex: 0 1 200px;
-  flex: 1 1 200px;
-  padding: 0px;
+  flex: 1 1 auto;
+  padding: 5px 5px;
+  animation-direction: alternate;
 
 }
 
 #a-title {
   text-decoration: none;
 }
-
 
 
 
@@ -5153,4 +5355,95 @@ audio:hover, audio:focus, audio:active
 -webkit-transform: scale(1.05);
 -moz-transform: scale(1.05);
 transform: scale(1.05);
+}
+
+
+.gallery-rover {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 70vh;
+}
+
+.item {
+  flex: 1;
+  height: 100%;
+  background-position: center;
+  background-size: cover;
+  background-repeat: none;
+  transition: flex 0.8s ease;
+  
+  &:hover{
+    flex: 7;
+  }
+}
+
+.item-rover1 { 
+  background-image: url('https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00450/ids/edr/browse/edl/EBE_0450_0706921761_624ECM_N0260000EDLC00450_0050LUJ01_1200.jpg');
+}
+
+.item-rover2 { 
+  background-image: url('https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00000/ids/edr/browse/edl/ESF_0000_0666965708_609ECM_N0010052EDLC00000_0000LUJ01_1200.jpg');
+}
+
+.item-rover3 { 
+  background-image: url('https://science.nasa.gov/wp-content/uploads/2024/03/1005.gif?w=768&format=webp');
+}
+
+.item-rover4 { 
+  background-image: url('https://science.nasa.gov/wp-content/uploads/2024/03/1007.gif?w=768&format=webp');
+}
+
+.item-rover5 { 
+  background-image: url('https://science.nasa.gov/wp-content/uploads/2024/03/25703_PIA24490_ncam_left_drive-web.gif?w=768&format=webp');
+}
+
+.social{
+  position: absolute;
+  right: 35px;
+  bottom: 0;
+  
+  img{
+    display: block;
+    width: 32px;
+  }
+}
+
+img {  max-height: 100%;
+  max-width: 100%;
+display:block;}
+img[alt*="USGS"] {width: 100%;border-bottom:solid 10px  #BF785E;}
+
+img[alt^="L"] {
+  width: 100%;
+  border-top:solid 10px #f4bf75;
+  
+  }
+
+  img[src*="poesiatranscend"] {
+    width: 100%;}
+
+  
+
+img[alt*="USGS"] {
+  width: 100%;
+  border-bottom:solid 10px #c9ff23;
+  
+  }
+img[src*="nasa.gov"] {
+width: 100%;
+border-bottom:solid 10px #c9ff23;
+
+}
+img[alt="kk"] {
+  width: 100%;
+  
+}
+img[alt="whiteslavery"] {
+  max-width: 15%;
+  float: right;
+}
+img[alt="whiteslavery40"] {
+  max-width: 40%;
+  transform: rotate(45deg);
 }

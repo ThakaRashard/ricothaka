@@ -36,14 +36,38 @@ carousels:
 ---
 
 
+{% highlight ruby %} 
+1 # HOLE_TO_ANOTHER_UNiVERSE##########Normani=NoiR####
+2 # TO##r*.g*.io/rashardlearned#/rashardmro#/compiling#/normani###
+3 # ANOTHER##########https://s.id/1kmbG################## 
+4 # UNiVERSE###┬─┬⃰͡ (ᵔᵕᵔ͜ )(∩｀-´)⊃━☆ﾟ.*･｡ﾟ#Hi####CORaL##
+{% endhighlight %}
+[![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
+
+
+[RashardLeanred - Updated](https://ricothaka.github.io/rashardlearned/) and [SpaceForce](https://www.spaceforce.mil/) tweeted [RashardMRO](ricothaka.github.io/rashardmro) so [![Twitter Follow](https://img.shields.io/badge/Social-US_SpaceCom__-blue?style=social&logo=X)](https://twitter.com/US_SpaceCom) ... [![Twitter Follow](https://img.shields.io/badge/Social-Normani__-blue?style=social&logo=X)](https://twitter.com/Normani)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1XSUdSojWNJCgNqKNxfcVr?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r5S_l7uAc1I?si=tFr_50YjMsG2Q4m8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7B8Xt7PwhS8U1iXnxN7TB3?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 {% include_relative current.md %}
+
+
+--- 
+
+
+
+---
+
+
 
 
 
 <a href="https://upload.wikimedia.org/wikipedia/en/9/90/X-Men_COTA_arcade_flyer.jpg"><img src="https://upload.wikimedia.org/wikipedia/en/9/90/X-Men_COTA_arcade_flyer.jpg" style="width:213px;height:316px;margin-right:5px;padding:10px;" align="left" alt="Pineapple" />
 
-## X-Men - Children Of The Atom (950105 USA)
+## X-Men - Children Of The Atom (950105 usa)
 X-Men: Children of the Atom (Japanese: エックス・メン　チルドレン　オブ　ジ　アトム, Hepburn: Ekkusu Men Chirudoren obu ji Atomu) is an arcade game that was produced by Capcom and released on the CP System II arcade hardware in 1994 in Japan and in 1995 in North America and Europe.
 
 Based on the X-Men comic book, it is the first fighting game produced by Capcom using characters under license from Marvel Comics. Released around the time of the mid-1990s X-Men animated series, the game features voice actors from the series reprising their roles. The game's plot is based on the "Fatal Attractions" story from the comics – players control one of the X-Men or their enemies in their fight against the villain Magneto. They face each of the other characters in the game in best of three one-on-one fighting matches, before battling Juggernaut and Magneto.

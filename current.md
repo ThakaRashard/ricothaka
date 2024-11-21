@@ -1,936 +1,441 @@
-{% highlight ruby %} 
-1 # HOLE_TO_ANOTHER_UNiVERSE##########NormaniBossLady #
-2 # TO####NEW_POSTS /worknotes02 /imsufferingmskaren####
-3 # ANOTHER##########https://s.id/1kmbG################# 
-4 # UNiVERSE#############################Hi####CORaL### 
-{% endhighlight %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1AAqvhkrlQTHkW7YgFkMhU?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-# Currently Compiling
+# [The IT Crowd:Yesterday's Jam](https://www.youtube.com/watch?v=fU14GSc_mzA)
+>Episode aired Feb 3, 2006 [TV-MA](https://en.wikipedia.org/wiki/TV_Parental_Guidelines) 24m [imdb](https://www.imdb.com/title/tt0609853/)
+[IT crowd Season 1 episode 1 *Yesterday's Jam* is the first episode of the first series and the first ever of The IT Crowd. The show introduces all the main characters of the show and sets a backbone for future episodes. "Yesterday's Jam" Jen starts at Reynholm industries as the IT Manager. But it turns out she doesn't know anything about computers.](https://theitcrowd.fandom.com/wiki/Yesterday%27s_Jam)
 
-{% include dearcoral-last-games.md %}
-
-![insight](https://photojournal.jpl.nasa.gov/archive/PIA22892.gif)
-<video controls width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2023/06/color-image-of-pluto-pia20291-1.jpg">
+<video controls preload="none"   width="100%" height="auto" poster="https://i.imgur.com/jO0p7Xp.gif">
     
-<source src="https://photojournal.jpl.nasa.gov/archive/PIA20742_NH_MOV_CEN6A_lres.mp4" type="video/mp4" />
+<source src="https://archive.org/download/the-it-crowd_202204/The%20IT%20Crowd%20%282006%29%20Complete%20%2B%20Extras%20%28Mixed%20x265%20HEVC%2010bit%20AAC%202.0%20Panda%29/The%20IT%20Crowd%20%282006%29%20Season%201%20S01%20%2B%20Extras%20%28576p%20x265%20HEVC%2010bit%20AAC%202.0%20Panda%29/The%20IT%20Crowd%20%282006%29%20-%20S01E01%20-%20Yesterday%27s%20Jam%20%28576p%20x265%20Panda%29.mp4" type="video/mp4" />
          Download the
         or
-<a href="https://photojournal.jpl.nasa.gov/archive/PIA20742_NH_MOV_CEN6A_lres.mp4">MP4</a>
+<a href="https://archive.org/download/the-it-crowd_202204/The%20IT%20Crowd%20%282006%29%20Complete%20%2B%20Extras%20%28Mixed%20x265%20HEVC%2010bit%20AAC%202.0%20Panda%29/The%20IT%20Crowd%20%282006%29%20Season%201%20S01%20%2B%20Extras%20%28576p%20x265%20HEVC%2010bit%20AAC%202.0%20Panda%29/The%20IT%20Crowd%20%282006%29%20-%20S01E01%20-%20Yesterday%27s%20Jam%20%28576p%20x265%20Panda%29.mp4">MP4</a>
         video.
 </video> 
 
 
-<video controls width="100%" height="auto" poster="https://photojournal.jpl.nasa.gov/browse/PIA19839.gif">
-    
-<source src="https://photojournal.jpl.nasa.gov/archive/PIA26339.mp4" type="video/mp4" />
-         Download the
-        or
-<a href="https://photojournal.jpl.nasa.gov/archive/PIA26339.mp4">MP4</a>
-        video.
-</video> 
+[<img src="https://flyers.arcade-museum.com/flyers_video/midway/62000901.jpg" alt="nba jam" />](https://flyers.arcade-museum.com/flyers_video/midway/62000901.jpg)
 
+![nbajam](https://i0.wp.com/arcademarquee.com/wp-content/uploads/2015/02/nba-jam_marquee.jpg)
 
-![Mars_Rover](https://photojournal.jpl.nasa.gov/archive/PIA26344.gif)
-[RusH WorkingMan 1972](https://www.youtube.com/watch?v=IrxzRFj03Ro) [Jimi Hendrix Manic Depression - The Experiance](https://www.youtube.com/watch?v=xI-WVWM_GR0)[Houses Of The Holy - Led Zeppelin HD](https://www.youtube.com/watch?v=fPv2bbCTAfw)
-[[𝐜𝐥𝐚𝐬𝐬𝐢𝐜 𝐟𝐫𝐞𝐧𝐜𝐡 𝐩𝐥𝐚𝐲𝐥𝐢𝐬𝐭] oldies but goldies  famous old french songs](https://www.youtube.com/watch?v=DQByGm2y50Y) [Edith Piaf - La foule](https://www.youtube.com/watch?v=Fgn8gZHJZzA)
-## Normani if you are claiming me
-You have to talk about how im being burned and my hair has lice mounds, that sting when ppl spray they are dormant otherwise as i pick them off and scrape out the dust they scramble together some pairing for sex other wrestleing out of bordom [HairCare](https://youtu.be/PDyBIoY1MfU?si=M0DTqNs3udSBQlKE) they look like headlice, its the living in my head thing, and there is this goo that forms on the base of my folicles that they make the mounds out of .. its [LittleBigPlanetOnMyHEad!](https://www.youtube.com/watch?v=oh5mzqjgRj4&list=PL9H1ai1PRZ3P-Rn3EGf41afqag2nGggXl&index=121)
+# NBA Jam (rev 3.01 04-07-93)
+<iframe src="https://archive.org/embed/arcade_nbajam" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ga0y2Bn_oko?si=RIMk--7f-M63KDbq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-{% include webtools.md %}
-
-[T.I. vs. T.I.P.](https://www.youtube.com/watch?v=m22FBIW8w1k) [DG Yola Fea. Goodie Mob "Get Some Of Dat Yola" ](https://www.youtube.com/watch?v=Rc1v8zcNhpI)
-
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/679979270&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/skyzoomusic" title="Skyzoo" target="_blank" style="color: #cccccc; text-decoration: none;">Skyzoo</a> · <a href="https://soundcloud.com/skyzoomusic/truck-jewels-feat-pete-rock" title="Truck Jewels" target="_blank" style="color: #cccccc; text-decoration: none;">Truck Jewels</a></div>
-
-[Omeretta The Great: SorryNot SorryYou Aint From](https://www.youtube.com/watch?si=Zi2yt5iayNqxS1h5&v=6IvchaA0B3Y&feature=youtu.be) [relatedTweet](https://x.com/MooNLOVER404/status/1830388299544121593)
-![weather](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/images/goeswestabiconus-09p61um-sSep%2003%2C%202024%20-%2018_16%20UTC-eSep%2003%2C%202024%20-%2019_51%20UTC.gif)
-![fff](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/images/goeswestabiconus-00p64um-sMay%2021%2C%202024%20-%2021_36%20UTC-eMay%2021%2C%202024%20-%2023_11%20UTC.gif)
-![ggg](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/images/goeseastabiconus-daycloudphase-sMay%2021%2C%202024%20-%2016_06%20UTC-eMay%2021%2C%202024%20-%2017_41%20UTC.gif)
-
-![OmerettaTheGreat](https://pbs.twimg.com/media/GWbZZxTbAAEBT51?format=jpg&name=large)
-![CitizenKane](https://upload.wikimedia.org/wikipedia/commons/c/c0/Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg)
-[Citizen Kane 1941 Orson Welles](https://archive.org/details/citizen-kane-1941-orson-welles) [citizen Kane[1]on vimeo](https://vimeo.com/457349559) 
-<video controls width="100%" height="auto" poster="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Citizen-Kane-Soundstage.jpg/960px-Citizen-Kane-Soundstage.jpg">
-    
-<source src="https://archive.org/download/citizen-kane-1941-orson-welles/Citizen%20Kane%201941%20Orson%20Welles.mp4" type="video/mp4" />
-         Download the
-        or
-<a href="https://archive.org/download/citizen-kane-1941-orson-welles/Citizen%20Kane%201941%20Orson%20Welles.mp4">MP4</a>
-        video.
-</video> 
-
-![Ms_Bass](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZmbmU0ajB4ejJzZWg5MGp6amk4dG5pcmV6ZnFodDNwYzkwdWdiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gu8XqgfYOZyLsd4n3d/giphy.webp)
-
-# Ms Bass
-I want you to look at Atomic Red HEad post about the old [Uniroyal Tire Factory](https://www.latimes.com/archives/la-xpm-1990-11-30-me-5582-story.html). I need you to listen to her perspective. The people that make a lot of moves here dont know that its an ancient civilization! California was a satilitte of [Abyssinia](https://en.wikipedia.org/wiki/Ethiopian_Empire) millenia b4 a german waddled overhere! And the children have no respect for us! [Muni_Long](https://www.youtube.com/watch?v=vYa3ak-3p60) did some research and so did Erika and a few other girls i know with Ethioppian roots and determined that we were somalian egyptins or something... [OROMO](https://www.youtube.com/playlist?list=PLL2oNlnkQQGA1B8b0LZCz8SoFhGCZiera). Those are the children of  [Nebuchadnezzar II](https://quran.com/en/5:70/tafsirs/en-tafsir-maarif-ul-quran) moved the familyawayfromiRaq after an Ecological Attack and they settled near the [Garden Of Eden](https://anglo-ethiopian.org/publications/articles.php?type=L&reference=publications/articles/2011spring/paradise.php) in Ethiopia. At least thats where myBiblerearing brought me. So this is it.I have holes in myflesh leaking yellow fluid, if i go to UCLA they chop my legoff! And I get no access to my family likeim really mistreated personally bc i have a relationship with a popstar that got [victimizedbyporn](https://www.ajc.com/news/normani-talks-camila-cabello-racism-and-bullying-new-interview/1QoirFXkoiQYdH1Z0THkvN/) and its a system PlayBoy put in place to eliminate any trace of the africans rulership of this region. And since He was fromIraq and moved south to Ethiopia the asian Presence in Los Angeles makes sense! And We have similar things that pop out in group dance. i love normaNi for sharing that with me. Now when you read [Atomic_Redhead](https://x.com/atomic_redhead) aarticle about The Citadel I want you to examine the architechture and see if answers exist that NAsaJPL can use to reconcile e family  ![Ethiopian in PreColumbian America](https://pbs.twimg.com/media/GWbXMKvaQAAif_m?format=jpg&name=small)
-![Rolling Stone Normani](https://pbs.twimg.com/media/ER3fr_8WoAICxpW?format=jpg&name=small)
-
-> But why an Assyrian inspired design? There are two thoughts on that. One is in the name of the company itself, Samson. Samson was a character from the Bible and known for his strength. “There’s the idea about strength in tires, and that tires are the foundation for your car,” said Adrian Scott Fine of the Los Angeles Conservancy. Fine also pointed to the fact that King Sargon’s palace, Dur-Sharrukin, had been in the headlines earlier in 1928, as it was being excavated by American archaeologists. And some of the images on the company’s main building reflect those of King Sargon. King Sargon reigned from 721 B.C. to 705 B.C. in what is now Khorsabad, Iraq. </cite> - [AtomicRedHead.cOm](https://atomicredhead.com/2019/02/05/the-outlet-mall-masquerading-as-an-assyrian-palace/)
-
-[Why LA's Citadel Looks Like An Ancient Assyrian Palace](https://laist.com/news/why-las-citadel-looks-like-an-ancie) [An Assyrian Palace Is Reborn as a Discount Outlet in a Fusion of Style and Savvy](https://www.latimes.com/archives/la-xpm-1991-02-03-re-648-story.html) [Who Knew #2 Before the Citadel Outlets the Tire Companies](https://lifeaccordingtoerick.blogspot.com/2014/08/who-knew-2-before-citadel-outlets-tire.html) [Proposed LA Metro Station](https://en.wikipedia.org/wiki/Citadel_Outlets) [Los Angeles: A Community of the Living and the Dead.](https://www.theartblog.org/2010/10/los-angeles-a-community-of-the-living-and-the-dead/) [The Outlet Mall Masquerading as an Assyrian Palace](https://atomicredhead.com/2019/02/05/the-outlet-mall-masquerading-as-an-assyrian-palace/)
-
-![Citadel](https://socallandmarks.com/index.php/2021/09/17/the-citadel-outlets/)
-![Citadel lifeaccordingtorick.blogspot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8Dmq9JZUpJz1xIFmnPiXV55ykxBoBvnBdkzbXIBe_5NcvEslklMtJ8vQF-HmDsJlBkm6oBb34DVsTB9wZjjal8a7hKlr_E5-H_D5e3a49hMee_yJ6zRAF7oYmUlfOKGY2SuIBnPlL73NS/s1600/samson2.jpg)
-![citadel assyrian](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Citadel_Outlet_Los_Angeles_%284010395462%29.jpg/1024px-Citadel_Outlet_Los_Angeles_%284010395462%29.jpg)
-![atomicredhead.com](https://i0.wp.com/atomicredhead.com/wp-content/uploads/2019/01/ar-citadel015.jpg?quality=100&strip=all&ssl=1)
-![cuniform](https://i0.wp.com/atomicredhead.com/wp-content/uploads/2019/01/ar-citadel030.jpg?resize=765%2C510&quality=100&strip=all&ssl=1)
-![i c y](https://i0.wp.com/atomicredhead.com/wp-content/uploads/2019/01/ar-citadel008.jpg?quality=100&strip=all&ssl=1)
-
-## I hope I dont offend you, I kept some things from Jehovahs witnesses but I personally threw watching "demonic_Movies" out of the window because I dont see anything wrong with non-exploitive folklore
-### Click_Tha_LiNKS
-[Vampire Hunter D (1985) [english-sub] [vostfr]](https://www.youtube.com/watch?v=sSr1WwuPmBs)
-[Vampire Hunter D Bloodlust English](https://www.youtube.com/watch?v=GEVHYLNf1mo)
-please let me know if either of these scrambles for you
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/K9HtSXwB1Fw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-<img src="https://i.discogs.com/NYONv2tIFfJic7c9aVtZ5SHgKLX0CpaAfOnFs9J9rsQ/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDMz/NDgtMTUyNDk5MTAy/MS0yMTI5LmpwZWc.jpeg">
-
-[BOB MARLEY and THE WAILERS - Soul Rebels LP 1970 Full Album](https://www.youtube.com/watch?v=w967mz2v_BY)
-
-[Quit social media | Dr. Cal Newport | TEDxTysons](https://www.youtube.com/watch?v=3E7hkPZ-HTk)
-[Learning to look up again – controlling your smartphone addiction | Ross Sleight | TEDxLeamingtonSpa](https://www.youtube.com/watch?v=m1_QlV6XCNs)
-
-[The Dialect of Black Americans (1970)](https://www.youtube.com/watch?v=l5OYV3ewZQQ)
-
-[THE SECRET OF SELLING THE NEGRO (1954)](https://www.youtube.com/watch?v=E8PBrhFN35c)
-
-[How Smartphones Change The Way You Think | Jeff Butler | TEDxHilliard](https://www.youtube.com/watch?v=pWvSwX-jq7o&t=315s)
-[Learning to look up again – controlling your smartphone addiction | Ross Sleight | TEDxLeamingtonSpa](https://www.youtube.com/watch?v=m1_QlV6XCNs)
-[From smartphone addiction to human connection | Ritzo ten Cate | TEDxBredaFrom smartphone addiction to human connection | Ritzo ten Cate | TEDxBreda](https://www.youtube.com/watch?v=B-sJ3vJxBiY)
-[Chappelle's Show - The Niggar Family - Uncensored](https://www.youtube.com/watch?v=hLOw_SzkRQ8)
-[Chappelle's Show - Charlie Murphy's True Hollywood Stories - Rick James Pt. 1 - Uncensored](https://www.youtube.com/watch?v=ZdVAH8Z5O90)
-[Chappelle's Show - The Wayne Brady Show - Uncensored](https://www.youtube.com/watch?v=X-zSJljpKNc)
-
-
-[Abandon Ship (feat. Rampage the Last Boy Scout)](https://www.youtube.com/watch?v=pptLcLcRJz4)
-[KRS-One - A Friend (Official Video)](https://www.youtube.com/watch?v=aj1Q7jDgrc4)
-[H.I.P.H.O.P. · KRS-One I Got Next ℗ 1997 Zomba Recording LLC](https://youtu.be/MkWP0udk754)
-[The Real Hip-Hop - Part II](https://youtu.be/ajwLy9BbFGA)
-[KRS-One - MC's Act Like They Don't Know](https://www.youtube.com/watch?v=_J-h_8dwyiM)
-[Lost Boyz - Lifestyles Of The Rich And Shameless](https://www.youtube.com/watch?v=0D-f01H6Kos)
-[Beasts From The East · Lost Boyz Love, Peace & Nappiness ℗ 1997](https://www.youtube.com/watch?v=hJ5y0jKlLVc)
-[Smif-N-Wessun - Sound Bwoy Bureill](https://www.youtube.com/watch?v=s5MogMGLWAA)
-[Onyx - Last Dayz - All We Got Iz Us](https://www.youtube.com/watch?v=rlpxQ_moU9o)
-[ONYX & Wu-Tang Clan - The Worst (Official Music Video)](https://www.youtube.com/watch?v=q1oa07Kw_RQ)
-[Canibus, Heltah Skeltah & Ras Kass-Uni-4-orm (1997)](https://www.youtube.com/watch?v=JE2RAVLFknk)
-[Redman - Creepin'](https://www.youtube.com/watch?v=HSc1BqDH9HI)
-[Channel Live ft. KRS-One - Mad-Izm](https://www.youtube.com/watch?v=H3vs_lXebYc)
-[Heltah Skeltah & OGC - Leflaur Leflah Eshkoshka](https://www.youtube.com/watch?v=i4sW3jJuVDg)
-[Mad Lion - Take It Easy](https://www.youtube.com/watch?v=VSpNJrppImg)
-[KRS-One - Step Into A World (Rapture's Delight)](https://www.youtube.com/watch?v=xbJxcFyaCpI)
-[Common ft. Talib Kweli, Sadat X & DJ Hi-Tek - 1-9-9-9 (Official Video)](https://www.youtube.com/watch?v=dMIXAYBoGBM)
-[Black Moon - Who Got Da Props](https://www.youtube.com/watch?v=58lZYDxHRV8)
-[Black Moon - How Many MC's...](https://www.youtube.com/watch?v=_-eVgV4PzX8)
-[Artifacts - Wrong Side Of Da Tracks](https://www.youtube.com/watch?v=GM92f-BUoow)
-[Meyhem Lauren - 'Got The Fever' NYC Graffiti New York City](https://www.youtube.com/watch?v=gg5cJu1Zcws)
-[KRS ONE - OUT FOR FAME (Rubens Video).wmv](https://www.youtube.com/watch?v=jhurGs6WBCw)
-[Seen, Can2, Cope2 & Zebster - Wallstreet Graffiti Meeting](https://www.youtube.com/watch?v=vVr296bJj2E)
-[Artifacts - Art of Graff](https://www.youtube.com/watch?v=Tn30EIvTKd4)
-[Artifacts - Art Of Facts (Jam-A-Holics Remix)](https://www.youtube.com/watch?v=3F7xEjfPHjA)
-[Artifacts - The Ultimate [Explicit]](https://www.youtube.com/watch?v=3WAq-n3qMpc)
-[Artifacts - C'mon Wit Da Git Down (Official Video) [Explicit]](https://www.youtube.com/watch?v=XimyEvDJWzA)
-[Digable Planets - 9th Wonder (Blackitolism)](https://www.youtube.com/watch?v=SyeI43BeR54)
-[Special Ed - I Got It Made (Official Video)](https://www.youtube.com/watch?v=N_9GuiE5Fck)
-[‘FX CREW’ (Graffiti Writers Crew) New York, 1998 [RARE full graff art VHS documentary archive]](https://www.youtube.com/watch?v=Jv7ECeiD1p4) [Tenor Saw - Who's Gonna Help Me Praise](https://www.youtube.com/watch?v=Bx9QB8qtehQ)
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/895314484&color=%239c7434&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/temsbaby" title="Tems" target="_blank" style="color: #cccccc; text-decoration: none;">Tems</a> · <a href="https://soundcloud.com/temsbaby/free-mind" title="Free Mind" target="_blank" style="color: #cccccc; text-decoration: none;">Free Mind</a></div>
-<img src="https://video-images.vice.com/articles/584056ba5460bf4f35a54b57/lede/america-is-dying-slowly-resized-2.jpg">
-
-[America Is Dying Slowly Full](https://www.youtube.com/watch?v=mPCHG2VB4Hc)
-[20 Years Ago, Coolio, De La Soul, and the Rest of Rap Chipped in to Raise HIV/AIDS Awareness](https://www.vice.com/en/article/8gxb3b/20-years-ago-coolio-de-la-soul-and-the-rest-of-rap-chipped-in-to-raise-hivaids-awareness)
-
-<img src="https://images.footlocker.com/is/image/EBFL2/D5874700_a3?wid=2000&hei=2000&fmt=png-alpha">
-<img src="https://images.footlocker.com/is/image/EBFL2/M8338800_a4?wid=2000&hei=2000&fmt=png-alpha">
-<img src="https://images.footlocker.com/is/image/EBFL2/H8010101_a5?wid=2000&hei=2000&fmt=png-alpha">
-<img src="https://images.footlocker.com/is/image/EBFL2/C9450100_a3?wid=2000&hei=2000&fmt=png-alpha">
-<img src="https://images.footlocker.com/is/image/EBFL2/Q7783600_a4?wid=2000&hei=2000&fmt=png-alpha">
-
-
-
-{% include dearcoral-last-period.md %}
-
-[Watts Towers Tours](https://www.wattstowers.org/tours)
-
-![firms](https://pbs.twimg.com/media/GWQNnBJbQAICSky?format=jpg&name=large)
-
-
-
-# Tumblrs
-{% include tumblrs.md %}
-
-# covid
-{% include covid.md %}
-
-Normani i took bouncing cats down bc of that "Something Over 200" error. Its also on 
-
-
-![AllMine?](https://eoimages.gsfc.nasa.gov/images/imagerecords/149000/149766/world_geos5_2022117_lrg.png)
-
-# Sol 4185: Left Navigation Camera
-## CURIOSITY RAW IMAGES 
-  Broken wheel?
-<a href="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017299EDR_F1071320NCAM00354M_.JPG" title="Redirect to homepage"><img src="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017299EDR_F1071320NCAM00354M_.JPG" alt="homepage" /></a>
-
-  <div class="flex-container">
-   <div class="flex-items">  <a href="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017299EDR_F1071320NCAM00354M_.JPG">
-        <img src="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017299EDR_F1071320NCAM00354M_.JPG" />
-</a></div>
-   <div class="flex-items">  <a href="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017299EDR_F1071320NCAM00354M_.JPG">
-<img src="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04185/opgs/edr/ncam/NLB_769017299EDR_F1071320NCAM00354M_.JPG" />
-</a></div>
-</div>
-
-# Sol 4185: Left Navigation Camera
-## CURIOSITY RAW IMAGES
-<a href="https://mars.nasa.gov/raw_images/1334513/?site=msl">Credits: NASA/JPL-Caltech</a>
+![nbaJam](https://upload.wikimedia.org/wikipedia/commons/9/9a/Midway_Games_logo.svg)
+# Earth Rotation from Galileo Imagery: 600 x Real-Time
+>Released Tuesday, September 1, 1998 
+This animation is one in a series created to show an accurate representation of the Earth's rotation at different temporal resolutions. The animation is created from images taken by the [Galileo spacecraft](https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question61.html) during a close pass of the Earth on December 11-12, 1990. The animations range from real-time, in which no rotation can be perceived . . . [Visualizations by: Horace Mitchell](https://svs.gsfc.nasa.gov/1374/)
+<video controls preload="none"  poster="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001374/a001374.00095_print.png">
   
- Hi Jamie/Robin/Brenda
-  During my last time with you on campus i was told to explore the wheels! I guess you guys Saw my research to build a high powered grocery getter. I found this hole in the wheel about two months ago. The girls are really going through it right now and I really dont know what the future holds, but im dedicated to the mission. Jose Pi did not know i was real. I slap myself for running off when he said you cant come back. I learned a lot about working remote in Atlanta but i got fired twice bc i was having too much fun! I was completing tasks and training thier employees! PearsonEdu had a bunch of Windows admins and i tought them a lot of LinuxBased #DNS philosophy next thing you know im working remote and i have no income! If you are not in a office position ppl stop trusting you. I never knew my coworkeds went to MagicCity its a dark neighborhood secret and as we got older i aged out of the computer world in the east bc Normani got famous in BallroomDanceing and numbed the sex servant side to the eyes of the Public. Once i was seen with her it got really hard at work, I had no idea so much sabotage exisited. We got involved also be i was working 24.7 oncall "MissionCritical" support for Web.com and Ionic Security i saved them from Splunk issues so many times at night. I understand sleepcycles bc she became my friend. Im OnCall for them so "Be oncall for me" It was a freindship gesture. Now im friends with a sex slave, thats attracted to me! 
+<source src="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001374/a001374.webmhd.webm" />
   
-This image was taken by Left Navigation Camera onboard NASA’s Mars rover Curiosity on Sol 4185 (2024-05-15 04:55:27 UTC). 
- 
- 
 
-  <embed width="100%" height="300" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1154196106&color=%23732e07&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
-
-
-[Queen Latifah, Yo-Yo, TLC, MC Lyte, Nefertiti, Salt-N-Pepa, Patra, Meshell Ndegeocello - Freedom](https://www.youtube.com/watch?v=qxyxqVDjSzs) [Queen Latifah - Just Another Day](https://www.youtube.com/watch?v=FLYu4jT5Ez4)[Nonchalant - 5 O'Clock](https://www.youtube.com/watch?v=Pvrxord-sbM) [Jean Grae - Love Song](https://www.youtube.com/watch?v=hrWL7ieIU7A) [Gladys Knight & The Pips - Save the Overtime (For Me) (vintage bboy footage)](https://www.youtube.com/watch?v=Y36aBTuRr1o)[Big Daddy Kane & Kool G Rap Raw Alternate Unreleased Version](https://youtu.be/F1Zi-ErzyWY?si=0jotbKEyr2qLhUR6) [Kool G Rap & DJ Polo, Big Daddy Kane & Biz Markie - Erase Racism](https://www.youtube.com/watch?v=wWuFj_HAjYs) [Bahamadia - Sponteneity](https://www.youtube.com/watch?v=S6rxanIXIv8) [Rico Nasty - Key Lime OG](https://youtu.be/-jeCRqnDqBc?si=6CvRQQJ20UTIJ5XQ) [Rashard Kelly injury update offline](https://archive.org/details/vid-20240815-062510) [RiCOTHAKA.GiTHUB.iO for more](https://ricothaka.github.io/civic01) [CompilingTheBlog=Updated](https://thakarashard.github.io/compiling/dispostionthestory)
-
-
-<cite> sup nabril</cite>
-
-#  its rashard that used to be at TatsCruCommunityCenterHuntsPoint and Normani husband... Thaka
-i think its gonna work out. Im scared of common, ill be honest all my hiphop heros got impersonated or not in my wifes prostitution in hollywood and im relearning to listen to music. Im sleeping outdoors finally so my body is more adept to breaking. iDk what CrazyLegs is going through but we had an RSC dancer taking classes at Dance411. If you heard of [Sammy Davis Jr.](https://www.youtube.com/watch?v=OXYndNL4Mu8). Anywat he old school playboy and his boys control alot of the girls. I cant remember if it was you or how long you were in america but i grew. I work at [NasaJPL](https://www.jpl.nasa.gov/) im just locked out and i have a lot of false allagation from knowingthose girls from Dance411. [Normani - Motivation](https://www.youtube.com/watch?v=FKXSh14svlQ) Thats her MudFace song and you can look. Man its that whole kunyaza thing and I got hurt feelings. Itsounds so gross at this point im sure [Uganda Parliament](https://www.parliament.go.ug/) knows i looked up the word [Kunyaza](https://www.parliament.go.ug/)... why did i do that?!?! Anyway im still working on my [Six Step](https://youtu.be/J9mFCAERAC4?si=wFb0CZtT7lcHKkwd) [Mighty Zulu Kings](https://youtu.be/AVZyNqDjgnI?si=Vx6GOX1Dpl7H1o8-) u know what i dont care what he moves like now! I wanna know bc i get poisoned when i start having fun dancing! ~> there  [Spoonie GeeLove Rap](https://youtu.be/cv2ReNgW8I0?si=cr5W6_OKCA8lqaKn)  [Treacherous Three - Feel the heartbeat - 1981](https://www.youtube.com/watch?v=Hk_DBrjtH0s) [The New Rap Language](https://youtu.be/ppdQMWKQ2ok?si=NDZhEmaibyTDOn3_) [The Body Rock](https://www.youtube.com/watch?v=bo8u7aQEmUo) [Rappin and Rocking the House (Version B)](https://youtu.be/D1xnK3xVQY4?si=Tna8F65EJjIUcRxG) [Superrappin'](https://youtu.be/Up8zxybJNHQ?si=7vYe0Ilnux7jmSWd) [Time Machine-The Way Things Are](https://youtu.be/5YMYrB0dqoU?si=sWlWNsKNUSS9GreM) [Yma Sumac – Mambo! (1955) - Latin Folk Jazz Exotica](https://youtu.be/T7kPRvm7X34?si=dlEsijdHgSHuhBDx) [Esquivel and his orchestra - Other worlds, other sounds LP: RCA Victor](https://youtube.com/playlist?list=PLCzdBMu_SA7HkBCfIrvVibp_1a_H5JGb6&si=D7nwcE3mDWRgPRUw) [Yma Sumac sings Taita Inty "Hymn of the Sun Virgin" 1950. The Colgate Comedy Hour.](https://youtu.be/5waBf-jzZmc?si=d672wz6zBUZtNEEA) HipHop/Funk RollerRinky~
-[You've Gotta Believe (Vocal) · Lovebug Starski](https://youtu.be/YcXlDqstZUM?si=S_-L8RmSuGXAkQAM) [Positive Life · Lovebug Starski · Harlem World Crew](https://youtu.be/04-8u2Memes?si=ZVP33fTayRXCz6FH) [Alicia Myers - I want to thank you](https://youtu.be/R9wGnnwBc9M?si=nmsUj4XUnRRHhju7) [Golden Flamingo Orchestra Featuring Margo Williams   The Guardian Angel Is Watching Over Us](https://youtu.be/kTp0-IRuYLU?si=Z2vE4TKf3dhGJmHi) [Margo Williams - God Save And Protect All The Children](https://youtu.be/yz19n4eS3eQ?si=ESnBkvSlqWTQBdj-) [Nights Over Egypt · The Jones Girls](https://youtu.be/f2WgspFSpio?si=MVEPklBbV8uj3KaW) [I Love You More · René & Angela](https://youtu.be/Pa8EmB124mU?si=ehM2wGvmtbOSsFyw) [Xavier, Do It to the Max](https://youtu.be/JXTZ4OqQIr4?si=9AJ3mlSTB1alT444) [52nd Street - Tell Me (How it Feels) ](https://youtu.be/3Ck25PGjlLc?si=xSYHOzF6tY590DYg) [Razzamatazz · Quincy Jones](https://youtu.be/H8atbyVp-Pk?si=S3Wt3F2fwFzVvUa6) [Juicy - Sugar Free](https://youtu.be/z4rlMOGxtVY?si=AtU5q-JRWyeB4Wuo) [Adam and Eve · Nas · The-Dream](https://youtu.be/tobfI7tl7-g?si=yG2QHamIS8xOVrpV) [Sade - Turn My Back On You](https://youtu.be/CCzANcg3Xag?si=DvJzeab8_fsdMitS) 
-
-
-
-## Dear_House_of_reps
-I have been doing research on the planet mars in public for a bout 4 years. CNN is covering my work and i have trouble eating and communicating. My Family vanished and no Social Security number based resource will aid me. I am struggling with hunger at times and have no shelter. I have women i need to reconnect with to find out what happend. They got kidnapped just b4 covid and tricked me into coming to california, where i was supposed to be headed anyway! And i found out they are victims of a Sex MArket online and the Street Walking and Dancing is just for display. I am complaining about CNN bc Ashley Strickland has no issues communicating from what i see and im stalked and chased by Allied Universal who is the BodyGaurd people of choice of Atlanta's YallyWood and CentralNewsNetwork. I am a native so the girls i was raised to think would be my spouses are up for NBA, Comedy, Film < journalism and everyother industry to deposit semen into. I dont know where my daughter ios from 631 Moreland Ave's illegal eviciton of Rashard Iman Kelly after being denied resources by family services leading to the foprced abduction of Coral Iris Kelly from the home of Copnstancia Arriba. So her i am in Holly wood. I am dating a Popstar named Normani off an on an she plays MineCraft. So thats my side outside. She is really pretty and poses for Vogue but a dark part of her life is that the pictures she takes nude for various publications are used by the local sex trade to keep her marketable for visitors to the city of los angeles and healthy to maintain telepathy for local criminals. She is my best friend(at this level(coral that shit 100bruh)). And since she is mixing with a lot of media i think my blogging gets into the hands of ppl with the power to publish at will. I need balance and a kind cooling center. CNN since we are working to gether can you help me off the streets digitally, can you  help me reconcile my family? Rashard Kelly aka Thaka(Muna Husband, Latto City Erika n nem Husband ) out NasaJPl Mars Mission Address: Jet Propulsion Laboratory, 4800 Oak Grove Dr, Pasadena, CA 91011 [Please Read](https://thakarashard.github.io/ricothaka/dispositionforsherrif)
-
-#TwitterBlock  Screen Recording 2024 08 19 11.55.48 AM <iframe src="https://archive.org/embed/screen-recording-2024-08-19-11.55.48-am" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-
-
-<a href="https://ricothaka.github.io/worknotes01"><img src="https://pbs.twimg.com/media/GVJMo0haYAAQRdu?format=jpg&name=large" alt="ricothaka.github.io"> </a>
-
-
-
-
-
-
-Captain America: Chapter 2 - Mechanical Executioner
-<iframe src="https://archive.org/embed/captain_america_ep2" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-[The endless possibilities and services LA libraries offer](https://www.cbsnews.com/losangeles/video/the-endless-possibilities-and-services-la-libraries-offer/) <cite>With National Library Week in full swing, a Los Angeles librarian tells us about all of the amazing services they offer to enrich the lives of students, children, and adults.
-Apr 11, 2024</cite>
-
-Los angeles is a [Euridite civiliZation](https://en.wiktionary.org/wiki/erudite) so i may need to pay more attention to signage
-`characterized by great knowledge; learned or scholarly: an erudite professor; an erudite commentary. Synonyms: sapient, wise, knowledgeable, educated.`
-
-![NasaGLEN_RED_PLANET](https://archive.org/download/C-1997-2554/1997_02554.jpg)
-[NAsa_GLeNN PLANET MARS](https://archive.org/details/C-1997-2554)
-<cite>creator:"NASA/Glenn Research Center"</cite>
-[Glamour Life](https://www.youtube.com/watch?v=1QnOCkQLTC0)
-![In my belly](https://science.nasa.gov/wp-content/uploads/2024/03/25792_PIA24548-1200.gif?w=1024&format=webp) im updatig thakarashard.github.io even if i was wrong about plegerism i have to be realistic normani could have seduced me toget e away from california too! So im investigating what got me here waiting outside this porno cess pool, HollywoodFoodCo not normal, and i wonder what exactly active mission means? BC if im confused and being poisoned runing from here to there, ithink Jamie would let me know formerly that i was not a part of nasajpl in anyway bc #Jose_M_Pi ru that shit! an heeee say no! i should have been more humble about working from home... my wife is a slut so... there was a three year old, that family vaporized i wanna come back. I really wanna know if the [Nasa SoundCloud](https://soundcloud.com/nasa) Account is Real
-- Rashard...
-
-Perseverance Rover Watches Ingenuity Mars Helicopter’s 54th Flight
-<video controls  height="auto" poster="https://d2pn8kiwq2w21t.cloudfront.net/images/PIA25968.width-1320.jpg">
-
-<source src="https://science.nasa.gov/wp-content/uploads/2024/03/6172_PIA25970.mp4" type="video/mp4" />    
-<source src="https://science.nasa.gov/wp-content/uploads/2024/03/6172_PIA25970.mp4" type="video/mp4" />
-      
-Download the
-        or
-      <a href="https://science.nasa.gov/wp-content/uploads/2024/03/6172_PIA25970.mp4">MP4</a>
-        video.
-</video>
-
-# Listen to NASA’s Ingenuity Mars Helicopter in Flight
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1044556651&color=%238c9265&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nasa" title="NASA" target="_blank" style="color: #cccccc; text-decoration: none;">NASA</a> · <a href="https://soundcloud.com/nasa/listen-to-nasas-ingenuity-helicopter-as-it-flies-on-mars" title="Listen to NASA’s Ingenuity Mars Helicopter in Flight" target="_blank" style="color: #cccccc; text-decoration: none;">Listen to NASA’s Ingenuity Mars Helicopter in Flight</a></div>
-Mars Sounds 
-
-
-
-
-The Landsat 8 & 9 Active Fire and Thermal Anomalies product, generated from the Landsat Operational Land Imager (OLI) shows active fire detections and thermal anomalies, such as volcanoes, and gas flares.
-![The_Rover](https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA15025.width-1440.jpg)
-[Real Bout Fatal Fury 2 - The Newcomers (Korean release)](https://www.retrogames.cc/arcade-games/real-bout-fatal-fury-2-the-newcomers-korean-release.html)
-<iframe src="https://archive.org/embed/arcade_garou" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-
-
-[What Are Raw Images?](https://solarsystem.nasa.gov/raw-images/what-are-raw-images/)
-<cite>[Taken from webpage](https://science.nasa.gov/solar-system/)</cite>
-Raw images are photos from space missions that NASA provides online for easy public access in their original (usually monochrome) appearance, largely untouched by image processing software. Raw images, in this context, are generally not the same as truly "raw" science data – meaning the original image data format returned to Earth by spacecraft. They're more like high-quality previews of data received from missions. - [Why NASA offers raw images]() NASA space missions return lots of images to Earth ­– far more than featured images the agency posts on the web and in social media. For example, a long-lived mission like Cassini could return hundreds of thousands of images over its lifetime.
-
-[Rings of Saturn](https://solarsystem.nasa.gov/raw_images/158252/?layout=hds)
-![Rings](https://science.nasa.gov/wp-content/uploads/2023/10/W00083940.jpg?w=640&format=webp) 
-
-<div class="container">
-  <h1><a href="https://mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=50&page=0&mission=msl">Mars Science Laboratory: Curiosity Raw Images</a></h1>
-
-  <div class="gallery-wrap">
-    <div class="item item-1"></div>
-    <div class="item item-2"></div>
-    <div class="item item-3"></div>
-    <div class="item item-4"></div>
-    <div class="item item-5"></div>
-  </div>
- </div>
-
-<div class="social">
-  <a href="https://twitter.com/moonlover404" target="_blank">
-    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/149103/twitter.svg" alt="">
-  </a>
-
-</div>
-
-<iframe src="https://archive.org/embed/arcade_rtype2" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-
-[Compiling WasUpdated](https://thakarashard.github.io/compiling/)
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/904236316&color=%2300cbff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/asiandabratdoll" title="Asian Da Brat" target="_blank" style="color: #cccccc; text-decoration: none;">Asian Da Brat</a> · <a href="https://soundcloud.com/asiandabratdoll/sets/so-icy-princess-1" title="So Icy Princess" target="_blank" style="color: #cccccc; text-decoration: none;">So Icy Princess</a></div>
-
-![Batman](https://upload.wikimedia.org/wikipedia/en/f/f4/Batman1943SerialPoster.jpg) 
-Batman is a 1943 American 15-chapter [theatrical serial](https://en.wikipedia.org/wiki/Serial_film) from Columbia Pictures, produced by Rudolph C. Flothow, The serial's story line involves the Batman, a secret U.S. government agent, attempting to defeat the schemes of Japanese agent Dr. Daka operating in Los Angeles at the height of World War II.[3] Serving Daka are his American henchmen.
-
-Batman is notable for being the first appearance on film of Batman and for debuting story elements that quickly became permanent parts of the Batman character's mythos, such as the "Bat's Cave" and its secret entrance through a grandfather clock inside Wayne Manor. The serial also changed the course of how Alfred's physical appearance was depicted in future Batman stories. At the time Batman was released in theaters, Alfred was drawn as a portly gentleman in the comics. Subsequent issues suddenly depicted Alfred as slim and sporting a thin moustache, following actor William Austin's appearance. [Wikipedia](https://en.wikipedia.org/wiki/Batman_(serial))
-[Batman 1943 all episodes](https://archive.org/download/batman-1943-episode-01)
-
-<iframe src="https://archive.org/embed/batman-1943-episode-01" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-[uptown butterfly _movie](https://youtu.be/UVhDEN4o7zk?si=c4evez9O4c5Z5SAB) [Tina, @kashdoll so pretty - song](https://youtu.be/-mv0YNUCoj4?si=YE7jtcVRzWUrPwcj) 
-
-
-[Heltah Skeltah & OGC - Leflaur Leflah Eshkoshka](https://www.youtube.com/watch?v=i4sW3jJuVDg) 
-
-![Muna Ahmed_Memorial](https://pbs.twimg.com/media/GULEQmebcAAhekm?format=jpg&name=large)
-[Attack of the Killer Kung-Fu Wolf Bitch](https://boondocks.fandom.com/wiki/Attack_of_the_Killer_Kung-Fu_Wolf_Bitch) 
-Robert's online dating adventures lead him to a beautiful woman named Luna, whom he invites for the weekend. Unfortunately, Huey, Riley and Robert soon learn that Luna...[FromFandom](https://boondocks.fandom.com/wiki/Attack_of_the_Killer_Kung-Fu_Wolf_Bitch) [imdb](https://www.imdb.com/title/tt1143232/) [Normani playlist gift](https://youtu.be/wGpJbD9h-J0?si=zaSExbm4087w_yCi) its another cycle bae...
-
-
-
-[Watch The Boondocks (Complete Series) on Archive.org](https://archive.org/details/the-boondocks-complete)
-[Local TinGz on https://thakarashard.github.io/](https://thakarashard.github.io/civic01)
-[Barrington Levy - Under Mi Sensi](https://www.youtube.com/watch?v=uozhx1xeTDg) [Ganja Smuggling - Eek-A-Mouse](https://www.youtube.com/watch?v=UR9Cj5UyVbM) [Bob Marley Tuff Gong Studio Rehearsal 1980 Full session](https://youtu.be/aXIDAd68ThI?si=mUAb-e0AyfKAPdjO) [Nas - Take it in Blood - hiphop](https://youtu.be/pmmnzusZZMU?si=j9p5MfQSv4Wn9YfR) [I Chase the Devil Max Romero](https://www.youtube.com/watch?v=zM4HXY1cLIY)
-
-[JPL and the Space Age: The Hunt for Space Rocks](https://www.youtube.com/watch?v=1wNzTyu36WA) [JPL and the Space Age: Landing on Mars](https://youtu.be/7aKewWHXXRE?si=MouyInZGPsjt8Yw6) 
-[Hubble Space Telescope, Planet 9, Curiosity Mars Rover, Cosmic Roulette  60 Minutes Full Episodes](https://youtu.be/ZYlALC1Pmv4?si=0GnKqpjKQmyYaxFw) 
-[Inside SpaceX's Mission to Send Humans into Deep Space  Foreign Correspondent](https://youtu.be/qInkR8P7q3M?si=uG4WNpxUxhCW0Igj) 
-[Mars Direct 3  A Proposal for SpaceX's Mars Program  Miguel Gurrea](https://youtu.be/YA7YQcA9Waw?si=LTJHZDvY65gHNnjG)
- [JPL and the Space Age: The Changing Face of Mars](https://www.youtube.com/watch?v=eaSaVanPysA)
-  [Why Does NASA Want to Explore Jupiter’s Ocean Moon? (Europa Clipper Science Overview)](https://youtu.be/GXMA-04CADw?si=L9-7PuPzn1ysh5jN)
-   [NASA's Breathtaking Findings on Ganymede: Exploring the Marvels of Jupiter's Largest Moon](https://youtu.be/s94XNsypTeo?si=YmvkYYiem5DdPAQo)
-    [NASA's Next-Generation Solar Sail Mission](https://youtu.be/rfYLnbw7iu8?si=hcTrcU6zOGLUyHgx)
-
-
-Androiding 
-[Smart Phone Screenshare](https://archive.org/details/screen-20240731-050451_202408)
-
-[Fraggle Rock: The Animated Series](https://archive.org/details/fraggle-toon) [Fraggle Rock](https://archive.org/details/MashSeries) [Robo Cop The Complete Series](https://archive.org/details/RoboCopTheCompleteSeries) [Fraggle Rock UK (Rare Episodes)](https://archive.org/details/fraggle-rock-uk)
-
-
-
-
-![curiosity](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04258/opgs/edr/ncam/NRB_775492033EDR_S1080792NCAM00594M_.JPG)
-[Front_Left_Hazcam:Two_Year_Movie](https://science.nasa.gov/resource/front-left-hazcam-two-year-movie/)
-
-<video controls  height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
-
-<source src="https://science.nasa.gov/wp-content/uploads/2024/03/20230217FrontLeftHazcamTwoYearMovie-1280.mp4" type="video/mp4" />    
-<source src="https://github.com/ricoThaka/ricothaka.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4" type="video/mp4" />
-      
-        Download the
-        or
-        <a href="">MP4</a>
-        video.
-</video>
-
-
-![perserverance](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00297/ids/edr/browse/zcam/ZR0_0297_0693322301_098ECM_N0090000ZCAM01012_026050J01_1200.jpg)
-https://mars.nasa.gov/mars2020/multimedia/raw-images/ZR0_0297_0693322301_098ECM_N0090000ZCAM01012_026050J
-[International Space Station Operations (June 28, 2024)](https://www.youtube.com/live/u-BGAPuzxZU?si=9TTR6kH--bpQE5c3)
-[Perseverance Rover's Descent and Touchdown on Mars](https://svs.gsfc.nasa.gov/31250) 
-[Perseverance Rover’s Descent and Touchdown on Mars: Onboard Camera Views](https://science.nasa.gov/wp-content/uploads/2024/03/45703_JPL-20210222-M2020f-0001-Perseverance_Rovers_Descent_and_Touchdown_on_Mars-1.mp4)
-
->NASA's Mars 2020 Perseverance mission captured thrilling footage of its rover landing in Mars' Jezero Crater on Feb. 18, 2021. The real footage in this video was captured by several cameras that are part of the rover's entry, descent, and landing suite. The views include a camera looking down from the spacecraft's descent stage (a kind of rocket-powered jet pack that helps fly the rover to its landing site), a camera on the rover looking up at the descent stage, a camera on the top of the aeroshell (a capsule protecting the rover) looking up at that parachute, and a camera on the bottom of the rover looking down at the Martian surface.
-
-<video controls width="100%" height="auto" poster="https://www.nasa.gov/wp-content/uploads/2021/06/pia24542-perseverances-selfie-with-ingenuity-1041.jpg">
-    
-<source src="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031250/Perseverance-landing-1080p.mp4" type="video/mp4" />
-         Download the
-        or
-<a href="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031250/Perseverance-landing-1080p.mp4">MP4</a>
-        video.
-</video>    
-
-[15 Second Clip of Parachute Deployment(MP4) (18.86 MB)](https://science.nasa.gov/wp-content/uploads/2024/03/45732_nasa_perseverance_parachute_deployment.mp4)
-
-[Rashards Archive Uploads](https://archive.org/details/@thakaserika_selassie_kelly)
-
-
-
-
-[Play Retro SNK Neo Geo games online | NEOGEOFUN](https://www.neogeofun.com/)
-[Marvel Super Heroes Vs Street Fighter (970625 USA)](https://www.retrogames.cc/arcade-games/marvel-super-heroes-vs-street-fighter-970625-usa.html#)
-
-[Screen Recording 2024 07 29 4.53.08 PM](https://archive.org/details/screen-recording-2024-07-29-4.53.08-pm)
-
-
-
-
-
-![MEGADRiVE](https://upload.wikimedia.org/wikipedia/commons/f/fd/JP_MegaDrive_Logo.gif)
-
-[Sonic the Hedgehog Rev 1](https://archive.org/details/sg_Sonic_the_Hedgehog_Rev_1_1991_Sega_JP-KR_en)
-Sonic the Hedgehog (ソニック・ザ・ヘッジホッグ Sonikku za Hejjihoggu?) is a platform video game developed by Sonic Team and published by Sega for the Sega Mega Drive/Genesis. First released in North America, Europe, and Australia on June 23, 1991, the game is the first installment in the Sonic the Hedgehog series 
-
-
-
-![Sonic1 Not For Resale](https://www.lifewire.com/thmb/8ncd0X34c6dglK5uEdM60asZn8Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Sonic_the_Hedgehog_Coverart-4-5b958f8ac9e77c0082ee596c.jpg)" 
-
-
-
-
-
-
-
-
-![linkedin](https://pbs.twimg.com/media/GILuiVmbEAAyRtH?format=jpg&name=large)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Contact](https://youtu.be/oG6y0mmI0N4?si=dPt23E0Ky8dxleUV) "We are not alone..." Two-time Academy Award-winner Jodie Foster and Hollywood's brightest new star, Matthew McConaughey, shine in this spellbinding drama of a dedicated astronomer's quest to make first Contact. Despite scorn from her colleagues...[imdb](https://www.imdb.com/title/tt0118884/) 
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-[back](./)
-# To/About::Them
-<cite> A group of women I know from my journeys that somehow all ended up in [LosAngeles](https://lacity.gov/) </cite>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Bbfo6BBOqIc?si=ReZo0RrijL1RPXTr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-### [Tesla Coils at Griffith Observatory video](https://griffithobservatory.org/) 
-
-[Tesla coil is an electrical](https://en.wikipedia.org/wiki/Tesla_coil) resonant transformer circuit designed by inventor Nikola Tesla in 1891.[1] It is used to produce high-voltage, low-current, high-frequency alternating-current electricity.[2][3] Tesla experimented with a number of different configurations consisting of two, or sometimes three, coupled resonant electric circuits.
-
-<video controls 
-  src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/teslacoilsnormaniismissing.mp4"
-  poster="https://griffithobservatory.org/wp-content/uploads/2021/11/griffithobservatory_20200623_013-scaled-1600x800-1638850104.jpg"
-  >
   Sorry, your browser doesn't support embedded videos, but don't worry, you can
-  <a href="https://archive.org/details/youtube-l14WDZCnz-w">download it</a>
+  <a href="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001374/a001374.webmhd.webm">download it</a>
   and watch it with your favorite video player!
 </video>
 
-![Cardi and Normani](https://pbs.twimg.com/media/GRwXnx5acAU5nlb?format=jpg&name=large)
 
-![Tabletop Mountain](https://pbs.twimg.com/media/GRwbIWPasAEVFpa?format=jpg&name=large)
-[Table Top Mountain NaSAJPL LOCATion](https://tmf.jpl.nasa.gov/tmf-lidar/about_us/personnel.htm) [Local LA](https://www.recreation.gov/camping/campgrounds/233735) [Table Mountain Campground](https://www.fs.usda.gov/recarea/angeles/recarea/?recid=41684) [Table Moutain Facility](https://tmf.jpl.nasa.gov/) [Table Mountain Observatory](https://en.wikipedia.org/wiki/Table_Mountain_Observatory) [Griffith Zoo to Observatory Loop](https://www.alltrails.com/trail/us/california/griffith-zoo-to-observatory-loop) [Gangstarr - Moment_0f_Truth FULL ALBUM](https://youtu.be/b1EbbT7Xrgs?si=bM1BGbtQnU9YUgSc) [Twitters](https://thakarashard.github.io/twitters/) is a [repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories) I made with some tweet where i talked about people effected by the [coviDrape](https://bristoluniversitypressdigital.com/view/journals/jgbv/6/2/article-p242.xml) of [east atlanta](https://sfi.usc.edu/collections/nanjing-massacre)
-> 23% increase of sexual and psychological violence reported in a survey of 13,786 people in Spain
-[The impact of COVID19 pandemic and government enforced lockdowns on levels of attendance and context of sexual assaults reported at Saint Marys Sexual Assault Referral Centre](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10245237/#:~:text=Reports%20of%20intimate%20partner%20violence,in%20Peru%20increased%20by%2048%25) [A Second, Silent Pandemic: Sexual Violence in the time of COVID-19](https://info.primarycare.hms.harvard.edu/perspectives/articles/sexual-violence-and-covid)
 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Vertigomovie_restoration.jpg" alt="Vertigo" />](https://upload.wikimedia.org/wikipedia/commons/7/75/Vertigomovie_restoration.jpg)
+
+# [Vertigo (1958)](https://en.wikipedia.org/wiki/Vertigo_(film))
+
+
+<video controls preload="none"  poster="https://www.cvtreasures.com/cdn/shop/files/Hitchcock-vertigo-threeB-tagged.jpg">
+  
+<source src="https://archive.org/download/vertigo.-1958.1080p./Vertigo.1958.1080p..mp4" />
+  
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/download/vertigo.-1958.1080p./Vertigo.1958.1080p..mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+
+
+
+# Street Fighter III: New Generation (Euro 970204) ストリートファイターⅢ Sutorīto Faitā Surī?
+[<img src="https://db.hfsplay.fr/files/2019/07/29/Street_Fighter_III__New_Generation-02_1_qj5ibeh.jpg" alt="Street Fighter 3 : New Generation" />](https://db.hfsplay.fr/files/2019/07/29/Street_Fighter_III__New_Generation-02_1_qj5ibeh.jpg)
+<iframe src="https://archive.org/embed/arcade_sfiii" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[<img src="https://8bitplus.co.uk/wp-content/gallery/capcom-cps-3/CPS3_Cartridge-1.jpg" alt="" />](https://8bitplus.co.uk/wp-content/gallery/capcom-cps-3/CPS3_Cartridge-1.jpg)
+
+# CPS3 Arcade system
+By the mid 90s the capcom CPS2 system was getting a but long in the tooth. The 16-bit board had build a great reputation and fan following of its amazing arcade games - [8bitplus.co.uk](https://8bitplus.co.uk/articles/capcom-cps3-system-darksoft-bios-mods/) [Electronic Gaming Monthly Issue 089 - Street Fighter 3](https://archive.org/details/electronic-gaming-monthly-issue-089-december-1996/page/n133/mode/2up)
+
+[<img src="https://8bitplus.co.uk/wp-content/gallery/capcom-cps-3/CPS3_board-1.jpg" alt="" />](https://8bitplus.co.uk/wp-content/gallery/capcom-cps-3/CPS3_board-1.jpg)
+
+[Street Fighter II: The Animated Series](https://myanimelist.net/anime/876/Street_Fighter_II_V?cat=anime)
+[Street Fighter II V (Includes ADV dub)](https://archive.org/details/street-fighter-ii-v-07-manga-adv-jpn-film-store-group_202107)
+[Street Fighter: The Animated Series 1-26](https://archive.org/details/18FaceOfFury)
+
+# [Street Fighter II: The Animated Movie (1994)](https://www.youtube.com/watch?v=mNaF9SaPx2Y)
+
+
+<video controls preload="none"  poster="https://i.ebayimg.com/images/g/JGMAAOSwiClk-rJw/s-l960.webp">
+  
+<source src="https://archive.org/download/street-fighter-ii-the-animated-movie-uncensored-1994/Street%20Fighter%20II%20%20-%20The%20Animated%20Movie%20UNCENSORED%20-%20%20%20%281994%29.mp4" />
+  
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/download/street-fighter-ii-the-animated-movie-uncensored-1994/Street%20Fighter%20II%20%20-%20The%20Animated%20Movie%20UNCENSORED%20-%20%20%20%281994%29.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+[SF_Art hfs-db hfs-play](https://db.hfsplay.fr/games/29548-street-fighter-iii-1st-new-generation?lang=de)
+
+### CAPCOM: STREET FIGHTER III 3rd STRIKE Fight For The Future ORIGINAL SOUND VERSION (2011) 
+<iframe src="https://archive.org/embed/04-player-select-arcade" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[STREET FIGHTER III (New Generation) The Characters](https://archive.org/details/street-fighter-iii-new-generation-the-characters/page/n97/mode/2up)
+![sf3 - egm](https://pbs.twimg.com/media/Gcy0rdgbcAEyAeZ?format=jpg&name=large) 
+[<img src="https://i.etsystatic.com/12175780/r/il/00145b/1892670422/il_1140xN.1892670422_7t3d.jpg" alt="Street Fighter 2 Turbo" />](https://i.etsystatic.com/12175780/r/il/00145b/1892670422/il_1140xN.1892670422_7t3d.jpg)
+[Street Fighter II Turbo - Hyper Fighting (USA) - SNES](https://www.retrogames.cc/snes-games/street-fighter-ii-turbo-hyper-fighting-usa.html) [Street Fighter II' - Hyper Fighting (street fighter 2' T 921209 USA)](https://www.retrogames.cc/arcade-games/street-fighter-ii-hyper-fighting-street-fighter-2-t-921209-usa.html) [Street Fighter II Turbo: Hyper Fighting (Guile) (Long) Japanese Commercial](https://www.youtube.com/watch?v=XDx_M46gcVc) [Street Fighter 2 Turbo (SNES) Commercial (1993)](https://youtu.be/Eg-VGKEPNMw?si=_rqNRBeUVIZH4dlM) [Street Fighter 2: Mastering Great Combinations & Strategies](https://www.youtube.com/watch?v=IfS02WjRU8g&t=153s) [Street Fighter: The Movie (v1.12)](https://www.retrogames.cc/arcade-games/street-fighter-the-movie-v1-12.html) [Street Fighter II: The Animated Movie is free to legally watch right now on YouTube. - 9mos ago ReddiT](https://www.reddit.com/r/TwoBestFriendsPlay/comments/1aodlj8/street_fighter_ii_the_animated_movie_is_free_to/) [Third Strike Concepts: Tutorial Strategy Series](https://archive.supercombo.gg/t/third-strike-concepts-tutorial-strategy-series/128301) [SF3 3rd:Strike tutorial vids](https://www.youtube.com/playlist?list=PL4426B34C3D1AA01A) 
+
+# OutRun 
+Wille Kelly remember u got the custom georgia tag `1 fast 1` i was just amped off the game u rented from [PHA℞-MOR](https://en.wikipedia.org/wiki/Phar-Mor) when i said outrun will work for [That Car - 1990](https://www.caranddriver.com/reviews/a42781098/1987-lincoln-mark-vii-lsc-by-the-numbers/) ![Phar-Mor](https://static.wikia.nocookie.net/malls/images/e/e3/Phar-Mor.png) [Phar Mor used to be our families go-to place to Rent Videos on a Friday Night - RedditPosT - /u/missanthropocenex ](https://www.reddit.com/r/nostalgia/comments/11hjo3n/phar_mor_used_to_be_our_families_goto_place_to/) [r/nostolgia](https://www.reddit.com/r/nostalgia/)
+
+<iframe src="https://archive.org/embed/msdos_Turbo_Out_Run_1990" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[<img src="https://ia802303.us.archive.org/17/items/turbo-out-run-1990/12.jpg" alt="outrun floppy disk" />](https://ia802303.us.archive.org/17/items/turbo-out-run-1990/12.jpg)
+![Phar-Mor](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Phar-Mor_Drug_Store_Final_Logo.png/1280px-Phar-Mor_Drug_Store_Final_Logo.png)
+
+# Superman 1948 Serial [FullStory](https://archive.org/download/superman-1948_202205/%5BAORE%5D%20Superman%20%281948%29/)
+## Superman Comes To Earth.mp4	
+Superman is a 1948 15-part Columbia Pictures film serial based on the comic book character Superman. It stars an uncredited Kirk Alyn (billed on-screen only by his character's name, Superman; but credited as Kirk Alyn on the promotional posters) and Noel Neill as Lois Lane. Like Batman (1943), it is notable as the first live-action appearance of Superman on film, and for the longevity of its distribution.[Wiki](https://en.wikipedia.org/wiki/Superman_(serial))
+[imdb](https://www.imdb.com/title/tt0040852/)
+<video controls preload="none"   width="100%" height="auto" poster="https://upload.wikimedia.org/wikipedia/en/8/81/Superman_serial.jpg">
+    
+<source src="https://archive.org/download/superman-1948_202205/%5BAORE%5D%20Superman%20%281948%29/01.%20Superman%20Comes%20To%20Earth.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/superman-1948_202205/%5BAORE%5D%20Superman%20%281948%29/01.%20Superman%20Comes%20To%20Earth.mp4">MP4</a>
+        video.
+</video> 
+
+## super Puzzle Fighter II Turbo
+There are a lot of folklore and stories about graffiti writers. The guy that introduced me to WestCoast fatca[p]Tags loved [SuperPuzzleFighter](https://en.wikipedia.org/wiki/Super_Puzzle_Fighter_II_Turbo). I had it on dreamcast. I never played it a ttheArcade  [Super Puzzle Fighter II X! I missed this game, and didn’t know Saturn version had extras! reddit](https://www.reddit.com/r/SegaSaturn/comments/131dnzi/super_puzzle_fighter_ii_x_i_missed_this_game_and/?rdt=38318) [Rack up chain reactions and use counter gems to put the pressure on your opponent! Super Puzzle Fighter II Turbo brings you the same heated match-ups you love from Capcom fighting games, but with puzzles!](https://www.capcom-games.com/cfc/en-us/title/spf2x.html)
+<iframe src="https://archive.org/embed/arcade_spf2t" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe> 
+
+# Ginuwine - I'll Do Anything / I'm Sorry (Official HD Video)
+<iframe width="896" height="400" src="https://www.youtube.com/embed/mN_QLo7kByk" title="Ginuwine - I&#39;ll Do Anything / I&#39;m Sorry (Official HD Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Super Street Fighter II - The New Challengers (USA) SNES](https://www.retrogames.cc/snes-games/super-street-fighter-ii-the-new-challengers-usa.html)
+![Jekyllrb](https://global.discourse-cdn.com/flex030/uploads/jekyllrb/original/2X/6/6071cc4b982fd393d892490ed7a702738c595099.png)
+# DJ Total Eclipse- Confrontation (1999)
+# ʕ •́؈•̀)
+<iframe loading="lazy" width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/216097638&color=%2300ff6c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandan-e-aka-dj-e-feezy" title="Brandan E. aka DJ E-Feezy" target="_blank" style="color: #cccccc; text-decoration: none;">Brandan E. aka DJ E-Feezy</a> · <a href="https://soundcloud.com/brandan-e-aka-dj-e-feezy/dj-total-eclipse-confrontation-1999" title="DJ Total Eclipse- Confrontation (1999)" target="_blank" style="color: #cccccc; text-decoration: none;">DJ Total Eclipse- Confrontation (1999)</a></div>
+
+# Mars Relay Network 
+[Lessons Learned from the Mars Relay Network: Considerations for Future Relay Networks](https://ieeexplore.ieee.org/document/10521332)
+<object data="https://eyes.nasa.gov/apps/mrn/#/mars" width="100%" height=400px ></object>
+
+# The Global CTX Mosaic of Mars
+[The Bruce Murray Laboratory](https://murray-lab.caltech.edu/) for Planetary Visualization has completed a 5.7 [terapixel](https://en.wikipedia.org/wiki/Gigapixel_image#:~:text=A%20terapixel%20image%20is%20an,collectively%20considered%20over%20one%20terapixel.) mosaic of the surface of Mars rendered at 5.0 m/px. Each pixel in the mosaic is about the size of a typical parking space, providing unprecedented resolution of the martian surface at the global scale.
+<object data="https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html" width="100%" height=400px >
+    </object>
+
+# Deep Space Network Now @nasa-jpl
+![DSN](https://eyes.nasa.gov/apps/dsn-now/images/intro/deep-space-network-logo@2x.png)
+
+<object type="text/html" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" style="height:500px;width:100%;" >
+    </object>
+
+
+![MADRiD_DSN](https://www.nasa.gov/wp-content/uploads/2023/08/madrid-dss-56-01.jpg)
+>Deep Space Network, Deep Space Station 56 (DSS-56), a 112-foot-wide antenna at [Madrid Deep Space Communications Complex](https://www.mdscc.nasa.gov/index.php/en/start/) in Madrid, Spain. Image Credit: [NASA](https://plus.nasa.gov/series/)
+
+
+# Library Scare [RelatedTweet](https://x.com/thakasartu/status/1857546216739057809) alt="You are not allowed at this location @nasa-jpl @deptofdefense @blackgirlscode thats what it said when i loggedin"
+[<img src="https://pbs.twimg.com/media/GcdUMpjaMAEtFwc?format=jpg&name=large" alt="You are not allowed at this location @nasa-jpl @deptofdefense @blackgirlscode thats what it said when i loggedin" />](https://pbs.twimg.com/media/GcdUMpjaMAEtFwc?format=jpg&name=large)
+![mariner](https://pbs.twimg.com/media/GZtlCP8aAAEMA_-?format=jpg&name=large)
+[COMPUTiNG:Highlighting liquid code in Jekyll = nithinbekal.com](https://nithinbekal.com/posts/jekyll-liquid-highlight/)
+
+{% highlight html %}
+<object type="text/html" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" style="height:50vh;width:100%;" />
+<object type="text/html" data="https://eyes.nasa.gov/apps/mrn/#/mars"  style="min-height:50vh;width:100%;" />  
+{% endhighlight %}
+
+# `<object>`: The External Object element 
+Im working on making Stackable includes like those [One Page Designs](https://demo.cocobasic.com/volos-wp/demo-1/) like [Wordpress](https://wordpress.org/themes/) is famous for but its  not scrolling, i stripped out all the extra HTML and it still wont scroll... [MoreLater](https://cloudcannon.com/tutorials/jekyll-tutorial/introduction-to-jekyll-includes/)
+
+
+
+{%- raw -%}
+{% include marsorbit.html %} 
+{% include dsn.html %} 
+{%- endraw -%}
+
+
+![hi fam](https://pbs.twimg.com/media/GbznUOdbwAEJllK?format=jpg&name=large)
+
+### [Macross Plus (マクロスプラス Makurosu Purasu) : - DailyMotion](https://www.dailymotion.com/video/x8lh1wo)
+[Macross](https://www.youtube.com/watch?v=go6OhS43x30) Plus (マクロスプラス Makurosu Purasu) is a four episode OVA created by Studio Nue and Triangle Staff and released by Big West and Bandai Visual between August 25, 1994 and June 25, 1995.
+[Full Story - Archive.org Macross plus parts 1-4](https://archive.org/details/8d-5c-78e-2d-17363a-04cd-004995594c-358-480p) [wiki](https://en.wikipedia.org/wiki/Macross_Plus) [FandoM](https://macross.fandom.com/wiki/Macross_Plus) [game](https://www.retrogames.cc/arcade-games/super-spacefortress-macross-chou-jikuu-yousai-macross.html) [Cyberbots - fullmetal madness (950420 Japan)](https://www.retrogames.cc/arcade-games/cyberbots-fullmetal-madness-950420-japan.html)
+
+<video controls preload="none"   width="100%" height="auto" poster="https://pinnedupink.com/cdn/shop/articles/macross-plus-ova-review-279385.jpg?v=1659653458">
+    
+<source src="https://ia801901.us.archive.org/32/items/8d-5c-78e-2d-17363a-04cd-004995594c-358-480p/16f779ec5986d5955ae06d125fc2c664-480p.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://ia801901.us.archive.org/32/items/8d-5c-78e-2d-17363a-04cd-004995594c-358-480p/16f779ec5986d5955ae06d125fc2c664-480p.mp4">MP4</a>
+        video.
+</video> 
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1573822360&color=%23b5e853&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/bia" title="BIA" target="_blank" style="color: #cccccc; text-decoration: none;">BIA</a> · <a href="https://soundcloud.com/bia/bia-fallback" title="FALLBACK" target="_blank" style="color: #cccccc; text-decoration: none;">FALLBACK</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1349165284&color=%23b5e853&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/lilmss-keyahh" title="Lakeyah" target="_blank" style="color: #cccccc; text-decoration: none;">Lakeyah</a> · <a href="https://soundcloud.com/lilmss-keyahh/lakeyah-maneuver-feat-flo" title="Maneuver (feat. Flo Milli)" target="_blank" style="color: #cccccc; text-decoration: none;">Maneuver (feat. Flo Milli)</a></div>
+
+
+
+# Nicki Minaj: ヾ(-_- )ゞ
+# Are You Gone Already
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1685293677&color=%23f244dd&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nickiminaj" title="Nicki Minaj" target="_blank" style="color: #cccccc; text-decoration: none;">Nicki Minaj</a> · <a href="https://soundcloud.com/nickiminaj/nicki-minaj-are-you-gone" title="Are You Gone Already" target="_blank" style="color: #cccccc; text-decoration: none;">Are You Gone Already</a></div>
+
+# Poesia Transcend:[photo : A_Syn](https://www.flickr.com/photos/24293932@N00/)
+[<img src="https://live.staticflickr.com/3330/3649452868_0fc640f20a_k.jpg" alt="Poesia Transcend" />](https://live.staticflickr.com/3330/3649452868_0fc640f20a_k.jpg)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4FhnuKdVt2oQbeGl3uDgok?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <style>
-  img[alt="MikiHoward"] {
-  max-width: 45%;
-  float: right;
-  clear:both;
-}
+  img[src="https://twitter.com/@poesiatranscend"] {width: 100%;}
 </style>
 
-![MikiHoward](https://i.discogs.com/kBRSM4J98280EyZ5P5y1dxplSEcm6dJktwT1MEeSaC4/rs:fit/g:sm/q:90/h:444/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDE3/MTQtMTQ3MTEwNzg2/OC05MTIyLmpwZWc.jpeg)
+[![Twitter Follow](https://img.shields.io/badge/Social-@poesiatranscend __-blue?style=social&logo=X)](https://twitter.com/@poesiatranscend)
 
-## Miki Howard
-Hi Ms_Howard, i was in a household in Savannah georgia and you were a big topic of discussion among the men. Im in a relationship with a Girl I met at Dance411 while i was doing catchwork in atlanta at shitty companies. My household mom name was Vickye_Lynn_Maxwell. She was Married to a man named Willie Kelly JR. He may not like this but she was fully enabled with property and inheritances and died b4 him and he moved another woman in. I am islamic so [im still learning the ropes of multiple relationships in the real word](https://youtu.be/0lMNMwTB5M8?si=B3GG6RPVq3zFTccg) OF DYNAMIC LIFE AND HOW I CAN BE A HEALTHY HEAD OF HOUSEHOLD! In this song you compliment a man who cares for his own nest. One of the girls I got involved wit to the point, her voince is changing and im losing the ability to talk is [Normani](https://www.youtube.com/watch?v=iHS9gu-RZGQ). I dont know where The realtionship is headed but I was looking for a partner after [my wife Erika Kelly Abandoned me with a NicuChild](https://www.essence.com/news/erika-renee-johnson-kelly-found-georgia/) And Normani stepped in. I cant stick to JehovahWitness relationship values bc i have children and i dont want them hating the other moms. 
-
-Anyway your romantic life was a specticle in savannah. [KashDoll](https://soundcloud.com/kashdoll/no-lames-feat-summer-walker) told me about " The Pretty Things". Like there is a class of human culture women of the porcilen life know about. I saw Jada outdoors rough oneday so I know you guys are dirty and clean and the album covers are just... Art. Advertisment for some ppl. Im being tortureed by the people that thknn im dirty and lie about me working for [NAsa](https://www.jpl.nasa.gov/), im not educated, like a lot of things and im scared bc the pretty thing is processing. I worked in InfoTech and only talked to my team an was a JEhovahWitnessPioneer so i am green with people. Im Sure Tracy MAck could help you understand. I sure need her! 
-
-Back to the Spectacle, there was a man named Percy Riddle he married a lady named Sabrina she wass "Pretty", vickye was "pretty" and since I went to dance411 there is a group of girls that wanna live together, and If Latto is really erika idk. But at this point in time I am understanding that aside from her sale in the local market, shes mine, but im scared of the people tthat are angry at emotions
-
-<iframe width="731" height="729" src="https://www.youtube.com/embed/SReOKWeSKRM" title="Love Under New Management" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-[5 Classic Books Every Designer Should Have by Margaret Penney | November 11, 2016](https://www.sessions.edu/notes-on-design/5-classic-books-every-designer-should-have/)
-
-<div class="twoPanelSpread">
-  <div class="row">
-    <div class="panelColumn">
-      <div class="leftColumn">
-<a href="https://youtu.be/iCgdf4pkvtQ"><img src="https://untappedcities.com/wp-content/uploads/2015/09/NASA-Graphics-Standard-Manual-Kickstarter-Hamish-Smyth-Jesse-Reed-Pentagram-NYC-3.jpg"></a>
-        </div>
-    </div>
-    <div class="panelColumn">
-      <div class="rightColumn">
-
-<a href="https://youtu.be/iCgdf4pkvtQ"><img src="https://untappedcities.com/wp-content/uploads/2015/09/NASA-Graphics-Standard-Manual-Kickstarter-Hamish-Smyth-Jesse-Reed-Pentagram-NYC-3.jpg"></a>
-         </div>
-    </div>
-  </div>
-</div>
-<img src="https://s3.amazonaws.com/standardsmanualimages/worm/detail/nasawormbook_detail02-1600.jpg">
-
-
-[NASA Graphics Standards Manual (NHB 1430.2) (January 1976)](https://www.nasa.gov/sites/default/files/atoms/files/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf)
-
-<img src="https://www.hotfootdesign.co.uk/wp-content/uploads/2015/11/nasa07_1.jpg">
-
-
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/352622777&color=%23748cac&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-557982797" title="LilFerg4real" target="_blank" style="color: #cccccc; text-decoration: none;">LilFerg4real</a> · <a href="https://soundcloud.com/user-557982797/lil-ferg-range-rover" title="LIL FERG -RANGE ROVER" target="_blank" style="color: #cccccc; text-decoration: none;">LIL FERG -RANGE ROVER</a></div>
-<img src="https://i.ytimg.com/vi/ddNppeY520o/maxresdefault.jpg">
-<img src="https://i.ytimg.com/vi/vyvwBWjz8N8/maxresdefault.jpg">
-
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-       <a href="https://www.wagesfuneralhome.com/obituaries/Muna-Ahmed/#!/PhotosVideos/Album-506573/Photo-16073847" alt="AMERiCA_IS_DYING_SLOWY_TO_PROSTITUTION"><img src="https://s3.amazonaws.com/storage.lifetributes.com/Tributes/5110628/Albums/506573/Muna-Ahmed-16073847.jpg" ></a>
-      </div>
-    </div>
-    <div class='panelColumn'>
-      <div class='rightColumn'>
-       <a href="https://www.wagesfuneralhome.com/obituaries/Muna-Ahmed/#!/PhotosVideos/Album-506573/Photo-16073847" alt="AMERiCA_IS_DYING_SLOWY_TO_PROSTITUTION"><img src="https://s3.amazonaws.com/storage.lifetributes.com/Tributes/5110628/Albums/506573/Muna-Ahmed-16073847.jpg" ></a>
-      </div>
-    </div>
-  </div>
-</div>
-
-A grid system provides an easy way for designers to structure and present content and images in an organized, manageable, and readable way... [ReadMore](https://www.oozlemedia.com/advantages-of-grid-systems-in-web-design/)
-
-<img src="https://www.sessions.edu/wp-content/uploads/00115.jpg">
-<div class="twoPanelSpread">
-  <div class="row">
-    <div class="panelColumn">
-      <div class="leftColumn">
-<a href="https://youtu.be/q6-SFIAzFnA"><img src="https://1.bp.blogspot.com/-_VAM9vv6woU/Xf5er3xzNcI/AAAAAAAAGeM/OOYW18zZzPEwvYXcWg9M_fsAv5cS5KsMgCNcBGAsYHQ/s1600/bring.jpg"></a>
-        </div>
-    </div>
-    <div class="panelColumn">
-      <div class="rightColumn">
-
-<a href="https://youtu.be/q6-SFIAzFnA"><img src="https://1.bp.blogspot.com/-_VAM9vv6woU/Xf5er3xzNcI/AAAAAAAAGeM/OOYW18zZzPEwvYXcWg9M_fsAv5cS5KsMgCNcBGAsYHQ/s1600/bring.jpg"></a>
-         </div>
-    </div>
-  </div>
-</div>
-<a href="https://readings.design/PDF/the_elements_of_typographic_style.pdf">The Elements of Typographic Style Robert Bringhurst 1992 </a>
-
-
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/694087468&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kashdoll" title="Kash Doll" target="_blank" style="color: #cccccc; text-decoration: none;">Kash Doll</a> · <a href="https://soundcloud.com/kashdoll/no-lames-feat-summer-walker" title="No Lames (feat. Summer Walker)" target="_blank" style="color: #cccccc; text-decoration: none;">No Lames (feat. Summer Walker)</a></div>
-
-
-[Normani Visits a Special Airbnb in Massachusetts, Plus Kerry Washington, Oprah Winfrey and More](https://people.com/star-tracks-saturday-august-24-2024-new-celebrity-photos-updated-daily-8700890) [Normani Spills The Tea on New Upcoming Music Videos]()
-![Cardi like missed messages](https://pbs.twimg.com/media/GV3Yjl5bMAAreIG?format=jpg&name=large)
-
-{% include computing.md %}
-{% include sega.md %}
-
-
-![pickup](https://pbs.twimg.com/media/GVyF015a8AEOLYG?format=jpg&name=large)
-## RegEx 
-[webrename](https://www.webrename.com/) <~ Bulk file renamer takes regex. I got stuck on [ricothaka.github.io/worknotes02](ricothaka.github.io/worknotes02) bc the scanner at LaPL central spits out horrible filenames. I found great images from Mariner for Robins Weather Chores. Its old but as time rolls on im understanding the fact that historical weather data can help you uinderstand the present
+[FACEBOOK/poesiatranscend](https://www.facebook.com/poesiatranscend) [POESiA_TRANSCEND](http://poesiatranscend.com/) [iG - POESiA](https://www.instagram.com/poesiatranscend/?hl=en) [FLicKr - PoeSiA](https://www.flickr.com/photos/poesiaxl/)
 
 
 
-
-![Erika](https://pbs.twimg.com/media/GVssLnUa8AAIHU7?format=jpg&name=large)
-![inbetween](https://pbs.twimg.com/media/GVssCi0a8AEYpIO?format=jpg&name=large)
-![Coral](https://pbs.twimg.com/media/GVsyzhMa8AE6bDe?format=jpg&name=large)
-[StyleFile](https://online.fliphtml5.com/kjuf/mzev/#p=1)
-![StyleFile](https://pbs.twimg.com/media/GVxJQ4EagAA61Z3?format=jpg&name=large)
-
-
-{% include graffiti.md %}
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y_vkQOweAnQ?si=ZyLacLsP1CRynHv6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2QjuTcVPDNY?si=oE2628jTGS4cycNo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-## Astro Pam,
-Kanye West was their friend at some level, but i really want you guyus to observe them
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYrMKMtUbWk?si=UaCh8xjmBy6g602F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-1982 SPECIAL REPORT: "SINGLE MOTHERS"
-
-
-[Hezakya Newz & Films](https://www.youtube.com/@HezakyaNewz)
-
-# [Image of Saturn-rings](https://solarsystem.nasa.gov/raw_images/202296/?layout=hds)
-![W0051405](https://solarsystem.nasa.gov/images/casJPGBrowseS45/W00051405.jpg)
-![N00137577](https://solarsystem.nasa.gov/images/casJPGBrowseS50/N00137577.jpg)
-![Saturn](https://pbs.twimg.com/media/GVJI7ICbMAA4Q9c?format=jpg&name=small)
-
-
-
-
-[Jeremy's Wing Review - Magic City Kitchen (Atlanta, GA)](https://www.youtube.com/watch?v=olFgFp00TTw) [Live from Atlanta's Magic City strip club with owner Mr. Magic, Juju, Lou Will and Spank](https://youtu.be/3VcZAtO-K_Y?si=z7q-MIEOgZpp-qI3) [Atlanta Georgia Nightlife - Mercedes Benz Stadium - Walking Tour 4k](https://www.youtube.com/watch?v=4KlIhf867ig)
-## Facebook Now Accessible Via Tor Anonymous Network Using .Onion Address
-[Why Facebook Just Launched Its Own 'Dark Web' Site Now the world's least anonymous website (Facebook) has just joined the Web's most anonymous network (Tor).](https://www.wired.com/2014/10/facebook-tor-dark-site/)
-[Facebook Now Accessible Via Tor Anonymous Network Using .Onion Address](https://thehackernews.com/2014/10/facebook-now-accessible-via-tor.html?_m=3n.009a.748.sk0aof3tqt.fmx)
-[Facebook opens up to anonymous Tor users with .onion address  THiS_Article is more than 7 years old ](https://www.theguardian.com/technology/2014/oct/31/facebook-anonymous-tor-users-onion)
-[facebookcorewwwi.onion is this a joke or something?](https://www.reddit.com/r/facebook/comments/kakwfk/facebookcorewwwionion_is_this_a_joke_or_something/)
-[FACEBOOK'S DARK WEB .ONION SITE REACHES 1 MILLION MONTHLY TOR USERS](https://www.inverse.com/article/14672-facebook-s-dark-web-onion-site-reaches-1-million-monthly-tor-users)
-
-<IMG src="http://i.kinja-img.com/gawker-media/image/upload/s--lS5cFdtL--/wrlpspsqwyzhmron7hgp.jpg">
-
-
-[Joe Gibbs And The Destroyers - Nevada Joe ( Amalgamated ).](https://youtu.be/M4qOp9K54DM?si=RQcxj1FkGkma0e7m)
-[Wrecked community library defiant in face of violent UK riots](https://www.yahoo.com/news/wrecked-community-library-defiant-face-171427901.html)
-[HiErika](https://www.billboard.com/music/rb-hip-hop/drake-100gb-content-young-thug-latto-21-savage-1235747997/) Latto Reveals 21-Song 'Sugar Honey Iced Tea' Tracklist Featuring Teezo Touchdown, Ciara, [Mariah The Scientist](https://www.mariahthescientist.com/) and more, the LP drops tomorrow
-[Drake Shares 100GB of Unreleased Content Including Collaborations With Young Thug, Latto & 21 Savage](https://www.billboard.com/music/rb-hip-hop/drake-100gb-content-young-thug-latto-21-savage-1235747997/)
-
-
-![ArtOfGettingOver](https://pbs.twimg.com/media/GLoOf-eacAAjRgj?format=jpg&name=large)
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/am9C2_DZ7s4?si=AiQIWZopsk5ZEKlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dm6hcG5GT24?si=nAlD52pc5xcsjsbx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-
-### coup d'é·tat /ˌko͞o dāˈtä/
-
-A coup d'état (/ˌkuːdeɪˈtɑː/ ⓘ; French: [ku deta]; lit. 'stroke of state'),[1] or simply a coup, is typically an illegal and overt attempt by a military organization or other government elites to unseat an incumbent leadership.[2][3] A self-coup is when a leader, having come to power through legal means, tries to stay in power through illegal means.[3] [ReadMoreOnWikipedia](https://en.wikipedia.org/wiki/Coup_d%27%C3%A9tat)
-![Mayor Karen Bass](https://www.discoverlosangeles.com/sites/default/files/images/2024-06/Upright%20Citizens%20Brigade%20Juneteenth%202024.jpg?width=1600&height=686&fit=crop&quality=78&auto=webp)
-
-
-<figure class=" track">
-    <IMG src="https://ia904503.us.archive.org/15/items/nas-the-lost-tapes-2/II/cover.jpg?cnt=0" />
+  {% for post in site.posts %}
     
- <figcaption>naS - wAR aGAINST lOVE
-    </figcaption>
-    <audio controls loop>
-      <source src="https://archive.org/download/nas-the-lost-tapes-2/II/09-War%20Against%20Love.mp3">
-      Your browser dose not Support the audio Tag
-    </audio>
-  </figure>
+<article class="paginator">
+  <a href="{{ site.github.url }}{{ post.url }}">
+    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+      <h2><span>{{ post.title }}</span></h2>
+    </div>
+  </a>
+</article>
 
-![rough mars](https://www.mars.asu.edu/data/mola_roughness/small/mola_roughness.png)
+  {% endfor %}
 
-## [HiView Image Viewer - Software](https://pirlwww.lpl.arizona.edu/software/HiView/download.php)
+@blackgirlscode #Noir[Normani](https://ricothaka.github.io/normani) - When I was hanging out in Downtown Savannah with that white guy with the slickback, it was Ron Decosta an he was writing Zelot. He told me abt all his [Frieght FRiends](https://steelwheelsonline.com/about.html) They were in Denver I think in his leg of the story. I dont think they [Steel Wheels](https://steelwheelsonline.com/about.html) NETWORK but idk, his @spotify podcast episode on [My Life In Letters](https://www.mylifeinletters.com/) suggest that Transcend still doing shows and making art. I wont embarass you, but just understand he had a girlfriend like u, a dancer or something named bria and got in a scary alley fight. I talked to him the next day and he was still raging! But it was like testoterone and it effected and i got more masculine in some way, makes me understand that some of the bullying comes from guys not having enough interaction to know thats not healthy testoterone! Like he did not wanna fight, but something happened the dude was fronting on him or something abt contact with his girl... anyway he had super dope wood floors and taught me [Alphonse Mucha is a Legit Artist](https://www.wikiart.org/en/alphonse-mucha), but i see that as some [billie dee shit](https://www.youtube.com/watch?v=01wJmsqjY7I&themeRefresh=1) in this era 
 
-### WHAT HiView DOES
-HiView is a data explorer and image viewing application supporting the [JPEG2000](https://jpeg.org/jpeg2000/) image format ![HiVeiw](https://www.uahirise.org/hiview/images/main-splash-screen.jpg) HiView is the best way to explore HiRISE images of the Martian surface at the full resolution of the imagery. Tracks of boulders that have fallen down crater walls, delicate rays of ejecta from fresh impact craters, and the unearthly formations created by carbon dioxide ice on the Martian south pole are just a few of the things that are waiting to be discovered by anyone using a tool like HiView with HiRISE imagery. [Video Tutorial](https://youtu.be/y3PCKnACusk?si=U5H8oqIfENLKOCNU)
-![hiview](https://www.uahirise.org/hiview/images/screen-shot.jpg)
-![HiView](https://www.uahirise.org/hiview/images/hiview-splash2.jpg)
+[I_DREAM_OF_JEANNiE S1Ep16+17 'Get Me to Mecca on Time'. + 'Richest Astronaut In The World'](https://youtu.be/PE7-prLwEXk?si=etTonN_SbpdEmYmf)
 
-![DatPiFF](https://www.datpiff.com/assets/images/datpiff-logo-white.png)
-[JAY ELECTRONICACURRENCYMOS DEF - Jay Electronica (DatPiff.com)](https://archive.org/details/datpiff-mixtape-md4ebe25) [Jay Electronica - Unreleased (DatPiff.com)](https://archive.org/details/datpiff-mixtape-m8fca3ca) [Jay Electronica Discography ?](https://www.reddit.com/r/hiphop101/comments/1vbiju/jay_electronica_discography/?rdt=41981&onetap_auto=true&one_tap=true) [Act II: The Patents Of Nobility (The Turn)](https://archive.org/details/jay-electronica-act-II-the-patents-of-nobility-the-turn ) [Jay Electronica - Act 1 The Eternal Sunshine the (DatPiff.com)](https://archive.org/details/datpiff-mixtape-md1d01fd) [DATPIFF Hip-Hop Mixtape Archives](https://archive.org/details/datpiffarchives) [Keep On Rockin It (feat. Charizma) - PeanutButterWolf My Vinyl Weighs a ton](https://youtu.be/klNiPcJMSvs?si=oKmDj7ekJrhweyyY) [Beast From The East - Lost Boyz](https://youtu.be/hJ5y0jKlLVc?si=r6GzrmRCAjaQROG7) [J A Y E L E C T R O N I C A - Letter to Falon](https://youtu.be/VtM62E7KZ6o?si=kfvh-38GJb2uc4sj)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/0iW21xFsrH509BGTEs3ufN?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+# For Loops @scadinteractive
+it works well on my [WorkBloggingTemplate](https://ricothaka.github.io/rashardlearned/),,, [MoreLAter](https://ricothaka.github.io/rashardlearned/)
 
-
-### Playlist Update 
-[playlist](ricothaka.github.io/playlist)
-<figure class=" track">
-    <IMG src="https://images.genius.com/4517fad00b6b761f9e95dad956c0ee30.1000x1000x1.jpg" />
+{%raw %}
+  {% for post in site.posts %}
     
- <figcaption> Respiration (Feat. Common).mp3 - BlackStar
+<article class="paginator">
+  <a href="{{ site.github.url }}{{ post.url }}">
+    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+      <h2><span>{{ post.title }}</span></h2>
+    </div>
+  </a>
+</article>
+
+  {% endfor %}
+{% endraw %}
+
+>You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
+
+![g](https://pbs.twimg.com/media/GcNho1BasAEoyMy?format=jpg&name=large)
+
+[Chloe](https://x.com/RicoThaka/status/1856427686421233728) @blackgirlscode
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/57eOzR6RxyfJLC3ggBQfRI?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2tqoJQbv6dNNOi0PCCjuse?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> @blackgirlscode :: [Normani iLOVEu](ricothaka.github.io/normani)
+
+# Sol 4359: Mars Hand Lens Imager [MAHLI](https://www.msss.com/science-images/mahli-acquires-test-image-en-route-to-mars.php)
+## sunday Nov 10th[Latest From MSL](https://mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=50&page=0&mission=msl)
+NASA's Mars rover Curiosity acquired this image using its Mars Hand Lens Imager (MAHLI), located on the turret at the end of the rover's robotic arm, on November 10, 2024, Sol 4359 of the Mars Science Laboratory Mission, at 04:14:53 UTC.
+[<img src="https://mars.nasa.gov/msl-raw-images/msss/04359/mhli/4359MH0008920011600066C00_DXXX.jpg" alt="" />](https://mars.nasa.gov/msl-raw-images/msss/04359/mhli/4359MH0008920011600066C00_DXXX.jpg)
+# related [tweet](https://x.com/RicoThaka/status/1855739659818795034)
+<style>
+  iframe { border-radius: 0px;}
+  </style>
+
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/0hBF1c5Dflx0cLGmrDkJlF?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+[<img src="https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153502/michiganfall_vir2_20241019.jpg" alt="michigan" />](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153502/michiganfall_vir2_20241019.jpg)
+
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/6BIcjFZIVDZxNAcofRFPx4?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe  style="border-radius:0px" src="https://open.spotify.com/embed/track/0JnsAU6ODCbreYcjqidUNt?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe loading="lazy" width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1370708743&color=%230abf04&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/djlordsear" title="Dj Lord Sear - The Lord Sear Special" target="_blank" style="color: #cccccc; text-decoration: none;">Dj Lord Sear - The Lord Sear Special</a> · <a href="https://soundcloud.com/djlordsear/mobb-deep-temperatures-rising-original-version-12" title="Mobb Deep - Temperature&#x27;s Rising (Original Version 12&quot;)" target="_blank" style="color: #cccccc; text-decoration: none;">Mobb Deep - Temperature&#x27;s Rising (Original Version 12&quot;)</a></div>
+
+# Currently Compiling 
+[Run And Gun (Ver EAA 1993 10.8)](https://www.retrogames.cc/arcade-games/run-and-gun-ver-eaa-1993-10-8.html)
+# Captain America 1944 @blackgirlscode (((#Noir )))
+## [Captain America (serial)](https://en.wikipedia.org/wiki/Captain_America_(serial))
+Captain America is a 1944 [Republic](https://www.avid.wiki/Republic_Pictures_(1935-1967)) black-and-white 15-chapter [serial film](https://tvtropes.org/pmwiki/pmwiki.php/Main/FilmSerial) loosely based on the [Timely Comics](https://rittikrai0122.wordpress.com/1-timely-publications/) (now [Marvel](https://timely-atlas-comics.blogspot.com/) Comics) character [Captain America](https://marvelsilverage.blogspot.com/2015/11/captain-america-man-out-of-time.html). 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Captain-america_serial_poster.jpg" alt="" />](https://upload.wikimedia.org/wikipedia/commons/e/e2/Captain-america_serial_poster.jpg)
+>1944 [TV-14](https://en.wikipedia.org/wiki/TV_Parental_Guidelines) 24m [imdb](https://www.imdb.com/title/tt0036697/)
+### [Captain America : - DailyMotion](https://www.dailymotion.com/video/x7c0txl)
+[Full Story - Archive.org Captain America 1944](https://archive.org/details/CaptainAmerica1944Serial1) 
+<video controls preload="none"   width="100%" height="auto" poster="https://i.ebayimg.com/images/g/djAAAOSw33Feesde/s-l1200.jpg">
+    
+<source src="https://archive.org/download/CaptainAmerica1944Serial1/Captain%20America_%201944%20Serial%20-%20%233.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/CaptainAmerica1944Serial1/Captain%20America_%201944%20Serial%20-%20%233.mp4">MP4</a>
+        video.
+</video> 
+
+
+
+
+{% highlight css %}
+img[src*="workflows/ci.yaml/badge.svg"] {width: 100%;}
+img[src*="https://badge.fury.io"] {width: 100%;}
+img[src*="img.shields.io/badge/Social-ricoThaka"] {width: 100%;}
+{% endhighlight %}
+
+
+
+
+
+
+
+# FlowControl+Decisions @blackgirlscode Noir
+@Shopify thanks for the @jekyll liquid doc! i retweeted @redhat #ansibleFest2019 // `Control flow tags create conditions that decide whether blocks of Liquid code get executed.` - [Control flow](https://shopify.github.io/liquid/tags/control-flow/)
+
+{% raw %}
+{% if product.title == "Awesome Shoes" %}
+  These shoes are awesome!
+{% endif %}
+
+
+{% for product in collection.products %}
+  {{ product.title }}
+{% endfor %}
  
-</figcaption>
-    <audio controls loop>
-      <source src="https://archive.org/download/11.-respiration-feat.-common/Mos%20Def%20%26%20Talib%20Kweli%20Are%20Black%20Star/11.%20Respiration%20%28Feat.%20Common%29.mp3">
-      Your browser dose not Support the audio Tag
-    </audio>
-</figure> 
+{% endraw %}
+# Alfred HitchcocK:Nightmare in 4-D
+>Episode aired Jan 13, 1957 [imdb](https://www.imdb.com/title/tt0508214/)
+[Alfred Hitchcock Presents - Nightmare in 4-D](https://the.hitchcock.zone/wiki/Alfred_Hitchcock_Presents_-_Nightmare_in_4-D)
 
-"Respiration" is a song by American rappers Mos Def and Talib Kweli, collectively known as Black Star. It was released as the second single from the duo’s eponymously titled 1998 album (see 1998 in music). It features a guest verse from fellow American rapper Common and guitar playing by DeChown Jenkins. The song’s production was handled by Hi-Tek, who sampled "The Fox" as performed by Don Randi. In addition, the song's introduction samples a monologue from the hip hop documentary Style Wars. It is found on Best of Decade I: 1995-2005, a compilation of Rawkus Records' best songs. It can also be found on Howie B's compilation album Another Late Night: Howie B. The single reached #54 on the Billboard Hot R&B/Hip-Hop Songs chart.[Talk About it on WikiPedia](https://en.wikipedia.org/wiki/Talk:Respiration_(song)) [GeniUs dOt cOm](https://genius.com/Black-star-respiration-lyrics)
+<video controls preload="none"   width="100%" height="auto" poster="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmF3MjF1bXB5ejQzcjV2NjE2MWJoZDAxYXpuZTZjeW54cDV2cjF4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rFldnGWJgGCbK/giphy.webp">
+    
+<source src="https://archive.org/download/alfred-hitchcock-presents-season-2/ahp-216.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/alfred-hitchcock-presents-season-2/ahp-216.mp4">MP4</a>
+        video.
+</video> 
+
+# LiQUiD
+Hi @BlackGirlscode! Normani the @jekyll calls Liquid a `templating language to process templates` not a `Programming LAnguage`. I dont know why yet. I dont know how much Patrick knew at that time. Programmers class them selves many ways. Some people Like me are [BatchJob](https://www.geeksforgeeks.org/basics-of-batch-scripting/) people that where brainwashed that we are not programmers. I read a little of that article, im not that, im some sort of Systems Programmer. But dont look down on Mashonga from DFCS ppl like her often know #FlowControl and #Logic at a level where they can program anything bc they understand iterations, cycles and other programming thought cycles that came from the old public school system. [related](https://x.com/RicoThaka/status/1855338500410974448)
+
+# contrast()
+The contrast() CSS function adjusts the contrast of the input image. Its result is a <filter-function>. The contrast of the result, specified as a <number> or a <percentage>. A value under 100% decreases the contrast, while a value over 100% increases it. A value of 0 or 0% will create an image that is completely gray, while a value of 1 or 100% leaves the input unchanged. Negative values are not allowed. The initial value for interpolation is 1. [MDN - mdn web docs](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/contrast)
+
+```css
+
+.ic {
+  filter: contrast(300%); }
+```
+<style>
+  .ic {
+  filter: contrast(300%); }
+</style>  
+<img class="ic" src="https://mars.nasa.gov/msl-raw-images/msss/04343/mcam/4343ML1066220121007579C00_DXXX.jpg" />
 
 
-[Help:Introduction to editing with Wiki Markup/1](https://en.wikipedia.org/wiki/Help:Introduction_to_editing_with_Wiki_Markup/1)[Wikipedia Editing Tutorial - Video](https://youtu.be/eufDKt6Pkko?si=TdBKXKqo0doUbz0V) The markup language called wikitext, also known as wiki markup or wikicode, consists of the syntax and keywords used by the MediaWiki software to format a page. (Note the lowercase spelling of these terms.[a]) To learn how to see this hypertext markup,  [The basics of MediaWiki Creating, Editing, Discussing Pages Working with the syntax text formatting](https://www.youtube.com/watch?v=F8irbbwNo2E) [WikiText](https://en.wikipedia.org/wiki/Help:Wikitext)
+[Superrappin - The Album - 1999 [FULL]](https://youtu.be/N7FjPPJ3mMY?t=1994)
+It doesn’t take much rain to fill the compressed, silty sediments found in Death Valley, CA.
+
+At 282 feet below sea level, Death Valley in the lowest point in North America. It is also notable as one of the driest places on the continent, but rains do fall from time to time. More than an inch of rain fell in the mountains west of Furnace Creek over two days in early March 2019 – more than triple the typical amount for the month.
+
+[<img src="https://eros.usgs.gov/sites/eros.usgs.gov/files/Badwater%20Labels%20After.jpg" alt="Rainy Days in Death Valley" />](https://eros.usgs.gov/sites/eros.usgs.gov/files/Badwater%20Labels%20After.jpg) 
 
 
-![Css Books](https://daveshea.com/i/projects/zen-book/intro.jpg)
-![Zen](https://upload.wikimedia.org/wikipedia/en/3/39/The_Zen_of_CSS_Design-cover.jpeg) Normani, I dont know what to do to upgrade but the way our pens look on CodePen is easily achivable in [Jekyll](https://github.com/jekyll/jekyll/edit/master/docs/_docs/includes.md) and stack the shits check out [Ansterdam Chemistry Innovation Day](https://www.acid-event.nl/) idk what the backend looks like, but that sectioal look is what came from [MarkDown Includes](https://developer.lightbend.com/docs/paradox/current/directives/includes.html) and its emulated in html but \ [One Page Layouts](https://www.cssdesignawards.com/website-gallery?feature=one%20page) can be seen as a stackof lego bricks that talk to each other either informationally or dynaically via some interactive programming of some sort `The include tag allows you to include the content from another file stored in the _includes folder:` [includes](https://jekyllrb.com/docs/includes/)
+### [Is That All There Is? - Peggy Lee](https://www.youtube.com/watch?v=QPP6UgkmyM4) [Stereo MC's – DJ-Kicks: (1999)](https://www.youtube.com/watch?v=HfSTdtuhfHM) [ERIC BURDON & WAR__ERIC BURDON DECLARES WAR 1970](https://www.youtube.com/watch?v=Dtul7WjTMNM)
+
+# Welcome
+Though located a world away, Lake Salda, Turkey, shares similar mineralogy as Jezero Crater on Mars.
+
+[<img src="https://eoimages.gsfc.nasa.gov/images/imagerecords/147000/147041/lakesalda_oli_2020159.jpg" alt="NASA Earth Observatory image by Lauren Dauphin, using Landsat data from the U.S. Geological Survey. " />](https://eoimages.gsfc.nasa.gov/images/imagerecords/147000/147041/lakesalda_oli_2020159.jpg)
+
+
+[<img src="https://eoimages.gsfc.nasa.gov/images/imagerecords/147000/147041/lakesalda_oli_2020159_lrg.jpg" alt="NASA Earth Observatory image by Lauren Dauphin, using Landsat data from the U.S. Geological Survey. " />](https://eoimages.gsfc.nasa.gov/images/imagerecords/147000/147041/lakesalda_oli_2020159_lrg.jpg)
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/STS-118_approaching_ISS.jpg"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/e/eb/STS-118_approaching_ISS.jpg) 
+
+
+
+I want to try R and @golang. @tiktok uses it, i was closed minded look at thier job postings. Its just kids like Adam getting run over... With my job history i have to remember Nasa is closely tied to all things D_O_D and all the crummy jobs in atlanta they may have been investigating the prostitution and im just clueless... @blackgirlscode Normani im going to try some new langs to see things different, You on social media so. These languages may help me heal with you 
+[The Go Playground](https://go.dev/play/) i just put thier sample in 
+
+
+```go
+// You can edit this code!
+// Click here and start typing.
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello, 世界")
+}
+
+```
+[<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg) 
+
+## [On the sunny side of the strip](https://youtu.be/t90eKpLif0w) 
+1960 live album by the George Shearing quintet, one of five live albums recorded by the quintet.[2] **Recorded**	1958, Cresendo Club, Sunset Strip, Los Angeles [WiKi](https://en.wikipedia.org/wiki/On_the_Sunny_Side_of_the_Strip) Gene Norman owned the Crescendo Nightclub (also the Interlude) on the Sunset Strip during the 1950s and 1960s featuring popular music and jazz. He also formed the GNP label which used many live recordings directly from the Crescendo Club - [Early Views of Hollywood (1920 +) - The Los Angeles Water and Power Associates, Inc](https://waterandpower.org/museum/Early_Views_of_Hollywood_%281920_+%29_8_of_12.html) The Crescendo was owned and operated by Gene Norman (né Eugene Abraham Nabatoff; 1922–2015) of GNP Crescendo Records who had purchased the property in 1954 from singer Billy Eckstine who had run the venue as the Chanticlair. The Chanticlair, Crescendo, and Interlude welcomed integrated audiences. Norman sold the Crescendo in 1963 to focus on GNP Crescendo Records, and in 1965, the club became The Trip.[1] - [WikiPedia](https://en.wikipedia.org/wiki/The_Crescendo_(music_venue)) The Crescendo was a West Hollywood jazz venue located at 8572 Sunset Boulevard. It opened in 1954, along with the Interlude upstairs, and ran until 1964.
+
+[<img src="https://i.discogs.com/1l7OINsp_ylRKbhl7AoWHqQsl6a6JzqQgY5HeXUynfM/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzI5/NDU3LTE1ODA1MTkx/MDItNTM0MS5qcGVn.jpeg"  alt="pollution Los Angeles" />](https://i.discogs.com/1l7OINsp_ylRKbhl7AoWHqQsl6a6JzqQgY5HeXUynfM/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzI5/NDU3LTE1ODA1MTkx/MDItNTM0MS5qcGVn.jpeg) 
+[<img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/stars-at-the-crescendo-club-archive-photos.jpg"  alt="pollution Los Angeles" />](https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/stars-at-the-crescendo-club-archive-photos.jpg) 
 
 
 
 
-<iframe src="https://eyes.nasa.gov/apps/solar-system/#/sc_juice/compare?id=sc_hubble_space_telescope&interactPrompt=true&surfaceMapTiling=true&hd=true&lighting=flood" allowfullscreen ></iframe>
+[<img src="https://waterandpower.org/4%20Historic%20Photos%204/Crescendo_Club_1950s.jpg"  alt="pollution Los Angeles" />](https://waterandpower.org/4%20Historic%20Photos%204/Crescendo_Club_1950s.jpg)  
+
+[DarkDays](https://youtu.be/lp57t4x8IMY?si=emlxPm84RFba3MuP) A cinematic portrait of the homeless population who live permanently in the underground tunnels of New York City, an [American documentary film](https://youtu.be/EEj4yBlnr1Y?si=jpXxFOXC0Bi00mBi) directed, produced, and photographed by the English documentarian Marc Singer that was completed and released in 2000. Shot during the mid-1990s, it follows a group of people who lived in the Freedom Tunnel section of the Amtrak system at the time.[1][2] DJ Shadow created [new music for the documentary and also let Singer use some of his preexisting songs](https://www.youtube.com/watch?v=mVyTRjv38Yg). [Prime Video](https://www.amazon.com/Dark-Days-Marc-Singer/dp/B006M6NLR0) [Dj Shadow - Six Days rmx](https://youtu.be/tDqfI1Yz4VI) [DJ Shadow – Essential Mix [2016-07-02] bbc radio 1](https://youtu.be/JatZ2FT9Td4?si=Rr2FBdYF0GHibpA1) [DJ Shadow Solid Steel Live from Ninja Tune headquarters](https://www.youtube.com/watch?v=oi514k8ZqDQ) [Aphex Twin - Selected Ambient Works 85-92](https://www.youtube.com/watch?v=Xw5AiRVqfqk&t=1342s) [bonobo - ESSENTIAL mix 2014, [2014-04-12]BBC radio 1 #bonobo](https://www.youtube.com/watch?v=jwHnLHwypuk&t=1361s) [🔥🔥Bonobo Boiler Room New York DJ Set🔥🔥](https://www.youtube.com/watch?v=uynCeLheCPc&t=2237s)
+
+[<img src="https://m.media-amazon.com/images/S/pv-target-images/6a5bf78c1035af8370d96a04de57b58e93967e97204b43c4bb4ee05b9740740f.jpg"  alt="pollution Los Angeles" />](https://m.media-amazon.com/images/S/pv-target-images/6a5bf78c1035af8370d96a04de57b58e93967e97204b43c4bb4ee05b9740740f.jpg) 
+
+
+## Kool G Rap & DJ Polo, Big Daddy Kane & Biz Markie - Erase Racism
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/wWuFj_HAjYs?si=SR8YzJ_VTSc3jnDi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62600/62672v.jpg"  alt="pollution Los Angeles" />](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62600/62672v.jpg) 
+[<img src="https://noirlab.edu/public/media/archives/images/large/noirlab2116a.jpg"  alt="pollution Los Angeles" />](https://noirlab.edu/public/media/archives/images/large/noirlab2116a.jpg) 
+
+>Credit:International Gemini Observatory/NOIRLab/NSF/AURA, M.H. Wong (UC Berkeley) et al. Acknowledgments: M. Zamani @astro-datalab im Rashard i used to wear a Argyle PhatFarm vest an Erika was my JehovahWitnessWifeTobe she is now a SoundcloudSensation called LAtto and i work @nasa-jpl an wanna be a good artist in unix
+## Gemini North, one half of the International Gemini Observatory, operated by NSF’s NOIRLab
+The laser may seem bright, but this is due to the long exposure of the picture — you can see the stars trailing across the night sky through the open dome indicating the long exposure time. The TOPTICA laser of the observatory is generally dim to the naked eye, depending on how close you are standing to it. 
+[<img src="https://noirlab.edu/public/media/archives/images/wallpaper4/iotw2406a.jpg"  alt="pollution Los Angeles" />](https://noirlab.edu/public/media/archives/images/wallpaper4/iotw2406a.jpg)
+[<img src="https://noirlab.edu/public/media/archives/images/publicationjpg/iotw2227a.jpg"  alt="pollution Los Angeles" />](https://noirlab.edu/public/media/archives/images/publicationjpg/iotw2227a.jpg)
+>Gemini North, one half of the International Gemini Observatory, operated by NSF’s [NOIRLab](https://noirlab.edu/public/images/iotw2406a/)
+
+[<img src="https://noirlab.edu/public/media/archives/images/publicationjpg/noao-sun.jpg"  alt="High resolution solar spectrum NoirLaB" />](https://noirlab.edu/public/media/archives/images/publicationjpg/noao-sun.jpg)
+
+
+```
+
+[Syntax highlighting in markdown](https://support.codebasehq.com/articles/tips-tricks/syntax-highlighting-in-markdown)
+
+```css
+img[alt*="USGS"] {width: 100%;
+border-bottom:solid 10px  #BF785E;}
+img[src*="nasa.gov"] {width: 100%;
+border-bottom:solid 10px  #c9ff23;}
+```
 
 
 
-## BattleToadS
-by [ElecTronicArts](https://www.ea.com/)  [BattleToadS Arcade](https://www.retrogames.cc/arcade-games/battletoads.html) [Sega Genesis](https://archive.org/details/Battletoads_World.md)
 
-[![BattleToads](https://i0.wp.com/arcademarquee.com/wp-content/uploads/2017/01/battletoads_marquee.jpg?fit=800%2C237&ssl=1)](https://i0.wp.com/arcademarquee.com/wp-content/uploads/2017/01/battletoads_marquee.jpg?fit=800%2C237&ssl=1)
-
-
-
-<div class="pinupImage expandingGallery">
-<img src="https://pbs.twimg.com/media/GO3eDMIasAAUHMp?format=jpg&name=large" />
-<img src="https://pbs.twimg.com/media/GO3ePDIaAAA18IW?format=jpg&name=large" />
-<img src="https://pbs.twimg.com/media/GO3fAfpaQAAmoqn?format=jpg&name=large" />
-<img src="https://pbs.twimg.com/media/GO3ffBoa8AAuqsh?format=jpg&name=large" />
-
- </div>
  
  ![BattleToads](https://ia801802.us.archive.org/0/items/Battletoads-NES-CartScans/Battletoads%20-%20Cart%20Top.jpg)
 
 
 ### ᕙ(⇀‸↼‶)ᕗ
 
-[Chloe Bailey Makes a Splash at St. Lucia Carnival](https://www.bet.com/article/4elui5/chloe-bailey-st-lucia-carnival-viral) [Social Media Sends Bhad Bhabie Prayers After She Shared THIS Video Following Her Abuse Claims Against Le Vaughn (WATCH)](https://theshaderoom.com/social-media-reacts-bhad-bhabie-kissing-video-claims-against-le-vaughn-watch/) [Chlöe and Halle Bailey Share When They Feel Most Confident and Some Tips for a Viral Fashion Moment](https://www.eonline.com/news/1384354/chloee-and-halle-bailey-share-when-they-feel-most-confident-and-tips-for-a-viral-fashion-moment) [Don Cheadle, Chloe Bailey, Lori Harvey And More Added To Peacock’s ‘Fight Night’ As Series Continues To Add To Ensemble](https://www.yahoo.com/news/don-cheadle-chloe-bailey-lori-174629273.html) [Chloe Bailey shocked to know TikTok stream can help her make money](https://www.thenews.com.pk/latest/1165806-chloe-bailey-shocked-to-know-tiktok-stream-can-help-her-make-money) [Cardi B Reacts To Chloe Bailey’s ‘Be Careful’ Cover](https://www.bet.com/article/z7km74/cardi-b-reacts-to-chloe-bailey-s-be-careful-cover)
-
-
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/kLBNMhzn8VI" title="Immortal Technique - Toast to the Dead w/ lyrics HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-[Crooklyn Dodgers (Special Ed, Masta Ace & Buckshot) - Crooklyn (Official Video)](https://www.youtube.com/watch?v=a2pzmty3LVs) [HTAU](https://ricothaka.github.io/htau.html) [Beenie Man ‎– Crazy Notion](https://youtu.be/X1RgygADUpE?si=7YIc1LkItTQy0Sd0) [Old Dog - BeenieMAn reggae](https://youtu.be/7lLwcdoWvsY?si=tnw-Ro1XZ1G_TjbV) [Walt Disney Treasures - Hawaiian Holiday (1937)](https://youtu.be/SdIaEQCUVbk?si=-37tvaVyxT5oi72i)
- [Walt Disney Animation Studios - includes Steamboat Willie](https://youtube.com/playlist?list=PLA831BC0E127BC123&si=cttvuhgBj8j9wJ_v)
-
-![normani tryre](https://static.stereogum.com/uploads/2024/07/25614876-04EB-48B1-8E67-AA70D7B75F7A-1721156229-1000x1000.jpg)
-[Tayla Parx Calls Out Normani For Not Crediting Her Work On “Insomnia”](https://www.stereogum.com/2271890/talya-parx-calls-out-normani-for-not-crediting-her-work-on-insomnia/news/)
-![Stranger Things Party?](https://cdn0.vox-cdn.com/uploads/chorus_asset/file/6630545/strangerthingsgif.0.gif)
-
-[ITC Benguiat is a decorative serif typeface designed by Ed Benguiat and released by the International Typeface Corporation (ITC) in 1977.](https://www.linotype.com/576/itc-benguiat-family.html) The face is loosely based upon typefaces of the Art Nouveau period but is not considered an academic revival. The face follows ITC's design formulary of an extremely high x-height, combined with multiple widths and weights. The original version of 1977 contained numerous nonstandard ligatures (such as AB, AE, AH, AK, AR, LA, SS, TT) and alternate shapes for some letters which were not carried into the digital version. - TAKEN_FRON_WiKiPEDiA
-
-
-![normani wap](https://i.ytimg.com/vi/WxJyqa0IHTI/maxresdefault.jpg)
-
-
-[Guardian Heroes (Saturn)](https://www.retrogames.onl/2018/09/guardian-heroes-saturn.html) [POSTS BTS VIDEO OF NORMANI dancing](https://www.tmz.com/2020/08/08/cardi-b-behind-the-scenes-wap-normani-dancing-fifth-harmony/) [CARDI B - WAP (FEAT. MEGAN THEE STALLION)  NORMANI BEHIND THE SCENE](https://youtu.be/WxJyqa0IHTI?si=FswWnWOP_lGzQ44s)
-
-![Columns](https://www.zonaarcade.com/fotos/capturas/Columns-Marquee-Restored-Mikonos1.jpg)
-<iframe src="https://archive.org/embed/arcade_columns" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-Columns ([コラムス](https://archive.org/details/gg_Columns_1991_Sega) Koramusu?) is a tile matching puzzle video game, first created in 1989 by Jay Geertsen. Early versions of the game were made and ported among early computer [platforms](https://zonaarcade.forumcommunity.net/?t=62468836), and then the Atari ST, until 1990, when Jay Geertsen sold the rights to Sega, where it was ported to several Sega consoles.
-
-[column-fill](https://developer.mozilla.org/en-US/docs/Web/CSS/column-fill) The column-fill CSS property controls how an element's contents are balanced when broken into columns.The column-fill property specifies how to fill columns, balanced or not.
-
-Tip: If you add a height to a multi-column element, you can control how the content fills the columns. The content can be balanced or filled sequentially. [w3schools](https://www.w3schools.com/cssref/css3_pr_column-fill.php) [Spanning and balancing columns](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_multicol_layout/Spanning_balancing_columns) In this guide, we look at how to make elements span across columns inside the multi-column (multicol) container and how to control how the columns are filled.[ColumnFill](https://css-tricks.com/almanac/properties/c/column-fill/)
-### Normani: Dopamine, Growth & Tour | Apple Music
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IH5qyYd0-4I?si=ic3PnKM-uQCpXEwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-[Normani On Debut Album Dopamine Possible Fifth Harmony Reunion  More Billboard News](https://youtu.be/Isjeg9yKpVw?si=NRctPfqWYP22vIfk) [Normani Talks About A Dream Collab with Rosalia, Her New Album 'Fair,' + More!](https://youtu.be/l97rZmkGiAE?si=avzLoGNffz8zulH2) [Normani “Wild Side” Official Lyrics MeaningVerified](https://www.youtube.com/watch?v=A-h9IAeoMw4) Normani, On Her Own Time Five years after releasing [her](https://youtu.be/-14UEQ7A5dE?si=VMi5sSKkPDt8k26S&t=1369) first solo single, the pop star’s debut album is finally here. Normani explains the wait. [The Cut dOt cOm](https://www.thecut.com/article/normani-dopamine-album-interview-cut-cover-april-2024.html) [Normani Channeled Janet, Recruited Brandy, and Put ‘Absolutely Everything’ Into Her Album ‘Dopamine’](https://www.rollingstone.com/music/music-features/normani-dopamine-janet-jackson-brandy-fifth-harmony-interview-1235033005/) The pop-R&B star talks about finding love, finishing her debut LP, and getting a text from a Fifth Harmony sister [BY TOMÁS MIER](https://www.rollingstone.com/author/tomas-mier/)
-
-[![Engraving of "The Vision of The Valley of The Dry Bones" by Gustave Doré](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/The_Vision_of_The_Valley_of_The_Dry_Bones.jpg/800px-The_Vision_of_The_Valley_of_The_Dry_Bones.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/The_Vision_of_The_Valley_of_The_Dry_Bones.jpg/800px-The_Vision_of_The_Valley_of_The_Dry_Bones.jpg "Redirect to homepage")
-
-By <a href="https://en.wikipedia.org/wiki/en:Gustave_Dor%C3%A9" class="extiw" title="w:en:Gustave Doré"><span title="French illustrator and painter (1832–1883)">Gustave Doré</span></a> - <a rel="nofollow" class="external free" href="https://www.flickr.com/photos/49580580@N02/5340485342/">https://www.flickr.com/photos/49580580@N02/5340485342/</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=12656746">Link</a>
-
-[Vision of the Valley of Dry Bones](https://en.wikipedia.org/wiki/Vision_of_the_Valley_of_Dry_Bones) [Dry Bones In The Valley : Reverend B.W. Smith](https://www.youtube.com/watch?v=-14UEQ7A5dE)
-![Made with Sartu in decatur](https://pbs.twimg.com/media/GStdTdtacAAayA2?format=jpg&name=large)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/s3Mk9N2ICac?si=WNDrEKZzg9yANXZO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-
-![Coi on mars?](https://pbs.twimg.com/media/GJ3y5jQbcAAsZHe?format=jpg&name=large)
-![Normani saw may desin](https://pbs.twimg.com/media/GJ3ykrCaEAAn258?format=jpg&name=large)
-![Vickye](https://pbs.twimg.com/media/GJxj546akAQgKHF?format=jpg&name=large)
-![imperfectyourdoomed](https://pbs.twimg.com/media/GJxgeX5akAANQV9?format=jpg&name=large)
-[I'm perfect, you're doomed : tales from a Jehovah's Witness upbringing](https://archive.org/details/imperfectyouredo00abra/page/n15/mode/2up)
-![exJW](https://pbs.twimg.com/media/GJxgYFzakAIGjXq?format=jpg&name=small)
-[Triple Six Mafia - Underground Vol.1 1991-1994](https://www.youtube.com/watch?v=NWlGhqHT5tM)
-![Muna are you Nicki](https://pbs.twimg.com/media/GIRSAHbbEAASebu?format=jpg&name=small)
-![East Atlanta](https://pbs.twimg.com/media/GIRSAYFaUAAFLZF?format=jpg&name=small)
- [Name iT After Me - Juicy J](https://youtu.be/5eysL68IoTI?si=c-zZh3N-371PqsPt)
-![sun](https://pbs.twimg.com/media/GIah_3Ca4AArz4_?format=png&name=medium)
-![FLOE ZELOT FA](https://pbs.twimg.com/media/GIMIEhBaoAAYEFy?format=jpg&name=large)
-![powerade coral totem + viper](https://pbs.twimg.com/media/GIMIGkXa0AAdq84?format=jpg&name=large)
-![HTUA](https://pbs.twimg.com/media/GIMIJXGaEAESjHt?format=jpg&name=large)
-![htua heart](https://pbs.twimg.com/media/GIMIIG-a0AATohc?format=jpg&name=large)
-![Waterfall](https://pbs.twimg.com/media/GIMH9NMaEAA53kN?format=jpg&name=large)
-![l5p](https://pbs.twimg.com/media/GIMHvPAbgAA-pCR?format=jpg&name=medium)
-![lets do it again](https://pbs.twimg.com/media/GIMHsPOasAAfrDr?format=jpg&name=medium)
-![hard to the top](https://pbs.twimg.com/media/GIMHky8a8AAfI3G?format=jpg&name=large)
-![50mm Film](https://pbs.twimg.com/media/GIMHl65bQAA7CxN?format=jpg&name=large)
-![Mario Lover](https://pbs.twimg.com/media/GIMHRL2aUAAtyS0?format=jpg&name=large)
-![Coral my figher from the nicu](https://pbs.twimg.com/media/GIMHX0HbUAAUA6B?format=jpg&name=large)
-![DopeNiggaz_constanciashouseSartuzeeAnDMe](https://pbs.twimg.com/media/GIMHVTZbIAAHFX8?format=jpg&name=large)
-![Graffiti](https://pbs.twimg.com/media/GIMEla9bEAAeKlZ?format=jpg&name=large)
-
-
-
-<img src="https://pbs.twimg.com/media/GIMEpczbsAAvCuT?format=jpg&name=large" />
-<img src="https://pbs.twimg.com/media/GIMEkJ_bkAAmeAs?format=jpg&name=large" />
-<img src="https://pbs.twimg.com/media/GIMEndkbYAAoMbq?format=jpg&name=large" alt="erika blackbook in tuscon" />
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-        <img src="https://pbs.twimg.com/media/GIMDiaIa8AAebTk?format=jpg&name=large" alt="BUBBLEGUM_POP">
-      </div>
-    </div>
-    <div class='panelColumn'>
-      <div class='rightColumn'>
-        <img src="https://pbs.twimg.com/media/GIMDjmAbcAAJvVy?format=jpg&name=large" alt="Corals Plant Science PRogect Goal Victory">
-
-  </div>
-  </div>
-  </div>
-</div>
-
-
-![My Computer](https://pbs.twimg.com/media/GIMDGNkbUAAMRGy?format=jpg&name=large)
-![iEsha Dennis of Oakland Berkeley](https://pbs.twimg.com/media/GIMCbOqa4AAIkTy?format=jpg&name=medium)
-<img src="https://pbs.twimg.com/media/GIMBvN0agAA0MXs?format=jpg&name=medium" alt="Erika Johnson 5755 Los Angeles St.">
-
-![Connie and Coral](https://pbs.twimg.com/media/GIMB4JBaMAEcWhH?format=jpg&name=large)
-![Atlanta BeltLine Art](https://pbs.twimg.com/media/GIMBcdlbAAAvDPR?format=jpg&name=medium)
-<a href="https://pbs.twimg.com/media/GIMBeb3a0AEHgjt?format=jpg&name=medium" ><img src="https://pbs.twimg.com/media/GIMBeb3a0AEHgjt?format=jpg&name=medium" alt="tashi b aka Vanessa Sartu Normani" /></a>
-<img src="https://pbs.twimg.com/media/GIMBI5saQAAmA-Z?format=jpg&name=large" />
-<img src="https://pbs.twimg.com/media/GIMAiV7agAALqTm?format=jpg&name=medium" />
-<img src="https://pbs.twimg.com/media/GIL8nEAbEAEy47X?format=jpg&name=medium" />
-<img src="https://pbs.twimg.com/media/GIL8pEQaEAAAmzJ?format=jpg&name=medium" alt="chatham county" />
-
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-        <img src="https://pbs.twimg.com/media/GIL_6MPbEAAHsLH?format=jpg&name=large" alt="BUBBLEGUM_POP">
-      </div>
-    </div>
-    <div class='panelColumn'>
-      <div class='rightColumn'>
-        <img src="https://pbs.twimg.com/media/GIL_458aYAAMQeX?format=jpg&name=large" alt="Girlinajacket">
-
-  </div>
-  </div>
-  </div>
-</div>
-
-
-
-<img src="https://pbs.twimg.com/media/GIL-nvwbIAA11Dp?format=jpg&name=medium" />
-
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-        <img src="https://pbs.twimg.com/media/GIL-lN7asAAvi1q?format=jpg&name=medium" alt="BUBBLEGUM_POP">
-      </div>
-    </div>
-    <div class='panelColumn'>
-      <div class='rightColumn'>
-        <img src="https://pbs.twimg.com/media/GIL-mkDb0AAI2F_?format=jpg&name=medium" alt="Girlinajacket">
-
-  </div>
-  </div>
-  </div>
-</div>
-
-
-![chromeEastAtlanta](https://pbs.twimg.com/media/GIL-WMkbYAAptZd?format=jpg&name=large)
-![Renee Kelly Williams holding KEllie Danielle Williams](https://pbs.twimg.com/media/GIL-YtFaEAARw2j?format=jpg&name=large)
-![Me And Coral](https://pbs.twimg.com/media/GIL-aKkboAA46F1?format=jpg&name=large)
-
-![Corals Slap Tag](https://pbs.twimg.com/media/GIL-XUNbEAAbv89?format=jpg&name=large)
-
-
-![Unicorn_Club](https://pbs.twimg.com/media/GILz6VUbAAApcsY?format=jpg&name=medium)
-<div class="normani">
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-    </div>
-
-<img src="https://pbs.twimg.com/media/GIL128Va8AA-a2y?format=jpg&name=medium" />
-
-### hi manessa
-can i see coral?
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-        <img src="https://pbs.twimg.com/media/GILypkTaUAAdm6c?format=jpg&name=medium" alt="BUBBLEGUM_POP">
-      </div>
-    </div>
-    <div class='panelColumn'>
-      <div class='rightColumn'>
-        <img src="https://pbs.twimg.com/media/GILypkTaUAAdm6c?format=jpg&name=medium" alt="Girlinajacket">
-
-  </div>
-  </div>
-  </div>
-</div>
-
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-        <img src="https://pbs.twimg.com/media/GIL1Ax-aQAAVSEa?format=jpg&name=medium" alt="BUBBLEGUM_POP">
-      </div>
-    </div>
-    <div class='panelColumn'>
-      <div class='rightColumn'>
-        <img src="https://pbs.twimg.com/media/GIL1Bm5bUAA4cp-?format=jpg&name=medium" alt="Girlinajacket">
-
-  </div>
-  </div>
-  </div>
-</div>
-
-![Save_Coral](https://pbs.twimg.com/media/GILyKDQbQAAoGUM?format=jpg&name=large)
-![LoveBomrs](https://pbs.twimg.com/media/GILqLe_a8AACmzS?format=jpg&name=medium)
-![Dry_Bones_iN_THE_VALLEY](https://pbs.twimg.com/media/GILqKwKaQAAkinq?format=jpg&name=large)
-![Ron_arcade_concept:1st_try](https://pbs.twimg.com/media/GILp7MubQAAIHyA?format=jpg&name=900x900)
-![sonicCD](https://pbs.twimg.com/media/GHjQ7OgakAAdhZ0?format=jpg&name=large)
-![Yoshiisland2](https://pbs.twimg.com/media/GHjO6Fsa4AAmfI0?format=jpg&name=large)
-[RawHide - Ole Dirty Bastard](https://youtu.be/K8kEVVeoj6E?si=TPciDstpzSSyIVyg) [Master P - Ghetto D GHETTO D](https://youtu.be/4N2qgn8QTWE?si=DD3tSx7kBUFIh3Vv)
-![Coral iris Kelly](https://pbs.twimg.com/media/GIL9BCXaEAAS2wk?format=jpg&name=medium)
-![s197](https://pbs.twimg.com/media/GIL8_-NaoAA_mi4?format=jpg&name=medium)
-![s197](https://pbs.twimg.com/media/GIL_8nzbUAAXnpO?format=jpg&name=medium)
-![me](https://pbs.twimg.com/media/GIMAQObb0AAj-rV?format=jpg&name=medium)
-[Do It How It Go](https://youtu.be/tNusjh2nxsM?si=-d7w2jNd4Z6zQgi1) [Don't Flex 8Ball+MJG](https://youtu.be/4dsquXqlujE?si=Wp_0MsRZz8teiz8P) [Freak Hoes](https://youtu.be/n3SoHeT3bbc?si=VYPtaAcumZIrcogo) [Comin' Out Hard - 8ball+MJG](https://youtu.be/sJXxGDPMtYY?si=4FY9D_JCG-RrD-o0) [B-Rock & The Business Boyz "Hump 2 Da Sound" (1994)](https://www.youtube.com/watch?v=r_8xuSG01r0) [DG Yola Fea. Goodie Mob "Get Some Of Dat Yola"](https://www.youtube.com/watch?v=Rc1v8zcNhpI) [Normani - Still (Audio)](https://youtu.be/Shz79-CRyzc?si=3Af7_YgLyLKD59g9) [Pilot Episode | I, Darrin, Take This Witch, Samantha | S1E1 | Bewitched](https://youtu.be/oB_vXlgcCpw?si=O_TWnWDvSjS7-kYS) [Beenie Man, Mya - Girls Dem Sugar](https://youtu.be/sW_ePQRvrKI?si=4GAjeKLsolYJyoi_) [Super Cat - Ghetto Red Hot](https://youtu.be/KS6bVTYRh-w?si=CJlbSiWH8j60YBnB) [Let Him Go - BeenieMan](https://www.youtube.com/watch?v=eajzyXw1uuQ) [Patra - Queen of the Pack](https://youtu.be/Zxnlhy8c_ys?si=idorK_T35uzZvD7p)
-![decatur](https://pbs.twimg.com/media/GIMGoD5asAAoBS-?format=jpg&name=large)
-![iphone](https://pbs.twimg.com/media/GFrWeXpbAAIDdK8?format=jpg&name=medium)
-![saa2](https://pbs.twimg.com/media/Fx-cb1naUAAON2J?format=jpg&name=large)
-
-![Santa Monica](https://pbs.twimg.com/media/GGlEm4TaUAAba7e?format=png&name=900x900)
-[VSCO LOS ANGELES COViD19 PHOTOS](https://vsco.co/rashardsartu/gallery)
-![Normani injured ?](https://cdn-p.smehost.net/sites/5b3bac59eb36401694af3a241173447f/wp-content/uploads/2024/06/Normani-imagen.jpeg)
-![normani?](https://pbs.twimg.com/media/GG5PcOMbYAAbl4G?format=jpg&name=large)
-[Dial M For Murder 1954, Hitchcock](https://archive.org/download/dial.-m.-for.-murder.-1954.720p.-br-rip.x-264.-yify)
-
-<iframe src="https://archive.org/embed/dial.-m.-for.-murder.-1954.720p.-br-rip.x-264.-yify" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-![instagram](https://pbs.twimg.com/media/GGerVUZaQAAqAr2?format=jpg&name=small)
-
-![itsRashardakaThaka](https://pbs.twimg.com/media/GIMFh1zbsAAv2WF?format=jpg&name=large)
-![Amnija](https://pbs.twimg.com/media/GG0_nmMaMAAAuzR?format=jpg&name=large)
-![JW](https://pbs.twimg.com/media/GHNk9LkbsAAL-QD?format=jpg&name=large)
-![gallery code](https://pbs.twimg.com/media/GJzIHYAasAA-d_o?format=jpg&name=large)
-![Marvel Super Heroes Title Screen](https://pbs.twimg.com/media/GHZCYysbIAAvHi1?format=jpg&name=large)
-![Moon is next](https://pbs.twimg.com/media/GHXZxEJaYAAJjmm?format=jpg&name=large)
-
-
-[Normani这个Fifth Harmony"五美"出身的女艺人的事业简直太tm诡异了！看得明白很多人，唯独看不透她。](https://mp.weixin.qq.com/s?src=11&timestamp=1720829815&ver=5379&signature=i*KFU5iKdMxkE*BYJ-msrTbxHQ5NhHlHzLm3J0DgcQ00LTuc5IzagANdsuUJMXc94LZYXojvgv4ZQF93W4tFDB9hsThrP1IU6EAiwfibs7zGk*r0EFZXjP*ikpE3Fb9u&new=1)
-[Nicki Minaj的恶趣味](https://mp.weixin.qq.com/s?src=11&timestamp=1720829642&ver=5379&signature=iTCXBN1A0QlfFTAbR9-N1NFyqrwh9Ug5n9D*jymPC1QmxJ7cj9jOh-wNRTQi62zzpDdPXErz1lmXOIxZC0shGTOS1ex6FihbMM3b4hFq0Uf7JijpwcgMLiVNK6vCcmaF&new=1) [[业内]史诗级马赛克操作带来NICKI MINAJ，DWP主办棒棒嗒](https://mp.weixin.qq.com/s?src=11&timestamp=1720829642&ver=5379&signature=j7LqNlRphb34BKRpzDK4xzmaoEMaG3BbdMl7kKu*JmUtU1EjYBgfEY2EMDo8djRTisIdNVPg4b9rhKCN9Qkq5cNzwVYgmDaW2cgZ4G3dV4-AgIhFeAQRTLMgDHf8-uoJ&new=1) [Eminem makes controversial Lizzo diss in his new album](https://www.unilad.com/music/eminem-lizzo-diss-track-song-road-rage-359070-20240712)
-[Normani Reveals An Injury Led To The Cancellation Of Her BET Awards Performance](https://www.msn.com/en-us/music/news/normani-reveals-an-injury-led-to-the-cancellation-of-her-bet-awards-performance/ar-BB1pdv5S) [Cardi B defends pornography after Candace Owens urges for a total ban](https://www.unilad.com/news/cardi-b-defends-pornography-candace-owens-ban-495069-20240529) [List of search engines](https://en.wikipedia.org/wiki/List_of_search_engines) [Xscape on The Big Tigger Morning Show](https://youtu.be/824Ps5bcF6Q?si=WvWG2CRAsfx3UKFS)  [Tasha Smith on Bad Boys, Being Tisha Campbell's Assistant, Kissing Martin, Replacing Teresa](https://youtu.be/5hFqIN7GicU?si=0n2GEk0iQq1WEhxB) [Katt Williams Wants The Smoke, Goes In on Tiffany Haddish, Kevin Hart and Others on V-103](https://www.youtube.com/watch?v=2n2t7ww46mI) [Cardi B reveals the meanest online comment she's received that 'made her cry](https://www.unilad.com/celebrity/news/cardi-b-tiktok-comments-trolls-made-her-cry-284476-20240520) [nikiminaj](https://mmbiz.qpic.cn/mmbiz_jpg/kbK9iagPzQDhNGhaMzm0ESFozWeDFAkicutTfIJmSw419BcOyDyYerDmfwib4wtXgT9wPWcXsicKiapdZbjA5V6EUXg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1) filtered on frontend 
-[https://thakarashard](https://x.com/MooNLOVER404/status/1811874827709673780) [Normani Details ‘Really Bad Accident’ That Forced Last Minute Cancelation of Her 2024 BET Awards Performance](https://www.usmagazine.com/entertainment/news/normani-reveals-accident-behind-canceled-bet-awards-performance/) 
+# [older posts](./current02)
