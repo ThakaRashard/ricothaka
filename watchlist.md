@@ -1,6 +1,28 @@
 
 # watchlist
 
+
+
+
+
+
+
+# The IT Crowd:The Work Outing
+>Episode aired Aug 24, 2007 [TV-14](https://en.wikipedia.org/wiki/TV_Parental_Guidelines) 24m [imdb](https://www.imdb.com/title/tt0849997/)
+[IT crowd Season 2 episode 1 "The Work Outing" is the funniest piece of television ever written. /r/television `Minecraftfinn`](https://www.reddit.com/r/television/comments/ieodna/it_crowd_season_2_episode_1_the_work_outing_is/?rdt=60956)
+
+<video controls preload="none"   width="100%" height="auto" poster="https://i.imgur.com/jO0p7Xp.gif">
+    
+<source src="https://archive.org/download/alfred-hitchcock-presents-season-2/ahp-216.mp4 https://archive.org/download/the-it-crowd_202204/The%20IT%20Crowd%20%282006%29%20Complete%20%2B%20Extras%20%28Mixed%20x265%20HEVC%2010bit%20AAC%202.0%20Panda%29/The%20IT%20Crowd%20%282006%29%20Season%202%20S02%20%2B%20Extras%20%28576p%20x265%20HEVC%2010bit%20AAC%202.0%20Panda%29/The%20IT%20Crowd%20%282006%29%20-%20S02E01%20-%20The%20Work%20Outing%20%28576p%20x265%20Panda%29.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/the-it-crowd_202204/The%20IT%20Crowd%20%282006%29%20Complete%20%2B%20Extras%20%28Mixed%20x265%20HEVC%2010bit%20AAC%202.0%20Panda%29/The%20IT%20Crowd%20%282006%29%20Season%202%20S02%20%2B%20Extras%20%28576p%20x265%20HEVC%2010bit%20AAC%202.0%20Panda%29/The%20IT%20Crowd%20%282006%29%20-%20S02E01%20-%20The%20Work%20Outing%20%28576p%20x265%20Panda%29.mp4">MP4</a>
+        video.
+</video> 
+
+
+
+
 [Fire and Ice 1983](https://archive.org/details/a137ee3e2a37701695abd791d95bfeaf-1080p)
 <video controls preload="none"  width="100%" height="auto" poster="https://cover.box3.net/newsimg/dvdmov/max1126915764-frontback-cover.jpg">
 
@@ -166,15 +188,19 @@ An American scientist is able to contact and communicate with Mars with shatteri
 [Street Fighter II V (Includes ADV dub)](https://archive.org/details/street-fighter-ii-v-07-manga-adv-jpn-film-store-group_202107)
 [Street Fighter: The Animated Series 1-26](https://archive.org/details/18FaceOfFury)
 [Street Fighter II: The Animated Movie (1994)](https://www.youtube.com/watch?v=mNaF9SaPx2Y)
-<video controls preload="none"  
-  src="https://archive.org/download/street-fighter-ii-the-animated-movie-uncensored-1994/Street%20Fighter%20II%20%20-%20The%20Animated%20Movie%20UNCENSORED%20-%20%20%20%281994%29.mp4"
-  poster="https://i.ebayimg.com/images/g/JGMAAOSwiClk-rJw/s-l960.webp">
+
+# [Street Fighter II: The Animated Movie (1994)](https://www.youtube.com/watch?v=mNaF9SaPx2Y)
+
+
+<video controls preload="none"  poster="https://i.ebayimg.com/images/g/JGMAAOSwiClk-rJw/s-l960.webp">
+  
+<source src="https://archive.org/download/street-fighter-ii-the-animated-movie-uncensored-1994/Street%20Fighter%20II%20%20-%20The%20Animated%20Movie%20UNCENSORED%20-%20%20%20%281994%29.mp4" />
+  
 
   Sorry, your browser doesn't support embedded videos, but don't worry, you can
   <a href="https://archive.org/download/street-fighter-ii-the-animated-movie-uncensored-1994/Street%20Fighter%20II%20%20-%20The%20Animated%20Movie%20UNCENSORED%20-%20%20%20%281994%29.mp4">download it</a>
   and watch it with your favorite video player!
 </video>
-
 <div class="pinupImage expandingGallery">
 <img src="https://i.ebayimg.com/images/g/45sAAOSwl8NkWpYB/s-l1600.webp" />
 <img src="https://i.ebayimg.com/images/g/liYAAOSwKUNkWpYC/s-l960.webp" />

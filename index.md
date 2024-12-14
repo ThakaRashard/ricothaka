@@ -35,10 +35,34 @@ carousels:
 
 ---
 
+![PIA25417: Curiosity's Navcams View Paraitepuy Pass](https://photojournal.jpl.nasa.gov/jpegMod/PIA25417_modest.jpg)
+
+{% highlight ruby %} 
+1 # HOLE_TO_ANOTHER_UNiVERSE##########Normani=NoiR####
+2 # TO##r*.g*.io/rashardlearned#/coral#/compiling#/normani###
+3 # ANOTHER##########https://s.id/1kmbG################## 
+4 # UNiVERSE###┬─┬⃰͡ (ᵔᵕᵔ͜ )(∩｀-´)⊃━☆ﾟ.*･｡ﾟ#Hi####CORaL##
+{% endhighlight %}
+
+[![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml)
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png)
+{% for tag in site.tags %}
+  <h3>{{ tag[0] }}</h3>
+  <ul>
+    {% for post in tag[1] %}
+      <li><a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
+
+{{ 'now' | date: "%Y" }}
 
 
 
+# Currently Compling
 {% include_relative current.md %}
+
 
 
 --- 

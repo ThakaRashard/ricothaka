@@ -1,4 +1,4 @@
-
+[back](./)
 # Dear MAyor ([Karen Bass](https://www.kqed.org/news/11932548/karen-bass-wins-la-mayoral-race))
 
 Hi, Its Rasahrd from NasaJpl the [YA](https://www.reddit.com/r/YAlit/comments/18xxv05/is_there_a_list_of_must_read_ya_books_especially/) Somali that takes short naps on the back portch of [city hall](https://www.laconservancy.org/learn/historic-places/los-angeles-city-hall/). I am following your instructions in the [County of Los Angeles Emergency Survival Guide](https://lacounty.gov/wp-content/uploads/2022/03/1058408_2019_ESG_English_Webversion1.pdf)
@@ -204,7 +204,7 @@ This movie is hard to get good quality. This is what Strip clubs do to a city.
 <IMG src="https://media.vanityfair.com/photos/60ad0575d4ff60d336a0244c/4:3/w_1776,h_1332,c_limit/Tallulah-Bankhead-1932-tout.jpg" />
 
 
-### Frank Looydd Wright
+### Frank Lloyd Wright
 
 <div class='twoPanelSpread'>
         <div class='row'>

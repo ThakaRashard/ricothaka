@@ -1,3 +1,11 @@
+[back](./)
+
+![Trajectory](https://upload.wikimedia.org/wikipedia/commons/0/0a/Interstellar_probes_trajectory.svg)
+
+[<img src="https://raw.githubusercontent.com/ricoThaka/rashardlearned/refs/heads/master/assets/img/marscrater.png" alt="https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_001900_001999/PSP_001981_1825_PSP_002258_1825/PSP_002258_1825_RED_C_01_ORTHO.ab.jpg" />](https://raw.githubusercontent.com/ricoThaka/rashardlearned/refs/heads/master/assets/img/marscrater.png)
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4dTtYVQzlwBMpVyQ4h3wy2?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## [HiView Image Viewer - Software](https://pirlwww.lpl.arizona.edu/software/HiView/download.php)
 
@@ -5,7 +13,7 @@
 HiView is a data explorer and image viewing application supporting the [JPEG2000](https://jpeg.org/jpeg2000/) image format ![HiVeiw](https://www.uahirise.org/hiview/images/main-splash-screen.jpg) HiView is the best way to explore HiRISE images of the Martian surface at the full resolution of the imagery. Tracks of boulders that have fallen down crater walls, delicate rays of ejecta from fresh impact craters, and the unearthly formations created by carbon dioxide ice on the Martian south pole are just a few of the things that are waiting to be discovered by anyone using a tool like HiView with HiRISE imagery. [Video Tutorial](https://youtu.be/y3PCKnACusk?si=U5H8oqIfENLKOCNU)
 ![hiview](https://www.uahirise.org/hiview/images/screen-shot.jpg)
 ![HiView](https://www.uahirise.org/hiview/images/hiview-splash2.jpg)
-
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4dTtYVQzlwBMpVyQ4h3wy2?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### A Latinx Resource Guide: Civil Rights Cases and Events in the United States
 ## 1968: East Los Angeles Walkouts
@@ -268,3 +276,5 @@ Instruments on the PACE (short for Plankton, Aerosol, Cloud, and ocean Ecosystem
 [webrename](https://www.webrename.com/) <~ Bulk file renamer takes regex. I got stuck on [ricothaka.github.io/worknotes02](ricothaka.github.io/worknotes02) bc the scanner at LaPL central spits out horrible filenames. I found great images from Mariner for Robins Weather Chores. Its old but as time rolls on im understanding the fact that historical weather data can help you uinderstand the present
 
 ![iloveugirl](https://pbs.twimg.com/media/GWkkdr6bwAA0hC1?format=jpg&name=large)
+
+[back](./)

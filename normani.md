@@ -1,16 +1,560 @@
 ---
 layout: normani
 title: Normani
+mermaid: true
+permalink: /normani 
+tags: saint
 ---
+#  n ɔː r ˈ m ɑː n i / nor-MAH-nee
+
+![NES](https://ia600601.us.archive.org/17/items/nes-romset-ultra-us/Nintendo_Entertainment_System_Model.png)
+
+### cellular magic mirror
+# snow White and the seven Dwarfs.mp4
+<video controls width="100%" height="auto" poster="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/pixelsquare/assets/img/cellular.png">
+    
+<source src="https://archive.org/download/WaltDisneySignatureCollection_201808/Snow%20White%20and%20the%20Seven%20Dwarfs.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/WaltDisneySignatureCollection_201808/Snow%20White%20and%20the%20Seven%20Dwarfs.mp4">MP4</a>
+        video.
+</video>   
+
+[Pinoccio](https://archive.org/download/WaltDisneySignatureCollection_201808/Pinocchio.mp4) [The adventures of Pinocchio by Collodi, Carlo, 1826-1890 - BOOK](https://archive.org/details/adventuresofpino00coll_4/page/n11/mode/2up)
+
+#  Season 1 - Hong Kong Phooey
+ ![Hong Kong Phooey](https://upload.wikimedia.org/wikipedia/en/2/26/Hong_Kong_Phooey_logo.jpg)
+@blackgirlscode to my attachments, this shit SupAfunniE [AllFiles](https://archive.org/download/hong-kong-phooey-season-1-episodes-1-through-16-plus-bonuses) [imdb](https://www.imdb.com/title/tt0070996/) Hong Kong Phooey is an American Saturday morning animated television series produced by Hanna-Barbera Productions and originally broadcast on [ABC](https://abc.com/) - [WiKi](https://en.wikipedia.org/wiki/Hong_Kong_Phooey)
+
+<video controls width="100%" height="auto" poster="https://media.tenor.com/e3Fx829AvBIAAAAM/hong-kong-phooey-change.gif">
+    
+<source src="https://archive.org/download/hong-kong-phooey-season-1-episodes-1-through-16-plus-bonuses/Hong%20Kong%20Phooey%20-%20S01E01%20-%20Car%20Thieves%3B%20Zoo%20Story.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://archive.org/download/hong-kong-phooey-season-1-episodes-1-through-16-plus-bonuses/Hong%20Kong%20Phooey%20-%20S01E01%20-%20Car%20Thieves%3B%20Zoo%20Story.mp4">MP4</a>
+        video.
+</video>    
+` For godssake, im dealing with heartbreak`
+>-[PushaT](https://soundcloud.com/pushat)
+@blackgirlscode::#NORMANi what do that mean, re:eastatlantagraffiti+dance411?
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/07bIdDDe3I3hhWpxU6tuBp?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png) 
+
+# Rashard's Work...
+
+### Mars Samples: Proposed Containment and Transport
+![MarsSampleReturn](https://science.nasa.gov/wp-content/uploads/2024/03/27375_PIA25857-web.jpg?w=768&format=webp)
+
+This illustration shows the proposed process for safely recovering, containing, and transporting Mars samples gathered by NASA's Perseverance Mars rover after they are returned to Earth as part of the joint NASA/ESA (European Space Agency) Mars Sample Return Campaign.[ReadMore](https://science.nasa.gov/resource/mars-samples-proposed-containment-and-transport/)
 
 
+## [Perseverance Rover's Descent and Touchdown on Mars](https://svs.gsfc.nasa.gov/31250) 
+
+### [Perseverance Rover’s Descent and Touchdown on Mars: Onboard Camera Views](https://science.nasa.gov/wp-content/uploads/2024/03/45703_JPL-20210222-M2020f-0001-Perseverance_Rovers_Descent_and_Touchdown_on_Mars-1.mp4)
+
+>NASA's Mars 2020 Perseverance mission captured thrilling footage of its rover landing in Mars' Jezero Crater on Feb. 18, 2021. The real footage in this video was captured by several cameras that are part of the rover's entry, descent, and landing suite. The views include a camera looking down from the spacecraft's descent stage (a kind of rocket-powered jet pack that helps fly the rover to its landing site), a camera on the rover looking up at the descent stage, a camera on the top of the aeroshell (a capsule protecting the rover) looking up at that parachute, and a camera on the bottom of the rover looking down at the Martian surface.
+
+<video controls width="100%" height="auto" poster="https://www.nasa.gov/wp-content/uploads/2021/06/pia24542-perseverances-selfie-with-ingenuity-1041.jpg">
+    
+<source src="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031250/Perseverance-landing-1080p.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031250/Perseverance-landing-1080p.mp4">MP4</a>
+        video.
+</video>    
+
+[15 Second Clip of Parachute Deployment(MP4) (18.86 MB)](https://science.nasa.gov/wp-content/uploads/2024/03/45732_nasa_perseverance_parachute_deployment.mp4)
+
+
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/uSPHfbHy2Bw?si=94hY14EjC0YpYuV6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png) 
+
+@normani @blackgirlscode
+# Learning Decatur 
+![Draw The Line](https://upload.wikimedia.org/wikipedia/en/7/71/Draw_the_Line.jpg)
+Ghetto Mafia is an American hip hop group from Decatur, Georgia, United States, composed of Nino and Wicked.[1] Formed in 1993, the Ghetto Mafia signed to local hip hop label, Ichiban Records, who then released their debut album, Draw the Line on April 26, 1994 [Ghetto Mafia](https://en.wikipedia.org/wiki/Ghetto_Mafia)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/75l02En53A3H9CdVfzIk0z?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />](https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png) 
+
+# Pentium II
+>Intel microprocessor 
+
+Containing 7.5 million transistors (27.4 million in the case of the mobile Dixon with 256 KB on-die L2 cache), the Pentium II featured an improved version of the first P6-generation core of the Pentium Pro, which contained 5.5 million transistors. However, its L2 cache subsystem was a downgrade when compared to the Pentium Pro's. In 1998, Intel stratified the Pentium II family by releasing the Pentium II-based Celeron line of processors for low-end computers and the Intel Pentium II Xeon line for servers and workstations. - [wikiwand](https://www.wikiwand.com/en/articles/Pentium_II) [Internet Arcade: Turbo Edition](https://archive.org/details/internetarcadeturbo)
+[<img src="assets/normani/file.png"  alt="GO" />](assets/normani/file.png) 
+<caption>Pentium II processor with MMX technology, SECC cartridge.</caption>
+
+# @blackGirlsCode re:[retrogaming](https://www.neogeofun.com/)
+Nior, I put up a Pentium2 bc that is a good processor to learn linux on, im so upset about [hardware hoarders](https://www.wcrecycler.com/blog/dont-be-guilty-of-hoarding-old-unused-electronics) that buy up everything on [ebay!](https://www.ebay.com/itm/256645621595?itmmeta=01JEC282NBJWWSR67CGMYVBKW9&hash=item3bc145675b:g:HMgAAOSwH9lm6yX~&itmprp=enc%3AAQAJAAAA4Mxmj%2BiGvOveHXEBClPb29hP%2BtvC8uoTI0Hu8iEjYB62IigS9mev7O1ys0KbBShC%2FC%2FVb4uJ81c%2FJLAhL11wiUNQTeFKsfv06b5kQmgorma1xKhnyBNHZ75shNGTwASrGkcybfZ73KmeOrFJCynypUaUsZi0zFh5KMFj5pCNp43%2BtDdKbCECGGT1OAecR%2B8n3ANXsglHT9xrihExvLlANpDjEXQAd3cEuuMYbUNMN6kCedxju7q23k7hrkzkBchSSQI%2BuHXZ9UPiKxCYgO6z6%2BxpFYi%2Fh5lU4TfFiLwoofDj%7Ctkp%3ABk9SR-KqoILzZA&var=556935501663) at $15 i never expect to need that much money to buy one, you have no idea how well [Xmen Vs StreetFighter](https://archive.org/details/arcade_xmvsf) run on one running [FinalBurnAlpha](https://emulation.gametechwiki.com/index.php/FinalBurn_Alpha) on [Windows2000](https://copy.sh/v86/?profile=windows2000) on a [Dell Optiplex G110](https://www.lakemichigancomputers.com/products/dell-optiplex-gx110-mt-intel-pentium-iii-600-mhz-256mb-ram-no-hdd-no-os) with an [y2kera](https://www.hercircle.in/engage/fashion/trends/what-is-y2k-fashion-and-why-is-it-trending-915.html#:~:text=Y2K%20fashion%2C%20short%20for%20%22Year,major%20comeback%20in%20recent%20years.) [Sony Trinitron](https://www.freegeektwincities.org/retro/r210gs) <style> img[src*=s-l1600.webp] {width: 30%;}</style> ![ebay!](https://i.ebayimg.com/images/g/HMgAAOSwH9lm6yX~/s-l1600.webp)
+
+[What about hardware hoarding? - REDDiT r/DataHoarder](https://www.reddit.com/r/DataHoarder/comments/11vtgwa/what_about_hardware_hoarding/?rdt=59848) [I seem to have a computer part hoarding illness...anyone else suffer from this? - Anandtech - u/Meghan54](https://forums.anandtech.com/threads/i-seem-to-have-a-computer-part-hoarding-illness-anyone-else-suffer-from-this.2575385/)
+![FinalBurnAlpha](https://emulation.gametechwiki.com/images/9/92/FBA_logo.png)
+# (World 910520) : Three Wonders by [CapCom](https://www.capcom.com/)
+Three Wonders[a] is a 1991 video game collection developed and published by Capcom, originally released for the arcades using the CPS-1 platform [Wiki](https://en.wikipedia.org/wiki/Three_Wonders)
+<iframe src="https://archive.org/embed/arcade_3wonders" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[<img src="https://i.discogs.com/QxMo2q5KlL9Mpbly2KstTA7tMJDqaQSZZ7vCHuK9l7I/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDM4/LTE0NjQ1OTU0MjAt/OTc5OC5qcGVn.jpeg" alt="HooverPhonicCd" />](https://i.discogs.com/QxMo2q5KlL9Mpbly2KstTA7tMJDqaQSZZ7vCHuK9l7I/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDM4/LTE0NjQ1OTU0MjAt/OTc5OC5qcGVn.jpeg)
+
+
+# : A New Stereophonic Sound Spectacular - Hooverphonic :
+ the debut studio album by the Belgian band Hooverphonic. The album was released by Columbia Records on 29 July 1996,[9] initially credited to the band's original name, Hoover. It is Hooverphonic's only album with lead singer Liesje Sadonius.[wiki](https://en.wikipedia.org/wiki/A_New_Stereophonic_Sound_Spectacular) [YouTube - 1File](https://www.youtube.com/watch?v=9c5kNUj2GLA&themeRefresh=1) [DiscoGs](https://www.discogs.com/release/59438-Hooverphonic-A-New-Stereophonic-Sound-Spectacular?srsltid=AfmBOoq2S7hw4b5z6aBGEljTah0IuLVe1RydRqyz6rcP4XbjRprgvWws) 
+
+[<img src="assets/normani/hooverphonic-Photoroom.png" alt="HooverPhonicCd" />](assets/normani/hooverphonic-Photoroom.png)
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6FFKUYyfC9S8fDy725qLAq?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+[<img src="assets/normani/file1.png" alt="hooverphonic stereosound spectacular" />](assets/normani/file1.png)
+
+# Pillars of Creation ([Visualization Mosaic](https://webbtelescope.org/contents/media/images/2024/020/01HZ7D2PPZVGY1H6TQGRH1N9JK?page=3&filterUUID=91dfa083-c258-4f9f-bef1-8f40c26f4c97))
+![pillars of creation](https://stsci-opo.org/STScI-01HZ7KQC9J3EF1RVAVWMNXJBPH.png)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/264t7usRIlj4zaqKsvpfuC?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+# loading="lazy"
+Lazy loading is a strategy to identify resources as non-blocking (non-critical) and load these only when needed. It's a way to shorten the length of the critical rendering path, which translates into reduced page load times.[MDn](https://developer.mozilla.org/en-US/docs/Web/Performance/Lazy_loading)
+
+# (ソニック・ザ・ヘッジホッグ2
+
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/KQmuOCWjQB0?si=xHj7TN1yuZtVv-Xu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# Sonic the Hedgehog 2 Rev 2 [launch](https://youtu.be/Nnpe0RZDYzU?si=lGLrXRah_pXS0Pnh)
+### Sonic the Hedgehog 2  Sonikku za Hejjihoggu Tsū?)
+<iframe src="https://archive.org/embed/sg_Sonic_the_Hedgehog_2_Rev_2_1992_Sega" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+## [sonic the Hedgehog 2 (World) (Rev A)](https://www.retrogames.cc/genesis-games/sonic-the-hedgehog-2-world-rev-a.html) 
+[Getting Sonic The Hedgehog 2 on Launch Day Nov 24th 1992 - My Retro Life](https://www.youtube.com/watch?v=CZOOo9BYRFk) [Sonic 2sDay: A Retrospective on Sonic the Hedgehog 2 and its Worldwide Launch on November 24, 1992!](https://www.youtube.com/watch?v=GX6cqZJMEfo)
+
+
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/O9RHZlnrVDc?si=jB0D0BtKMahv5GA3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<picture>
+  <source srcset="https://ia800705.us.archive.org/4/items/SonicTheHedgehog2SegaGenesisHiResScans/thumbnail.jpg" media="(orientation: landscape)" />
+  <img src="https://ia800705.us.archive.org/4/items/SonicTheHedgehog2SegaGenesisHiResScans/thumbnail.jpg" alt="" />
+</picture>
+# Stevie Wonder - Creepin'
+<iframe loading=lazy width="560" height="315" src="https://www.youtube.com/embed/Akwvng0SEjA?si=mIhaeOcv3k3dm0yR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# – Fulfillingness' First Finale - Stevie Wonder 1974 [DiscoGs](https://www.discogs.com/master/87463-Stevie-Wonder-Fulfillingness-First-Finale)
+[<img src="https://i.discogs.com/mib8tH4RYmAofLyvOw-2VJnSCw69Ibusmhs2NM7LKCg/rs:fit/g:sm/q:90/h:144/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTk1/MTUyLTE2MzEzNjky/MDAtNDY5Ni5qcGVn.jpeg" alt="8-Track Cartridge, Album Tamla Motown – 8X-STMA 8019 top" />](https://i.discogs.com/mib8tH4RYmAofLyvOw-2VJnSCw69Ibusmhs2NM7LKCg/rs:fit/g:sm/q:90/h:144/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTk1/MTUyLTE2MzEzNjky/MDAtNDY5Ni5qcGVn.jpeg)
+[<img src="https://i.discogs.com/yFjTVV-93ZrGT-nhDg-BzfSBjYTEYd8e508cvgdTA1E/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTk1/MTUyLTE2NTg5OTk4/OTctMTExOC5qcGVn.jpeg" alt="8-Track Cartridge, Album Tamla Motown – 8X-STMA 8019" />](https://i.discogs.com/yFjTVV-93ZrGT-nhDg-BzfSBjYTEYd8e508cvgdTA1E/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTk1/MTUyLTE2NTg5OTk4/OTctMTExOC5qcGVn.jpeg) Following the epic scope and social consciousness themes of Innervisions, Fulfillingness' First Finale, in contrast, projected a more reflective, personal, and somber tone. The musical arrangements used in several songs, especially the bleak "They Won't Go When I Go" and the understated "Creepin'", were sparse compared to those of some of Wonder's other 1970s tracks. Wonder had not completely foregone social commentary, as evidenced by the Billboard Hot 100 number-one single "You Haven't Done Nothin'", which launched a pointed criticism of the Nixon administration bolstered by clavinet, drum machine, and a cameo by the Jackson 5. [WiKi](https://en.wikipedia.org/wiki/Fulfillingness%27_First_Finale) [BuY](https://shop.motownrecords.com/products/stevie-wonder-fulfillingness-first-finale-lp)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1kda4McF274Jl5x3aOAmPJ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+![This Style Guide for the Branch Libraries of the New York Public Library](https://web.archive.org/web/20070706031151im_/http://www.nypl.org/styleguide/images/styleguidehead.gif)
+
+# Dear_Normani,
+I hope u were not doing anything raunchy today, its thanksgiving weekend and i was loving on u on twitter, its a reflex, i think i know u more. [Chloe](https://web.archive.org/web/20080611104542/http://www.nypl.org/styleguide/css/guidelines.html) was o the bullhorn and i worked on a page for her. Its getting important as my mission duties clarify! Imma be ginvg tours man! Like [Bethel](https://youtu.be/trB4hHgYQhY?si=HcJnmRGC2ONpPWu7), maybe jehovahs witnesses is a nasa lie to combat playboy kidnapping, [![Twitter Follow](https://img.shields.io/badge/Social-SenBillNelson__-blue?style=social&logo=X)](https://twitter.com/SenBillNelson) voice scares me if i listen with my heart i think i might be moved too much. Thats why im head down following orders as i understand [![Twitter Follow](https://img.shields.io/badge/Social-US_SpaceCom__-blue?style=social&logo=X)](https://twitter.com/US_SpaceCom) [![Twitter Follow](https://img.shields.io/badge/Social-nasajpl__-blue?style=social&logo=X)](https://twitter.com/nasajpl) requires of me. Dwayne Gooden might be on the mission, i have to nuetralize my stand point bc i was isolated. I dont like how he said people always dying around you, that make me thing he on the dark team... Back to [chloe](https://ricothaka.github.io/chloe) i made that page [XHTML](https://web.archive.org/web/20080611105650/http://www.nypl.org/styleguide/xhtml/index.html) but had to scale back, im learning how your seo skills can be used in your company web infrastructure with [semantic tags](https://developer.mozilla.org/en-US/docs/Glossary/Semantics) and developing flow [NYPL_STYLEGUiDE_ARCHiVE](https://web.archive.org/web/20080617044807/http://www.nypl.org/styleguide/) will help u get an authentic retro flow for readers
+
+[NYPL_STYLEGUiDE_ARCHiVE](https://web.archive.org/web/20080617044807/http://www.nypl.org/styleguide/)
+[Can we talk about web design?](https://web.archive.org/web/20080605234605/http://www.thenoodleincident.com/tutorials/design_rant/)
+[NYPLBase The Library's rapid prototyping system and design pattern library](nypl.github.io/NYPLBase/styleguide/index.html) 
+
+[NYPL_STYLEGUiDE_ARCHiVE](https://web.archive.org/web/20080617044807/http://www.nypl.org/styleguide/)
+<div class="panel4-container">
+   
+  <div class="item1"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/SARTUZALAH_RESTORED_TO_NORMANi_ViA_SARTU_FORWARDS.gif"></div>
+    <div class="item2"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/SARTUZALAH_RESTORED_TO_NORMANi_ViA_SARTU_REVERSE.gif"></div>
+    <div class="item3"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/SARTUZALAH_RESTORED_TO_NORMANi_ViA_SARTU_REVERSE.gif"></div>
+    <div class="item4"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/SARTUZALAH_RESTORED_TO_NORMANi_ViA_SARTU_FORWARDS.gif"></div>
+
+</div>
+
+[Bob Marley Legend full album](https://www.youtube.com/watch?v=Hp325M9MMFI)
+[Artifacts - Between A Rock And A Hard Place 1994 FULL ALBUM](https://www.youtube.com/watch?v=vCu6ztxthXI) [Dr Dre - The Roadium Mix Tape - Criminal](https://www.youtube.com/watch?v=8oeff7LxaP4)
+
+
+<div class="flex-container">
+
+  <div class="item1"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_BROWN_YELLA.gif" /></div>
+  <div class="item2"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_BROWN_YELLA.gif" /></div>
+  <div class="item3"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_BROWN_YELLA.gif" /></div>
+</div>
+
+
+<div class="flex-container">
+
+  <div class="item1"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_AND_I_INVENTED_THIS_STYLE_MEGAN_CARDi_DREEZY_AND_THE_GUYS_FROM_ALPHARETTA_GAY_DANCE_CAN_CONFiRM.jpg" /></div>
+  <div class="item2"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_AND_I_INVENTED_THIS_STYLE_MEGAN_CARDi_DREEZY_AND_THE_GUYS_FROM_ALPHARETTA_GAY_DANCE_CAN_CONFiRM.jpg" /></div>
+  <div class="item3"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_AND_I_INVENTED_THIS_STYLE_MEGAN_CARDi_DREEZY_AND_THE_GUYS_FROM_ALPHARETTA_GAY_DANCE_CAN_CONFiRM.jpg" /></div>
+</div>
+
+<img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4a8c81d78312109000003/vsco5fc4a8cb61459.jpg" alt="#MSK_GRAFFITI">
+ 
+   <a href="https://www.youtube.com/watch?v=NX7zS_GRX14"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/FRANKSKiv103BMORE.PNG" alt="">  </a>
+
+
+[BGP](https://thakarashard.github.io/BUBBLEGUMPOP_PAPA/)
+
+
+
+<a href="https://slate.com/technology/2017/03/did-the-cia-really-astrally-project-to-mars-in-1984.html">##DID_THE_CIA##ASTRAL_PROJECT_TO_MARS</a>
+<a href="https://comicbook.com/irl/news/cia-documents-leak-extrasensory-perception-mind-telepathy-reveal/">##EXTRA_SENSORY_PERCEPTION##</a>
+<a href="https://www.vice.com/en/article/7k9qag/how-to-escape-the-confines-of-time-and-space-according-to-the-cia">##RAVEN_AT_VICE_KNOWS_PSYCHIC_SHIT##</a>
+<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologs/cryptolog_85.pdf">##NSA_TYPESHIT_wit_DAH_SOViETS</a>
+<a href="https://jamesaconrad.com/TK/US-government-interest-in-telekinesis-and-psychokinesis.html">##PSYCHIC_ARMY##ALEX_JONES_and_DAVID_ICK_KNOW_ALL_ABOUT_IT</a>
+<a href="https://youtu.be/tWpQNexUZUQ">##LETHAL_ENFORCERS_2##GUN_FIGHTERS##</a><a href="https://youtu.be/6nwA8oPkaSg">##FORZA5_STi</a><a href="https://www.youtube.com/embed/O9MIvIVWq3E">##SQUARE_ENIX_KNOWS_THAKA_WANTS##A_DRIVING_GAME##</a> <a href="https://en.wikipedia.org/wiki/Stargate_Project">##STARGATE_PROJECT##</a>
+<a href="https://www.californiapsychics.com/blog/psychic-tools-abilities/benefits-reading-remote-viewing-psychic.html">The Benefits of Reading with a Remote Viewing Psychic</a><a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000700620001-2.pdf">##PARAPSYCHOLOGY_COMMUNiCATiON_BARRiERS</a>
+<a href="https://www.gaia.com/article/what-is-remote-viewing">What is Remote Viewing?</a>
+<a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000200080050-9.pdf">##TELEPATHY_COULD_BE_REAL##</a> <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000300420008-1.pdf"> ##PSYCHIC_MAGNIFICATION## </a><a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R003300190006-0.pdf">##NONiNVASiVE_BRAiN_WORK##</a>
+<a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000400030001-0.pdf"> EXPERIMENTAL DREAM TELEPATHY-CLAIRVOYANCE AND GEOMAGNETIC ACTIVITY (MICHAEL PERSINGER) </a> <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000300180001-1.pdf"> ##EFFORTS_TO_IMPROVE_REMOTE_VIEWING##</a>
+<a href="https://www.cia.gov/readingroom/docs/NSA-RDP96X00790R000100040012-1.pdf"> ##TELEKINESIS## </a>
+<a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000400100005-8.pdf"> PARAPSYCHOLOGY ##THE_ANGLOS_-->VS<--_THE_LATiNS##</a>
+<a href="https://www.cia.gov/readingroom/freedom-information-act-5-usc-%C2%A7552"> ##THE_SOCIAL_MEDIA_COMPANIES_VIOLATED##THE_FREEDOM_OF_INFORMATION_ACT_IN_SUPRESSING
+ THE_SEARCH_FOR_THAKA_BEKELE_SELASSIE_aka_RASHARD_IMAN_KELLY_AHMEDs_FAMILY##</a>
+ 
+ <a href="http://www.wefunkradio.com/"> #### TUNE_IN --> WeFunK_RADIO [##STREAMING## </a>
+<a href="http://www.wefunkradio.com/show/498/play_aa"> WeFunk_RADIO_BACK_EPISODE --> EPISODE_498] </a>
+
+[THiS_iS_NOT_HOW_HEALTHY_AFRiCA##OPERATES](https://www.youtube.com/watch?v=EPoXBbigVeo) [Sexuality: A Graphic Guide | Launch Event](https://youtu.be/jOIbOMWBHHM) [The Freeze Response and Sexual Assault: PTSD and Trauma Recovery](https://www.youtube.com/watch?v=pes7H4ECTdw) [6 Hidden Signs of Complex PTSD cPTSD](https://www.youtube.com/watch?v=44hqDT7NNHU) [What It’s Like to Break Up with a Narcissist](https://www.youtube.com/watch?v=CtllLbN1IAo) [Intimacy After Trauma | Kat Smith | TEDxMountainViewCollege](https://youtu.be/VB9-4kELT2k) [Relationships After Rape | Shelby St. Pierre | TEDxHamlineUniversity](https://www.youtube.com/watch?v=UC05PVN621k) [Men Need To Talk About Their Sexual Abuse | Seth Shelley | TEDxUNBC](https://www.youtube.com/watch?v=r4CIop1zlVM) [Men Can Be Sexually Assaulted, Too | CJ Krainock | TEDxRexburg](https://www.youtube.com/watch?v=PnoRVCqeM6U)
+[data](https://ricothaka.github.io/rashardlearned/2024/11/18/EuropaClipper.html) <~ thats work related >
+
+# <track>: The Embed Text Track element
+@normani see [coralpage](https://ricothaka.github.io/coral) for my notes 
+```
+The <track> HTML element is used as a child of the media elements, <audio> and <video>. Each track element lets you specify a timed text track (or time-based data) that can be displayed in parallel with the media element, for example to overlay subtitles or closed captions on top of a video or alongside audio tracks.
+```
+
+# My Neighbor Totoro: The Fox Video Dub
+>Publisher Studio Ghibli
+`At long last. The return of the Fox Video dub which had been missing since 2013. It has been restored to this site.` - [Hayao Miyazaki](https://www.bing.com/search?q=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dhayao%2Bmiyazaki%26rlz%3D1CASLJZ_enUS1138%26oq%3DHayao%2BMiyazaki%26gs_lcrp%3DEgZjaHJvbWUqDQgAEAAY4wIYsQMYgAQyDQgAEAAY4wIYsQMYgAQyCggBEC4YsQMYgAQyCggCEAAYsQMYgAQyDQgDEC4Y1AIYsQMYgAQyDQgEEC4Y1AIYsQMYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgASoAgCwAgE%26sourceid%3Dchrome%26ie%3DUTF-8&form=QBLH&sp=-1&lq=0&pq=&sc=0-0&qs=n&sk=&cvid=C953266AD4B14ECDB68DA05670764BEF&ghsh=0&ghacc=0&ghpl=) 
+<video controls preload="none"  poster="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2o5eHBtZ2Uxd3ZseTJueTM4cTY3N252NngwczVqODkwNWsxajExYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xMkWcQ9xTGH8A/giphy.webp">
+<source src="https://archive.org/download/totofox/totofox.mp4" type="video/mp4" />
+  Download the
+  <a href="https://archive.org/download/totofox/totofox.mp4">MP4</a>
+  video.
+</video>
+
+# WebDoc
+[FlexBox - MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+
+
+#  n ɔː r ˈ m ɑː n i / nor-MAH-nee
+# [The Chemical Brothers](https://www.thechemicalbrothers.com/web/layouts) : No Geography @blackgirlscode im not being mean or silly acting like i have a job, half these niggas cant read at all!!!! and im scared with them an they [BlackMirrors!](https://en.wikipedia.org/wiki/Talk:Black_Mirror)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/7d1KwAPdMEBqCERVsKRUox?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+# CURIOSITY RAW IMAGES : Sol 4374: Left Navigation Camera
+
+This image was taken by Left Navigation Camera onboard NASA's Mars rover Curiosity on Sol 4374 (2024-11-25 07:54:39 UTC).
+
+# Permutation : Amon Toin 1997
+great production, andy at rpm reccomended it 
+@blackgirlscode 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/7jxs0XY2yJS36PZCjUv4Hp?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe src="https://archive.org/embed/jay-z-reasonable-doubt" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+# Important Files
+@blackgirlscode Normani The California Constitution expresses that 
+> "Every person may freely speak, write and publish…sentiments on all subjects, being responsible for the abuse of this right. A law may not restrain or abridge liberty of speech or press." [Article I, Section 2(a)](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CONS&sectionNum=SEC.%202.&article=I) `downloadBelow`
+### CaliforniaConstitution Article 1 sec 2(a)
+Although already generally protected via the 1st Amendment, the California Constitution goes on to further confirm freedom of speech for both individuals and the press. [CalState](https://www.csuchico.edu/freespeech/rights/index.shtml) University Chico
+
+[RashardLeanred - Updated](https://ricothaka.github.io/rashardlearned/) and [SpaceForce](https://www.spaceforce.mil/) tweeted [RashardMRO](ricothaka.github.io/rashardmro) so [![Twitter Follow](https://img.shields.io/badge/Social-US_SpaceCom__-blue?style=social&logo=X)](https://twitter.com/US_SpaceCom) ... [![Twitter Follow](https://img.shields.io/badge/Social-Normani__-blue?style=social&logo=X)](https://twitter.com/Normani) ### Mars MissionObjectives [MArs Reconnocinse Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT)
+[WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
+[1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf) [PDS Cartography and Imaging Sciences Node - WebTool](https://pds-imaging.jpl.nasa.gov/beta/search) [Computer Ethics 4th ed. Deborah G. Johnson](https://github.com/ricoThaka/ricothaka.github.io/blob/pixelsquare/assets/pdf/computer-ethics-4e_compress.pdf) [NASAJPL Technology Highlights 2022](https://scienceandtechnology.jpl.nasa.gov/sites/default/files/documents/JPL_2022_Technology_Highlights.pdf) <~ @whitehouse @deptofdefense thats a report that i missed from @nasa
+
+![starMap](https://www.archives.gov/files/4958425-a.jpg)
+
+# 93ANiME:獣兵衛忍風帖 Ninja Scroll
+![WickedCity](https://upload.wikimedia.org/wikipedia/en/f/f4/Ninja-Scroll-Poster.jpg) Ninja Scroll (Japanese: 獣兵衛忍風帖, Hepburn: Jūbē Ninpūchō, lit. "Jubei's Ninja Chronicles") is a 1993 Japanese animated jidaigeki-chanbara film written and directed by Yoshiaki Kawajiri, starring the voices of Kōichi Yamadera, Emi Shinohara, Takeshi Aono, Daisuke Gōri, Toshihiko Seki and Shūichirō Moriyama. The film was a co-production between JVC, Toho and Movic, with Madhouse serving as the animation studio. Ninja Scroll was theatrically released in Japan on June 5, 1993, and received an English-dubbed release through Manga Entertainment in 1995.[1][Wiki](https://en.wikipedia.org/wiki/Ninja_Scroll)
+>dubbing - (also known as re-recording and mixing) is a post-production process used in filmmaking and video production where supplementary recordings (known as doubles) are lip-synced and "mixed" with original production audio to create the final product. [Wiki](https://en.wikipedia.org/wiki/Dubbing)
+<video controls preload="none"  poster="https://i.imgur.com/GpPhM58.gif">
+  
+<source src="https://archive.org/download/ninja-scroll_202207/Ninja_Scroll.mp4" />
+  
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/download/ninja-scroll_202207/Ninja_Scroll.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+![Trajectory](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Voyager_1_skypath_1977-2030.png/1920px-Voyager_1_skypath_1977-2030.png)
+
+# - Shin Samurai Spirits - Haohmaru Jigokuhen (NGM-063 ~ NGH-063) Samurai Shodown II 
+<iframe src="https://archive.org/embed/arcade_samsho2" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[Samurai Shodown II / Shin Samurai Spirits - Haohmaru jigokuhen (NGM-063)(NGH-063)](https://www.retrogames.cc/arcade-games/samurai-shodown-ii-shin-samurai-spirits-haohmaru-jigokuhen-ngm-063-ngh-063.html) [Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja)](https://www.retrogames.cc/ngp-games/samurai-shodown-2-pocket-fighting-series-world-en-ja.html)
+![SS2](https://static.wikia.nocookie.net/samurai-shodown/images/9/9b/Samsho2_logo_transparent.png)
+
+# 87ANiME: 妖獣都市 Wicked City 
+![WickedCity](https://upload.wikimedia.org/wikipedia/en/a/a7/Wickedcity.jpeg) Wicked City (Japanese: [妖獣都市](https://archive.org/details/WickedCity1987CompleteFilm), Hepburn: Yōjū Toshi, lit. 'Supernatural Beast City') is a 1987 Japanese adult animated dark fantasy[2] action horror film[3] produced by Video Art and Madhouse for Japan Home Video. Based on Black Guard, the first novel of the [Wicked City](https://en.wikipedia.org/wiki/Wicked_City_(novel_series)) series by Hideyuki Kikuchi, the film is the solo directorial debut of Yoshiaki Kawajiri, who also served as the character designer, storyboard artist, animation director, and a key animator. [Wiki](https://en.wikipedia.org/wiki/Wicked_City_(1987_film))
+<video controls preload="none"  poster="https://media.tenor.com/1akj8ZkvBnIAAAAM/wicked-city-aesthetic.gif">
+  
+<source src="https://archive.org/download/WickedCity1987CompleteFilm/Wicked%20City%20%281987%29%20-%20Complete%20Film.mp4" />
+  
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/download/WickedCity1987CompleteFilm/Wicked%20City%20%281987%29%20-%20Complete%20Film.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+# Dear_Normani 
+Im really angry with you, because i have been looking at old [pictures of u in google images](https://www.google.com/search?sca_esv=332c1457e26e21ac&rlz=1CASLJZ_enUS1137&sxsrf=ADLYWIJ3oQ6qfHXorY-SAqJ-VzYKKKaRQQ:1732246262169&q=normani&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3JzWreY9LW7LdGrLDAFqYDH2bHZiU5SwFHpsjQQXz5AGYvVpY8Fv7klAkKlNSPjiPAC5gfvk2-OEYP0kL1SIpmq-4fzmsHs101ekJGO3KVonB-P1V5SR_rzNZstcrUqT3m9kl7sXbF92WuTR1zfVlMP2ZQs7l76iW0qB2yeE3-D40rQjdwQ&sa=X&ved=2ahUKEwi63vqYgO-JAxUwHkQIHSdkOa8QtKgLegQIJRAB). No pornogrpahy comes up on my end, [Dogpile is more Racy](https://www.dogpile.com/serp?q=normani&page=4&sc=dLsLYsh6fwpB00). Its not your fault. I wrote `@dkm14 the relationship is off @enews @playboy fuck you` [ThisisTheTweet](https://x.com/thakasartu/status/1859743891349700768) I was at Durant an someone stole my weed, ppl dont care if im military and medical im so sad, then i saw those pics of u an [that mean ass white man](https://dai.ly/x5i6dhm) an broke down. I missed my [Voyager Team Meeting](https://x.com/NASAJPL/status/1859274920024482270), some one hid the tweet, so i need to chill, if you dump me thats ok, im just lonely, but very satisfied with my job an ppl hurting me constantly!Im [WorkiNg](https://ricothaka.github.io/rashardmro/) on our webpresence bc i learned [5th Harmony](https://youtu.be/5GL9JoH4Sws?si=1jPQ5Vf4zlW8PP6X) is a famous group. And i was seen with u, so imma hold u down till i get further instructions... i hope u like the games if u have internet and hardware to play @blackgirlscode [im learning](https://ricothaka.github.io/rashardlearned) and i made a new page for u with a permalink [normanikordei](https://ricothaka.github.io/normanikordei) for your gossip
+
+# The Last Blade - Bakumatsu Roman - Gekka no Kenshi (NGM-2340)
+
+![thelastblade1](https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/The_Last_Blade_arcade_flyer.jpg/220px-The_Last_Blade_arcade_flyer.jpg) The Last Blade[a] is a fighting game developed and released by SNK for the Neo Geo system in 1997. It was also ported to several home systems. A sequel, The Last Blade 2, was released in 1998. A second sequel, The Last Blade: Beyond the Destiny, was released in 2000.
+
+The game takes place during the Bakumatsu era in Japan, and incorporates various elements of Japanese mythology (with a heavy emphasis on the symbology of the Four Symbols). As such, the background music generally incorporates synthesized instruments simulating a sound appropriate to the 19th century setting, in a Western classical, pseudo-Romantic style. The Last Blade series is seen as a spiritual offshoot to SNK's popular Samurai Shodown series, due to it being a similar 2D weapons-based fighting game [video game database VGDB](https://www.vgdb.com.br/neo-geo-advanced-entertainment-system/jogos/the-last-blade--/) [instructions](https://archive.org/details/Last_Blade_The_1998_SNK_JP_Bakumatsu_Roman_Gekka_no_Kenshi/page/n7/mode/2up) [Star Gladiator Episode I: Final Crusade (USA 960627)](https://archive.org/details/arcade_starglad) [Vampire Savior 2: The Lord of Vampire (Japan 970913)](https://archive.org/details/arcade_vsav2) [Dead Or Alive ++ (Japan)](https://archive.org/details/arcade_doapp)
+# [The Last Blade / Bakumatsu Roman - Gekka no Kenshi (NGM-2340)](https://www.retrogames.cc/arcade-games/the-last-blade-bakumatsu-roman-gekka-no-kenshi-ngm-2340.html)
+<iframe src="https://archive.org/embed/arcade_lastblad" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[<img src="https://www.vgdb.com.br/gf/fotos/games/media_54879/the-last-blade---54879.jpg" alt="last blade" />](https://www.vgdb.com.br/gf/fotos/games/media_54879/the-last-blade---54879.jpg)
+
+# The Last Blade (幕末ばくまつ浪漫ろまん, lit. "Curtain Closing Romance")
+[<img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Satsuma-samurai-during-boshin-war-period.jpg" alt="Bakumatsu (幕末, 'End of the bakufu') " />](https://upload.wikimedia.org/wikipedia/commons/5/5c/Satsuma-samurai-during-boshin-war-period.jpg)
+By <a href="https://en.wikipedia.org/wiki/en:Felice_Beato" class="extiw" title="w:en:Felice Beato"><span title="Italian-British photographer">Felice Beato</span></a> - From the English Wikipedia. Origin source unknown, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=53809">Link</a>
+
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/PSX-Console-wController.png" alt="ps1" />](https://upload.wikimedia.org/wikipedia/commons/9/95/PSX-Console-wController.png)
+
+<iframe src="https://archive.org/embed/psx_kof95" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/psx_parappad" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[PlayStationLibrary](https://game-rave.com/?p=8531)
+
+![Mario64](https://upload.wikimedia.org/wikipedia/commons/4/44/Super_Mario_64_logo.png)
+![PAperMArio](https://upload.wikimedia.org/wikipedia/commons/5/54/Paper_Mario_Logo.png)
+![SuperMarioRPG](https://upload.wikimedia.org/wikipedia/commons/4/46/Super_Mario_RPG_Logo.png)
+![BOwseR](https://pbs.twimg.com/media/GZ99Nrdb0AoAS8B?format=jpg&name=large)
+
+# UnixHistory
+>AT&T's computer operating system is threatening to take over IBM's MS-DOS dominance.
+<video controls preload="none"  poster="https://archive.org/download/UNIX1985/UNIX1985.gif">
+  
+<source src="https://archive.org/download/UNIX1985/UNIX1985.mp4" />
+  
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/download/UNIX1985/UNIX1985.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+
+[The art & science of CSS - BOOK](https://archive.org/details/artscienceofcss0000unse) [LA County Library - iNTERNETARCHiVE](https://archive.org/details/colapl)
+[BubbleGumFM https://bubblegumpop01.tumblr.com/ Demo](https://archive.org/details/screen-recording-2024-07-02-3.14.48-pm)
+@normani I used a theme I think Erika may have done on the low, the icons work and the Muna folder takes you to a page with a man marrying an Ethiopian woman.... I get it she faked her death to avoid me https://bubblegumpop01.tumblr.com/
+
+
+[<img src="https://pbs.twimg.com/media/GbQyVFRakAIF30c?format=jpg&name=large" alt="Mars Reconnaissance Orbiter" />](https://pbs.twimg.com/media/GbQyVFRakAIF30c?format=jpg&name=large)
+
+[<img src="https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png" alt="Mars Reconnaissance Orbiter" />](https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png)
+
+### [Normani @blackgirlscode someone left a scary message](https://x.com/thakasartu/status/1857546216739057809)
+
+# Earth Rotation from Galileo Imagery: 600 x Real-Time
+>Released Tuesday, September 1, 1998 
+This animation is one in a series created to show an accurate representation of the Earth's rotation at different temporal resolutions. The animation is created from images taken by the [Galileo spacecraft](https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question61.html) during a close pass of the Earth on December 11-12, 1990. The animations range from real-time, in which no rotation can be perceived . . . [Visualizations by: Horace Mitchell](https://svs.gsfc.nasa.gov/1374/) [ATLAS CARTOGRAPHY](https://pds-imaging.jpl.nasa.gov/beta/archive-explorer?mission=vgr&instrument=pdart16&bundle=wenkert_pdart16_vgr_rav1ciun&uri=atlas:pds4:vgr:voyager_1:/wenkert_pdart16_vgr_rav1ciun/browse/rdr/vgr1/V1NA_0231550_RAW.png-)
+<video controls preload="none"  poster="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001374/a001374.00095_print.png">
+  
+<source src="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001374/a001374.webmhd.webm" />
+  
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://svs.gsfc.nasa.gov/vis/a000000/a001300/a001374/a001374.webmhd.webm">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+### A Latinx Resource Guide: Civil Rights Cases and Events in the United States
+## 1968: East Los Angeles Walkouts
+Discrepancies in the education of Anglo and Mexican-American students surfaced in Los Angeles during the 1950s and 1960s. Mexican-American students experienced a 60% dropout rate from high school, and those who did graduate averaged the reading level of an 8th grade Anglo student. In some schools, teachers prohibited students from speaking Spanish, and in others, school staff recommended Mexican-American students educational curriculum meant to help students with mental disabilities. These schools funneled many Mexican American students into vocational programs and discouraged from post-secondary studies. In response, students, teachers, parents, and activists began to organize.[ContinueReading](https://guides.loc.gov/latinx-civil-rights/east-la-walkouts) [Related Tweet EastLosangeles Today](https://x.com/RicoThaka/status/1831786037527638408)
+
+
+[1986 SPECIAL REPORT:"THE VANISHING BLACK FAMILY"](https://www.youtube.com/watch?v=_vrw416MnJ8)
+[LAPD DETAinMENT on METROLA](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/pdf/image.pdf) [CoronaVirusPAtent European Publication Server](https://data.epo.org/publication-server/document/xml/3172319/B1/2019-11-20)
+![LAPD DETAinMENT on METROLA](https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/pixelsquare/assets/pdf/image.jpg)
+
+![EcoStress](https://ecostress.jpl.nasa.gov/logo.png)
+
+# [Coldcut - Essential Mix [2006-01-29] bbc radio 1](https://www.youtube.com/watch?v=05YRmVTM2RM)
+
+
+
+
+
+
+
+<iframe src="https://archive.org/embed/arcade_msh" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+# Marvel Super Heroes (Euro 951024)
+<img src="https://pbs.twimg.com/media/GHhryv7aUAEygHp?format=jpg&name=large" class="crt" />
+
+# Marvel Super Heroes 1960s Cartoon Series Preservation
+
+
+<iframe src="https://archive.org/embed/marvel-super-heroes" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+
+# [#Normani](https://youtube.com/shorts/5As_tra2euA?si=jOptiA5ITZ_2c-H7) and [#ArianaGrande](https://youtube.com/shorts/NNuB4uNS_ms?si=FDDx25gNrRpdBp7r)'s friendship gives us a dopamine boost. 😍 [#WickedMovie](https://www.youtube.com/watch?v=6COmYeLsz4c)
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@enews/video/7435496425376533802" data-video-id="7435496425376533802" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@enews" href="https://www.tiktok.com/@enews?refer=embed">@enews</a> <a title="normani" target="_blank" href="https://www.tiktok.com/tag/normani?refer=embed">#Normani</a> and <a title="arianagrande" target="_blank" href="https://www.tiktok.com/tag/arianagrande?refer=embed">#ArianaGrande</a>&#39;s friendship gives us a dopamine boost. 😍 <a title="wickedmovie" target="_blank" href="https://www.tiktok.com/tag/wickedmovie?refer=embed">#WickedMovie</a> <a target="_blank" title="♬ original sound - E! News" href="https://www.tiktok.com/music/original-sound-7435496384159107883?refer=embed">♬ original sound - E! News</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/296704151&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/lapalux" title="Lapalux" target="_blank" style="color: #cccccc; text-decoration: none;">Lapalux</a> · <a href="https://soundcloud.com/lapalux/swallowing-smoke" title="Swallowing Smoke" target="_blank" style="color: #cccccc; text-decoration: none;">Swallowing Smoke</a></div>
+
+# [Enter The Dragon [ 1973] 816p](https://en.wikipedia.org/wiki/Vertigo_(film))
+
+
+<video controls preload="none" width="100%" height="auto" poster="https://i.etsystatic.com/29534914/r/il/0f268e/5497958111/il_794xN.5497958111_ivqi.jpg">
+  
+<source src="https://archive.org/download/cinema_bucanero_202306/Enter%20The%20Dragon%20%5B1973%5D816p.mp4" />
+  
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/download/cinema_bucanero_202306/Enter%20The%20Dragon%20%5B1973%5D816p.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+# Mortal Kombat (1992 video game)
+Mortal Kombat is a 1992 fighting game developed and published by Midway. It is the first entry in the Mortal Kombat series and was subsequently released by Acclaim Entertainment for nearly every home platform at that time. The game focuses on several characters of various intentions who enter a martial arts tournament with worldly consequences. It introduced many key aspects of the Mortal Kombat series, including the unique five-button control scheme and gory finishing moves called Fatalities. [Wiki](https://en.wikipedia.org/wiki/Mortal_Kombat_(1992_video_game)) [imdb](https://www.imdb.com/title/tt0203701/plotsummary/) [Mortal Kombat (rev 5.0 T-Unit 03/19/93) retrogames.cc](https://www.retrogames.cc/arcade-games/mortal-kombat-rev-5-0-t-unit-03-19-93.html) 
+[<img src="https://i.ebayimg.com/images/g/RvIAAOSwimZdcTmf/s-l1600.webp" alt="Johnny Cage" />](https://i.ebayimg.com/images/g/RvIAAOSwimZdcTmf/s-l1600.webp)
+[<img src="https://i0.wp.com/arcademarquee.com/wp-content/uploads/2015/02/mortal-kombat_marquee-scaled.jpg" alt="Mortal Kombat (rev 5.0 T-Unit 03-19-93)" />](https://i0.wp.com/arcademarquee.com/wp-content/uploads/2015/02/mortal-kombat_marquee-scaled.jpg)
+
+# Mortal Kombat (rev 5.0 T-Unit 03-19-93)
+
+<iframe src="https://archive.org/embed/arcade_mk" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![nbaJam](https://upload.wikimedia.org/wikipedia/commons/9/9a/Midway_Games_logo.svg)
+
+
+
+
+
+# Erikas Breakup on the LosAngeles Freeway
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/41PwFUEt9XE3Cz0H8RA7vU?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+[BUBBLEGUMPOP633](https://archive.org/details/fav-bubblegumpop633) [thakaserika_selassie_kelly](https://archive.org/details/@thakaserika_selassie_kelly) [ThakaRasharD - FaVs](https://archive.org/details/fav-thakaserika_selassie_kelly) [Designing CSS Web pages](https://archive.org/details/isbn_9780735712638/mode/2up)
+
+# Dear NorMani @blackgirlscode
+I have to make a tool to understand what we do on the moon. So i need u to know that so u can do whatever you do, im just participating till u tell me to stop. I have to work on the moon as well bc orbit paths to mars and jupiter are effected by our moon, as each day goes by Im learning each planet is a living being and While i want to silo/pigeon Hole, I cant. I really like that hiphop 45's mix. IDK how much u dig 45s but i was into [BrainFreeze when it came out](https://www.youtube.com/watch?v=2HlOo0wwGQo&themeRefresh=1)[Side-a .mp3](https://archive.org/download/brain-freeze/01%20-%20Side%20A.mp3) [Side-b .mp3](https://archive.org/download/brain-freeze/02%20-%20Side%20B.mp3) [WiKi](https://en.wikipedia.org/wiki/Brainfreeze_(album)) [NORMANi EXPLORES #ASMR](https://youtu.be/s5LeJSGlegY?si=2bupk2ZVh_465849) [Normani - Motivation (2019 MTV VMAs)](https://www.youtube.com/watch?v=EkhPx3HE160)
+
+#  DJ Shadow and Cut Chemist : Brainfreeze 45MiX
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/115581721&color=%23dea754&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/jon-binstead" title="Jon Binstead" target="_blank" style="color: #cccccc; text-decoration: none;">Jon Binstead</a> · <a href="https://soundcloud.com/jon-binstead/dj-shadow-cut-chemist" title="DJ Shadow &amp; Cut Chemist - Brainfreeze 1999 Part 1" target="_blank" style="color: #cccccc; text-decoration: none;">DJ Shadow &amp; Cut Chemist - Brainfreeze 1999 Part 1</a></div>
+[<img src="https://live.staticflickr.com/65535/52529253591_cc8b0ea933_k.jpg" alt="Earth" />](https://live.staticflickr.com/65535/52529253591_cc8b0ea933_k.jpg)
+[<img src="https://live.staticflickr.com/65535/52511158560_9a9ab55261_k.jpg" alt="Artimis" />](https://live.staticflickr.com/65535/52511158560_9a9ab55261_k.jpg)
+
+# Orion Snaps a Selfie During External Inspection
+>Orion snapped this high-resolution selfie in space with a camera mounted on its solar array wing during a routine external inspection of the spacecraft on the third day into the Artemis I mission.
+[<img src="https://live.staticflickr.com/65535/52542743900_d7cfd07b30_k.jpg" alt="Artimis" />](https://live.staticflickr.com/65535/52542743900_d7cfd07b30_k.jpg)
+
+[<img src="https://live.staticflickr.com/65535/52535436627_28683df65e_h.jpg" alt="Artimis" />](https://live.staticflickr.com/65535/52535436627_28683df65e_h.jpg)
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/115582343&color=%23a4513c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/jon-binstead" title="Jon Binstead" target="_blank" style="color: #cccccc; text-decoration: none;">Jon Binstead</a> · <a href="https://soundcloud.com/jon-binstead/dj-shadow-cut-chemist-1" title="DJ Shadow &amp; Cut Chemist - Brainfreeze 1999 Part 2" target="_blank" style="color: #cccccc; text-decoration: none;">DJ Shadow &amp; Cut Chemist - Brainfreeze 1999 Part 2</a></div>
+
+# [back](./)
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/922608766&color=ff5500"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/mrbongo" title="Mr Bongo" target="_blank" style="color: #cccccc; text-decoration: none;">Mr Bongo</a> · <a href="https://soundcloud.com/mrbongo/mr-bongo-hip-hop-45s-mixed-by-chris-read" title="Mr Bongo Hip Hop 45s - Mixed by Chris Read" target="_blank" style="color: #cccccc; text-decoration: none;">Mr Bongo Hip Hop 45s - Mixed by Chris Read</a></div>
+
+# Dear_BossLady : @blackgirlscode Normani
+Im frustrated with the time i have to access a computer. I added a Computer ethics book to [RashardMRO](https://ricothaka.github.io/rashardmro/) and [RashardLearned](https://ricothaka.github.io/rashardlearned) its like i found something noteworthy. A crater on mars with a wild texture! And its so hard to get undistracted time to work on it if u look below there is some software you can put on your computer to see mars surface pics. i saw a landslide once and i think this is related *Index of /PDS/EXTRAS/DTM/PSP/ORB_001900_001999/PSP_001981_1825_PSP_002258_1825/* [SpiralCrater on MArs](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_001900_001999/PSP_001981_1825_PSP_002258_1825/)
+
+[<img src="https://pbs.twimg.com/media/GcnxtdDacAAzr7k?format=jpg&name=large" alt="https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_001900_001999/PSP_001981_1825_PSP_002258_1825/PSP_002258_1825_RED_C_01_ORTHO.ab.jpg" />](https://pbs.twimg.com/media/GcnxtdDacAAzr7k?format=jpg&name=large)
+[<img src="https://raw.githubusercontent.com/ricoThaka/rashardlearned/refs/heads/master/assets/img/marscrater.png" alt="https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_001900_001999/PSP_001981_1825_PSP_002258_1825/PSP_002258_1825_RED_C_01_ORTHO.ab.jpg" />](https://raw.githubusercontent.com/ricoThaka/rashardlearned/refs/heads/master/assets/img/marscrater.png)
+![crater](https://pbs.twimg.com/media/GcnzFE-aoAAqbpq?format=jpg&name=large)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4dTtYVQzlwBMpVyQ4h3wy2?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+## [HiView Image Viewer - Software](https://pirlwww.lpl.arizona.edu/software/HiView/download.php)
+
+### WHAT HiView DOES
+HiView is a data explorer and image viewing application supporting the [JPEG2000](https://jpeg.org/jpeg2000/) image format ![HiVeiw](https://www.uahirise.org/hiview/images/main-splash-screen.jpg) HiView is the best way to explore HiRISE images of the Martian surface at the full resolution of the imagery. Tracks of boulders that have fallen down crater walls, delicate rays of ejecta from fresh impact craters, and the unearthly formations created by carbon dioxide ice on the Martian south pole are just a few of the things that are waiting to be discovered by anyone using a tool like HiView with HiRISE imagery. [Video Tutorial](https://youtu.be/y3PCKnACusk?si=U5H8oqIfENLKOCNU)
+![hiview](https://www.uahirise.org/hiview/images/screen-shot.jpg)
+![HiView](https://www.uahirise.org/hiview/images/hiview-splash2.jpg)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4dTtYVQzlwBMpVyQ4h3wy2?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+
+# Dear_Normani
+[<~back](https://ricothaka.github.io/rashardmro)
+[<img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/66/b8/08/66b808a1-eebf-347d-4ec5-d43d378a1b92/859740137800_cover.jpg/1200x1200bf-60.jpg" alt="Jagged Edge has finally delivered their 10th studio album, A Jagged Love Story" />](https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/66/b8/08/66b808a1-eebf-347d-4ec5-d43d378a1b92/859740137800_cover.jpg/1200x1200bf-60.jpg)
+
+However [you](https://codepen.io/ricoThaka/pen/vYMyNzo) doing, I was reviewing Male RnB, if u wanna call it that. Im healing from all the impersonations. They were in my head like 8th graders impersonating according to their response. Its so messy! I mean whatever it means to take your clothes off for people, its not fair I would not imagine anyone purposely brining this much creepy guilt on their nieghbors at the very least! Im still working my duties at NASAJPL and i Saw [Erika](https://www.bet.com/article/m64b2n/latto-first-solo-female-atl-rapper-earn-number-1-rap-album) but i think Lauren London and her swap roles sometimes, i dont know if its rabbithead or not. But its like when we were in Atlanta and ppl used to swap u and [Muna](https://www.atlutd.com/news/behind-the-stripes/muna-ahmed)-[MOON](https://codepen.io/ricoThaka/pen/LYoRxRp) BTW im getting hacked alot on @internetarchive! I still have all thjse old repos named [BubblegumPop](https://archive.org/details/fav-bubblegumpop633) and i know people from your world are using my concept for some pornographic or popmusic means to an end! I feel so trapped bc i cannot untie my real life from my [WebDevelopment](https://archive.org/download/detrmi-Census_2020_-_Kash_Doll/Census_2020_-_Kash_Doll.mp4) [Mariah Carey - Breakdown ft. Krayzie Bone, Wish Bone](https://youtu.be/bC7V9dn1rC8?t=19) [MariahCarey - The Roof](https://youtu.be/sOApp3n-abA?si=Dq7uhTmnYYCr7yZP) [Computer Systems: Moral Entities but not Moral Agents.](https://nissenbaum.tech.cornell.edu/papers/computer_systems.pdf) [Computer ethics - Johnson, Deborah G., 1945-](https://archive.org/details/computerethics3r00debo) Written in clear, accessible prose, this text brings together philosophy, law, and technology to provide a rigorous, in-depth analysis of the ethical implications of widespread use of computer technology. The author proposes that the ethical issues surrounding computers are new species of traditional and recurrent moral issues.
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0bf1IKVWM1yv1rduV6gx0B?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+
+# filter: MozillaDev
+The filter CSS property applies graphical effects like blur or color shift to an element. Filters are commonly used to adjust the rendering of images, backgrounds, and borders.
+
+Several functions, such as blur() and contrast(), are available to help you achieve predefined effects. [ReadMore](https://developer.mozilla.org/en-US/docs/Web/CSS/filter)
+
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1j2EhMoMkbiuC9LkrLG1gX?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/25tSC2vwRwcoIm49RWfZGD?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/0NHkPGVWlemuhuggKKivXZ?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/7EKHulqBejrbByZ1E36FDC?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+[Hell Q Crater](https://www.lroc.asu.edu/images/1003)
+Recent impact craters are some of the most spectacular landforms on the Moon [![Twitter Follow](https://img.shields.io/badge/Social-NASAMoon__-blue?style=social&logo=X)](https://twitter.com/NASAMoon) ! For example, Hell Q (3.4 kilometers in diameter, 33.0° S, 355.5° E) shows off pristine impact melt that lined the crater walls and pooled in the bottom, now solidified into rock.Ejecta was thrown out several crater radii, and dark impact-melt streamers that formed late in the impact process crossed over the early emplaced ejecta; NAC M1221369684LR [[![Twitter Follow](https://img.shields.io/badge/Social-NASA__-blue?style=social&logo=X)](https://twitter.com/NASA) NASA/ [![Twitter Follow](https://img.shields.io/badge/Social-NASAGoddard__-blue?style=social&logo=X)](https://twitter.com/NASAGoddard) GSFC/[![Twitter Follow](https://img.shields.io/badge/Social-uarizona__-blue?style=social&logo=X)](https://twitter.com/uarizona)[Arizona State University](https://marsoweb.nas.nasa.gov/hirise/)].
+[<img src="https://www.lroc.asu.edu/ckeditor_assets/pictures/659/content_m1221369684_lrmos_warp_1100p.png" alt="File:Visual Studio Code 1.35 icon.svg" />](https://www.lroc.asu.edu/ckeditor_assets/pictures/659/content_m1221369684_lrmos_warp_1100p.png)
+[<img src="https://www.lroc.asu.edu/ckeditor_assets/pictures/631/content_04_hellq_m1221369684_lr_952p.png" alt="File:Visual Studio Code 1.35 icon.svg" />](https://www.lroc.asu.edu/ckeditor_assets/pictures/631/content_04_hellq_m1221369684_lr_952p.png)
+
+
+this my favorite code editor normani
+[Visual Studio Code](https://github.com/microsoft/vscode), also commonly referred to as VS Code,[9] is an integrated development environment developed by Microsoft for Windows, Linux, macOS and web browsers.[10][11] Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded version control with Git. Users can change the theme, keyboard shortcuts, preferences, and install extensions that add functionality. Visual Studio Code is proprietary software released under the "Microsoft Software License",[6] but based on the MIT licensed program named "Visual Studio Code — Open Source" (also known as "Code — OSS"), also created by Microsoft and available through GitHub.[12] [WiKi](https://en.wikipedia.org/wiki/Visual_Studio_Code) [Boogie Down Productions (BDP) - 'By All Means Necessary' (Full Album) [1988]](https://youtu.be/wgHAdESSiX4?t=930)
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="File:Visual Studio Code 1.35 icon.svg" />](https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg)
+# Landsat Plumbs the (Shallow) Depths [KeyWesT_FL](https://earthobservatory.nasa.gov/images/153529/landsat-plumbs-the-shallow-depths) 
+Hi Noir, iloveu, im still working in outerspace but i want u to know im working with earth directed imaging tech as well. here is a blurb abt landsat - As the workhorses for Earth science from space, Landsat satellites have imaged Earth’s land surfaces uninterrupted for over 50 years. The missions continue to execute on the big idea of consistent, long-term observations. But limiting observations to land would have kept Landsat from its full potential. Scientists at the U.S. Geological Survey have developed a new way to measure ocean depth, or bathymetry, in shallow nearshore environments using Landsat data. By applying a sophisticated physics-based algorithm to satellite observations, their method offers an expedient way to map the seafloor from space without relying on prior depth measurements. Deriving bathymetry from satellites—a process researchers have been refining for decades—can fill in many mapping gaps in coastal areas and provide up-to-date information critical for modeling water movement, tracking coastal changes, studying coral reef habitats, and more. [earthObservatory](https://earthobservatory.nasa.gov/images/153529/landsat-plumbs-the-shallow-depths)
+
+[<img src="https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153529/bathymetry_oli_oli2_lrg.jpg" alt="I love my harem twin" />](https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153529/bathymetry_oli_oli2_lrg.jpg)
+[<img src="https://www.google.com/logos/doodles/2024/valentines-day-2024-6753651837110186-2xa.gif" alt="I love my harem twin" />](https://www.google.com/logos/doodles/2024/valentines-day-2024-6753651837110186-2xa.gif)
+
+
+
+
+{% include sega.md %}
+
+[D̲J̲ S̲h̲a̲d̲o̲w̲ | E̲n̲d̲t̲r̲o̲d̲u̲c̲i̲n̲g̲.̲.̲.̲.̲.̲](https://www.youtube.com/watch?v=EEV2EqVe9vU) [ShopMerch](https://djshadow.com/collections/action-adventure)
+![Entroducing](https://i.discogs.com/JZkgb1opCrJySlmPGfAfw5JleBkRCQ-kEmS8Wn7iQ70/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjYx/LTE1MTM5ODM3NjIt/NDYyNS5qcGVn.jpeg)
+<div class='twoPanelSpread'>
+        <div class='row'>
+          <div class='panelColumn'>
+            <div class='leftColumn'>
+            <a href="https://i.discogs.com/e1Mz3cJO_eC6kdX6Bz7Wk7_mdnLYRxwslJ7bfig7YV8/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjYx/LTE0MjUwMTU4NzIt/NTAxMC5qcGVn.jpeg">
+              <img src="https://i.discogs.com/e1Mz3cJO_eC6kdX6Bz7Wk7_mdnLYRxwslJ7bfig7YV8/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjYx/LTE0MjUwMTU4NzIt/NTAxMC5qcGVn.jpeg" alt="De La Soul - Stakes is High" > </a>
+            </div>
+          </div>
+          <div class='panelColumn'>
+            <div class='rightColumn'>
+            <a href="https://i.discogs.com/oUpx-QGCDWdiB2oNkXbRvztYirikkMjPNdjsNkkLNkM/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjYx/LTE1MTM5ODM3OTMt/NDU1NS5qcGVn.jpeg">  <img src="https://i.discogs.com/oUpx-QGCDWdiB2oNkXbRvztYirikkMjPNdjsNkkLNkM/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjYx/LTE1MTM5ODM3OTMt/NDU1NS5qcGVn.jpeg" alt="De La Soul stakes is high" > </a>
+      
+   </div>
+  </div>    
+ </div>
+</div>
+![Entroducing](https://i.discogs.com/JZkgb1opCrJySlmPGfAfw5JleBkRCQ-kEmS8Wn7iQ70/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjYx/LTE1MTM5ODM3NjIt/NDYyNS5qcGVn.jpeg)
+
+# Hi Normani
+I found out about another mission i am attatched to its [Psyche](https://science.nasa.gov/mission/psyche/) idk the details but since there is a mars flyby i understand y they let me know about it. It launched in 2023 so its at a level with your life man... im just tired. but the sex is gross and the way the family members treat me. I still love u... 
+[<img src="https://science.nasa.gov/wp-content/uploads/2023/07/psyche-mission-illustration-pia24930.jpg?w=2048&format=webp" alt="mercury map" />](https://science.nasa.gov/wp-content/uploads/2023/07/psyche-mission-illustration-pia24930.jpg?w=2048&format=webp)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Psyche_spacecraft_model.png/1200px-Psyche_spacecraft_model.png" alt="mercury map" />](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Psyche_spacecraft_model.png/1200px-Psyche_spacecraft_model.png)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Psyche_insignia.png/600px-Psyche_insignia.png" alt="mercury map" />](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Psyche_insignia.png/600px-Psyche_insignia.png)
+
+### [Fzero(snes)](https://www.retrogames.cc/snes-games/f-zero-usa.html)
+Nintendo's flagship futuristic racing game (for the Super Nintendo Entertainment System) - [retrogames.cc](https://www.retrogames.cc/snes-games/f-zero-usa.html)
+[<img src="https://pbs.twimg.com/media/GbBcyV0aQAAQk7w?format=jpg&name=large" alt="mercury map" />](https://pbs.twimg.com/media/GbBcyV0aQAAQk7w?format=jpg&name=large)
+[Ella Fitzgerald And Louis Armstrong 🎵 Ella And Louis Full Album 🎶 Vintage Music Songs](https://www.youtube.com/watch?v=6myvNnjONKs) [Mike Giant: 1996 interview: "If it doesn't have letters, it's not graffiti."](https://www.youtube.com/watch?v=AwpufzTG7lg) [Summer In New York pt.5 - Bombing With Zexor. (Graffiti documentary).- TagsAndThrows](https://youtu.be/AT-Km8ToCGU) [Summer In New York pt.1 - Bombing With Ojae ft. Left. (Graffiti documentary).](https://www.youtube.com/watch?v=3LrnAHpEGNI) [MisterTotem2 - Totem's Voltron Letters!](https://www.youtube.com/watch?v=F7JZBJmZzJA) [Graffiti Tags Tutorial - Everything You Need To Know](https://www.youtube.com/watch?v=L44qLzz_FB0) [Curve Handstyle History](https://www.youtube.com/watch?v=MW5uCCuxp0U) [Mike Giant-Handstyle History Lesson](https://youtu.be/iluqN6p0xEc?si=18LCMGRJ7NhdlC4b) [The Free Agents (FA) Crew was Established in 1985](https://freeagentscrew.com/crew-history/) Remember Dekay in Savannah? 
 
 # (งツ)ว Normani (° ͜ʖ͡°)╭∩╮
 ### [Is That All There Is? - Peggy Lee](https://www.youtube.com/watch?v=QPP6UgkmyM4)
 # ⊂(◉‿◉)つ Normani 
 im still your friend, i think u will like this [Hexstatic - Solid Steel Presents Hexstatic: Listen & Learn (full mix-CD)](https://youtu.be/KHDOj2QxAfQ?t=483)
 i wrote u a not on [my page](ricothaka.github.io)
+
 <iframe width="960" height="540" src="https://www.youtube.com/embed/F6wnB3Aa8TI" title="Count Basie - Have A Nice Day" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### learning Linux
 [Linux Journey](https://linuxjourney.com/) [DistroSea: Test Linux distros online](https://distrosea.com/)
 
@@ -77,7 +621,7 @@ You have to talk about how im being burned and my hair has lice mounds, that sti
 
 ## Puzzle Bobble 4 (Ver 2.04O 1997/12/19)
 
-<iframe loading="lazy"  loading="lazy"  src="https://archive.org/embed/arcade_pbobble4" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe loading="lazy"  src="https://archive.org/embed/arcade_pbobble4" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [How Long (Betcha' Got A Chick On The Side) - The Pointer Sisters](https://www.youtube.com/watch?v=Ad4HPYFzJNU) [Yes We Can Can · The Pointer Sisters](https://www.youtube.com/watch?v=DXRjBVXanzc) [Smokey Robinson - Just My Soul Responding](https://www.youtube.com/watch?v=ikYqdYSYJ3c) [The Untold Truth Of The Pointer Sisters](https://www.youtube.com/watch?v=-BsSCHMOa28) [The Pointer Sisters - TV Special - UP ALL NIGHT - 1987](https://www.youtube.com/watch?v=BFuN_Wg45qg) [The Pointer Sisters - Live in Paris (1985)](https://www.youtube.com/watch?v=vqTMdZOwFlc)
  [In My House · Mary Jane Girls](https://youtu.be/FVSZ527FOTM?t=12) [Michael Jackson, Janet Jackson - Scream (Official Video)](https://youtu.be/0P4A1K4lXDo?t=11) 

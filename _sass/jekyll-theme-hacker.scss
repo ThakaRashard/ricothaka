@@ -1,8 +1,10 @@
-
-@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anybody:wght@900&family=Fredoka+One&display=swap');
 @import "normalize";
 @import "fonts";
 @import "rouge-base16-dark";
+@import "_media.css";
 @font-face {
   font-family: Cluster;
   src: url(https://raw.githubusercontent.com/ThakaRashard/thakarashardOLD/master/assets/fonts/clusrg__.ttf);
@@ -24,57 +26,44 @@ $container-max-width: 1000px;
 
 
 
-
 html {
-  font-family: Arial, sans-serif, "Comfortaa", -apple-system, Ubuntu, "Ariel Black", Verdana;
+  
+  font-family: "IBM Plex Sans", "vt323", Arial, sans-serif, "Comfortaa", -apple-system, Ubuntu, "Ariel Black", Verdana;
   font-size: 1rem;
- /* font: normal 14px/18px Arial, "Helvetica Neue", Helvetica, sans-serif; */
-  /* font: normal 12px/18px "Comfortaa", 'IBM Plex Sans', "Lucida Sans Unicode", verdana, lucida, sans-serif; */
-   /* font: normal 15px/19px "VT323", "IBM Plex Sans", "Lucida Sans Unicode", verdana, lucida,
-    sans-serif; */
-    /* font: normal 15px/19px "Martian Mono", 'IBM Plex Sans', "Lucida Sans Unicode", verdana, lucida, sans-serif;  */
- /* background : #595959; 
-  background-image :
-    linear-gradient(#262626 1px, transparent 0),
-    linear-gradient(90deg, #262626 1px, transparent 0);
-  background-size: 30px 30px;
-     font-family: "VT323", monospace; */
-     --s: 50px; /* control the size*/
-     --c1: #0D0D0D;
-     --c2: #4e4f51;
-     --c3: #3c3c3c;
-     
-     background:
-       repeating-conic-gradient(from 30deg,#0000 0 120deg,var(--c3) 0 180deg) 
-        calc(.5*var(--s)) calc(.5*var(--s)*0.577),
-       repeating-conic-gradient(from 30deg,var(--c1) 0 60deg,var(--c2) 0 120deg,var(--c3) 0 180deg);
-     background-size: var(--s) calc(var(--s)*0.577);
-
-     background-attachment: fixed;
+background : #0D0D0D;
+background-image :
+  linear-gradient(#262626 1px, transparent 0),
+  linear-gradient(90deg, #262626 1px, transparent 0);
+background-size: 30px 30px;
+  background-attachment: fixed;   
     height: 100vh;
     width: 100vw;
   }
 
-p {
-  margin-top:10px;
-  margin-bottom:10px;
-  display: block;
-  text-align: left;
-  color: white;
-  text-shadow: 0 0 5px rgba(242, 242, 242, 0.5);
-  background: transparent
-  url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
-  center repeat;
-  /* background: black; */
-  /* background: linear-gradient(90deg, black 0%, rgba(38,38,38,0.7049194677871149) 35%, rgba(89,89,89,0.5900735294117647) 100%); */
-  border-left: 1px solid #595959;
-  border-right: 1px solid #595959;
-  column-count: auto;
-  column-fill: balance-all;
-  word-break: break-all;
-  hyphens: auto;
-  display:block;
-}
+
+  p {
+    display: flex;
+    text-align: left;
+    margin-top:10px;
+    margin-bottom:10px;
+    font-size: 1.2rem;
+    display: block;
+    text-align: left;
+    color: white;
+    text-shadow: 0 0 5px rgba(242, 242, 242, 0.5);
+    background: transparent
+    url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
+    center repeat;
+     background: black; 
+    background: linear-gradient(90deg, black 0%, rgba(38,38,38,0.7049194677871149) 35%, rgba(89,89,89,0.5900735294117647) 100%); 
+    border-left: 1px solid grey;
+    border-right: 1px solid grey;
+    column-count: auto;
+    column-fill: balance-all;
+    word-break: break-word;
+    hyphens: auto;
+    display:block;
+  }
 
 
 .floatright img:nth-child(odd) {
@@ -86,14 +75,27 @@ p {
 }
 
 h1 {
-  font: normal 14px/18px "Arial Black", "Helvetica Neue", Helvetica, sans-serif;
+ /* font: normal 14px/18px "Arial Black", "Helvetica Neue", Helvetica, sans-serif;
   font-size: 3em;
-  color: white;
+   color: white;
   text-shadow: rgba(255,255,255,1) 0px 0px 6px;
-  /* background: linear-gradient(45deg, 
+  background: linear-gradient(45deg, 
  #F2D338 25%, #262626 0, #262626 50%,
  #F2D338 0, #F2D338 75%, #262626 0);
 background-size: 80.4px 80.4px; */
+display: block;
+line-height: 1.7rem;
+font: normal 14px/18px 'Fredoka One', "Ariel Black", 'Anybody', -apple-system, Ubuntu, "Ariel Black", Verdana;
+font-size: 3rem;
+word-break: break-all;
+color: #fff;
+text-shadow:
+
+      0 0 42px #0DCBFF,
+      0 0 82px #0DCBFF,
+      0 0 92px #0DCBFF,
+      0 0 102px #0DCBFF,
+      0 0 125px #0DCBFF;
 
 }
 
@@ -133,9 +135,25 @@ h6 {
   background: transparent
     url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
     center repeat;
-  font-weight: 900;
-  margin: 5px;
-  padding: 5px;
+
+}
+
+h6 {
+
+  display: block;
+  word-break: break-all;
+font-size: 3rem;
+  line-height: 1.7rem;
+  margin: auto;
+  font-family: 'Fredoka One', 'Anybody', -apple-system, Ubuntu, "Ariel Black", Verdana;
+    text-shadow:
+
+        0 0 42px #0DCBFF,
+        0 0 82px #0DCBFF,
+        0 0 92px #0DCBFF,
+        0 0 102px #0DCBFF,
+        0 0 125px #0DCBFF;
+    letter-spacing: -1px;
 
 }
 
@@ -152,6 +170,7 @@ text-shadow:
 
 
 
+
 body {
   /* seems resource heavy text-shadow: 0 0 11px #ffffff;
   */
@@ -160,6 +179,16 @@ body {
 }
 
 
+img[src*="Midway_Games_logo"] {background: transparent
+  url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-white.gif)
+  center repeat; width: 100%;}
+img[src*="6071cc4b982fd393d892490ed7a702738c595099"] {background: transparent
+  url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-white.gif)
+  center repeat; width: 100%;}
+  img[src*="859740137800_cover.jpg/1200x1200bf-60.jpg"] {width: 25%; border: 5px solid #003da550;}
+img[src*="workflows/ci.yaml/badge.svg"] {width: 100%;}
+img[src*="https://badge.fury.io"] {width: 100%;}
+img[src*="img.shields.io/badge/Social-ricoThaka"] {width: 100%;}
 svg { width: max-content;
 display: inline-block; }
 
@@ -237,6 +266,65 @@ p:first-of-type {
 
 
 }
+
+
+.featured-post {
+  height: 400px;
+  margin: 0px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.featured-post h2 {
+  bottom: 0;
+  margin: 0;
+  padding: 10px;
+  position: absolute;
+}
+.featured-post h2 span {
+  display: inline-block;
+  color: white;
+  font: bold 24px/45px Helvetica, Sans-Serif;
+  letter-spacing: -1px;
+  background: rgb(0, 0, 0); /* fallback color */
+  background: rgba(0, 0, 0, 0.7);
+  padding: 10px;
+}
+.featured-post span a {
+  color: white;
+}
+.featured-post h1 {
+  margin: 10px;
+}
+
+
+
+
+.tupperware > * {
+  border: 1px solid #c9ff23;
+  border-radius: 5px;
+  padding: 0px;
+  flex: 1 1 160px;
+  overflow: hidden;
+  }
+
+.tupperware {
+  display: flex;
+  flex-flow: row wrap; 
+  padding: 15px;
+  gap: 5px;
+  width:100%;
+  height: auto;
+}
+
+
+.tupperware img {
+  width: 100%;
+}
+
+
+
 /*
 #heading {
 
@@ -500,17 +588,7 @@ blockquote {
   border-left: 1px dotted #b5e853;
 }
 
-pre {
-  background: rgba(0, 0, 0, 0.9);
-  border: 1px solid rgba(255, 255, 255, 0.15);
-  padding: 10px;
-  font-size: 16px;
-  color: #b5e853;
-  border-radius: 0px;
-  word-wrap: normal;
-  overflow: auto;
-  overflow-y: hidden;
-}
+
 
 code.highlighter-rouge {
   background: rgba(0, 0, 0, 0.9);
@@ -560,11 +638,18 @@ a {
   padding: 0px;
   color:#29F247 ;
   text-shadow: 0 0 5px rgba(41, 242, 71, 0.5);
-  transition: all .2s ease-out;
+ 
 
 
 }
-
+.crt {
+  padding: 50px;
+  background: black;
+}
+img.crt {
+  padding: 50px;
+  background: black;
+}
 video {
   height: 400px;
   width: 100%;
@@ -5354,6 +5439,11 @@ img[alt^="L"] {
   border-top:solid 10px #f4bf75;
   
   }
+
+  img[src*="poesiatranscend"] {
+    width: 100%;}
+
+  
 
 img[alt*="USGS"] {
   width: 100%;
