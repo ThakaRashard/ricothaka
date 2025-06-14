@@ -12,6 +12,12 @@ image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
   <li>{{ post.title }}</li>
 {% endfor %}
 
+# The Shiggar Fraggar Show Vol. 4
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLRlTfC8uAU?si=v6zkSN-dbZlxYEHh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# Tableturns: A Great Day In Turntablism: Tableturns 4th Anniversary @NASA-JPL
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MR5QbqnylrY?si=ShNTgm7ye-neidAv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Zoo York "Mixtape" (1998) : [Skate Video Vault - youtube.com/@SkateVideoVault](https://www.youtube.com/@SkateVideoVault)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EGSPDuwiAHM?si=Hc9oMOHmNn-XiDU4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
