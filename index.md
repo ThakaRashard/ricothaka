@@ -62,7 +62,7 @@ carousels:
 {{ site.baseurl }}
 # Compiling {{ site.time | date: '%c' }}
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C_A_EthRJeI?si=Ppus6unE48gpUKtS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Q-Bert VS. Craze /TTV vol.3/
 @blackgirlscode @nasa-jpl good luck today 
