@@ -67,6 +67,8 @@ carousels:
 
 [1995 - HIP HOP DOCUMENTARY - THE SHOW](https://www.youtube.com/watch?v=2UHm2ASOpXA) 
 
+<iframe src="https://archive.org/embed/smithsonianbooko00boyc" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 ![TheShow](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxIZ5HFhTzfw7diKQl9kloFX4SwJcIrtoZXZaTx5B0OI5vPipjLUBpSsDft7WeFf0c7yI5dTNpH1CSPzZPW3IM0aeBfwRAVI7d25RcKrrbLpW0nypkWgiqPKvlArbxSS4Oz89CurGizPOp/s640/the+show+-+big+and+puff.jpg)
 
 [RelatedTweet](https://x.com/RicoThaka/status/1904320514044338291) [The Show (1995) on youtube/rapCentral96](https://youtu.be/35UQsh3FPrk?si=KC836p6WDg9LPlCx) [TheSource](https://thesource.com/tag/brooklyn-graffiti/) [DJSAVEonE - ](https://www.blogger.com/profile/13083316278648144555) - `The Show is a 1995 documentary-film that follows the most celebrated artists in hip-hop as they travel from the street to the stage. Considered a "compelling real-life drama about a generation that demands to be heard." The docu-film features artists like Run DMC, Tha Dogg Pound, Dr. Dre, The Notorious B.I.G., Warren G, Craig Mack, Wu-Tang Clan, Naughty By Nature, Slick Rick and many more! ` [ReadMore on hiphopnostalgia.com](https://www.hiphopnostalgia.com/2019/10/def-jam-show-documentary-1995.html)
