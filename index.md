@@ -47,6 +47,9 @@ carousels:
 
 # Currently Compling g_e, m/s^2
 
+
+![image](https://github.com/user-attachments/assets/cc55f25c-391d-4e43-97c2-46c0aed7b64b)
+
 <div class="box">
 
   {% for post in site.posts %}
