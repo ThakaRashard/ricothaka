@@ -67,7 +67,7 @@ carousels:
 
 [<video controls width="100%" height="auto" src="https://photojournal.jpl.nasa.gov/archive/PIA26339.mp4" poster="https://photojournal.jpl.nasa.gov/jpegMod/PIA26339_modest.jpg" />](https://photojournal.jpl.nasa.gov/archive/PIA26339.mp4)
 
-[<video controls width="50%" height="auto" src="https://ia801600.us.archive.org/19/items/BannedBettyBoop/BannedBetty_512kb.mp4" >](https://ia801600.us.archive.org/19/items/BannedBettyBoop/BannedBetty_512kb.mp4)
+[<video controls width="50%" height="auto" src="https://archive.org/download/1932PopeyePopeyeMeetsBettyBoop/1932%20%20Popeye%20-%20Popeye%20Meets%20Betty%20Boop.mp4" >](https://archive.org/download/1932PopeyePopeyeMeetsBettyBoop/1932%20%20Popeye%20-%20Popeye%20Meets%20Betty%20Boop.mp4)
 
 
 <object data="https://archive.org/embed/boop-oop-a-doop.-1932.1080p.-bluray.-dts.x-264-gcjm" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></object>
