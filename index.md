@@ -65,7 +65,7 @@ carousels:
 {{ site.baseurl }}
 # Compiling {{ site.time | date: '%c' }}
 
-![image](https://github.com/user-attachments/assets/637f9743-7af8-4642-900f-083f654507ac)
+[image](https://github.com/user-attachments/assets/637f9743-7af8-4642-900f-083f654507ac)
 
 
 [<video controls width="100%" height="auto" src="https://photojournal.jpl.nasa.gov/archive/PIA26339.mp4" poster="https://photojournal.jpl.nasa.gov/jpegMod/PIA26339_modest.jpg" />](https://photojournal.jpl.nasa.gov/archive/PIA26339.mp4)
