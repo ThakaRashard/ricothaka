@@ -45,7 +45,7 @@ carousels:
 
 
 
-# Currently Compling g_e, m/s^2
+
 
 
 ![image](https://github.com/user-attachments/assets/cc55f25c-391d-4e43-97c2-46c0aed7b64b)
@@ -60,12 +60,87 @@ carousels:
   {% endfor %}
    
  </div> 
+ 
 
-{{ site.url }}
-{{ site.baseurl }}
-# Compiling {{ site.time | date: '%c' }}
+
+# Currently  Compiling {{ site.time | date: '%c' }} g_e, m/s^2
+
+
+
+# [Curiosity](https://en.wikipedia.org/wiki/Mars_Science_Laboratory) Views Twilight Clouds [PIA26519] (https://photojournal.jpl.nasa.gov/catalog/?IDNumber=PIA26519)
+[MSL]():[Curiosity](https://eyes.nasa.gov/curiosity/) used its left Mast Camera, or Mastcam, to capture these drifting noctilucent, or twilight, clouds on Jan. 17, 2025, the 4,426th Martian day, or sol, of the mission
+Feb. 11, 2025 [Read](https://www.jpl.nasa.gov/images/pia26519-curiosity-views-twilight-clouds/) [presskit - MSL](https://web.archive.org/web/20120805074403/http://solarsystem.nasa.gov/docs/MSL_Landing_20120724.pdf) [Aug. 6, 2012 - Video from rover looks down on Mars during landing](https://www.nbcnews.com/id/wbna48540619) [WATCH:MSL Sol 3 Update @nasa-jpl](https://www.youtube.com/watch?v=6f8HHQ2U2jg) [Article 14
+Mars Science Laboratory Telecommunications
+System Design Andre Makovsky Peter Ilott Jim Taylor @nasa @whitehouse](https://descanso.jpl.nasa.gov/DPSummary/Descanso14_MSL_Telecom.pdf) [DistanceFromEarth](https://www.wolframalpha.com/input/?i=mars+earth+distance+august+5+2012) 
+
+<video controls width="250">
+
+  <source src="https://photojournal.jpl.nasa.gov/archive/PIA26519.mp4" type="video/mp4" />
+
+  Download the
+
+  <a href="https://photojournal.jpl.nasa.gov/archive/PIA26519.mp4">MP4</a>
+  video.
+</video>
+
+
+[`<video>`: The Video Embed element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/video)
+
+```html
+<video controls width="250">
+
+  <source src="https://photojournal.jpl.nasa.gov/archive/PIA26519.mp4" type="video/mp4" />
+
+  Download the
+
+  <a href="https://photojournal.jpl.nasa.gov/archive/PIA26519.mp4">MP4</a>
+  video.
+</video>
+```
+
+![image](https://github.com/user-attachments/assets/be142e11-27ee-4e57-9603-3205d0d40ed7)
+![MSL](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/PIA19912-MarsCuriosityRover-MountSharp-20151002.jpg/1920px-PIA19912-MarsCuriosityRover-MountSharp-20151002.jpg)
+
+[MARS3](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1971-049A)
+![image](https://github.com/user-attachments/assets/9504440f-804a-43ad-ad53-3b124b86785e)
+
+# [Read](https://mademistakes.com/mastering-jekyll/site-url-baseurl/) Jekyll’s site.url and baseurl
+[Michael Rose](https://mademistakes.com/about/) in [Mastering Jekyll](https://mademistakes.com/mastering-jekyll/)
+{{ site.url }} `siteurl`
+{{ site.baseurl }} `baseurl`
 
 [image](https://github.com/user-attachments/assets/637f9743-7af8-4642-900f-083f654507ac)
+
+![image](https://github.com/user-attachments/assets/96f0e0b7-f25d-4cd3-997e-a8a943deef14)
+
+
+</div>
+
+ [Wipeout 3 (2000)(Psygnosis)(US)SLUS-00865](https://archive.org/details/Wipeout_3_2000_Psygnosis_US_SLUS-00865/page/n21/mode/2up)
+[FANDom](https://wipeout.fandom.com/wiki/Wipeout_3)
+![image](https://github.com/user-attachments/assets/bef53490-20b3-46e1-8053-e400dfee097d)
+An all-new Toyota Celica Supra debuted in 1982 offering the choice of a performance model or more luxury-focused L-Type version.[JonWong](https://www.cnet.com/roadshow/pictures/second-generation-toyota-celica-supra-gets-more-power-and-plusher/)
+
+<iframe src="https://archive.org/embed/wipeout3-soundtrack" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+![image](https://github.com/user-attachments/assets/55e4837c-7b13-4aa3-817d-a1dc6d9f99b7)
+
+![THESHAPEOFDEiSGN](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356713735i/13017981.jpg)
+## The shape of Design
+by [Frank](https://monoskop.org/images/b/b4/Chimero_Frank_The_Shape_of_Design.pdf) [Chimero](https://www.kickstarter.com/projects/fchimero/the-shape-of-design)
+[https://shapeofdesignbook.com/](https://shapeofdesignbook.com/)
+[Archive](https://archive.org/details/sod-ebook/page/n13/mode/2up)
+![image](https://github.com/user-attachments/assets/b15752ba-1cdb-41ef-bf31-3879a0576db1) <@nasa-jpl @blackgirlscode #[GOODREADS](https://www.goodreads.com/book/show/13017981-the-shape-of-design) @mozilla thanks for the rec!
+
+
+# Cassini: A Saturn Odyssey [lightbox](https://www.youtube.com/watch?v=fHaaIX-iSqM)
+![image](https://github.com/user-attachments/assets/44d55a47-b3ae-45ab-a83e-9f2eb90930d7)
+
+<object width="560" height="315" data="https://www.youtube.com/embed/fHaaIX-iSqM?si=DN45gvgrgsmuI_nS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></object>
+
+
+![image](https://github.com/user-attachments/assets/b517c5c8-a53f-4c1a-9ae6-460ad48ce581)
 
 
 ![image](https://github.com/user-attachments/assets/51caa06f-305b-4c23-9133-a3d028dddd62)
