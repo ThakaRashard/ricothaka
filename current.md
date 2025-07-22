@@ -21,6 +21,16 @@ title: Current
 
 # Compiling
 
+
+# CALiFORNiA_Linux RASHARD IMAN KELLY NASA JPL DOXXED!!!!!!!!!!!!!
+
+<iframe src="https://archive.org/embed/CALiFORNiA_Linux_RASHARD_IMAN_KELLY_M_R_O_NASA_JPL_DOXXED" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+<iframe src="https://archive.org/embed/doxxing-nasa-ice-fed" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+
 ### # California_LinuX_rashard-ci-cd_DOXXED #DOS making notes for my manager - RAshardKelly @NASAJPL 
 
 <iframe src="https://archive.org/embed/screen-recording-2025-07-20-141416-California_LinuX_rashard-ci-cd_DOXXED" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -58,6 +68,7 @@ title: Current
 
 [<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
 ### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
+
 ## Weaving the Dark Web: Legitimacy on Freenet, Tor, and I2P
 [Doc @nasa-jpl](https://ieeexplore.ieee.org/book/8544149)
 ## Being Legit on a Dark Web social Network
