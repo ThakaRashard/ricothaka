@@ -10,8 +10,20 @@ title: Current
  [@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) :: [@whitehosue @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419)
 
 
+
+
 Maintaining Commitment @Nasa-Jpl _3arthdata MRO/JUNO:ECOSTRESS- @BlackGirlsCode
 <iframe src="https://archive.org/embed/commitmentmaintenance" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[<img src="https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:pm000270/full/pct:25/0/default.jpg?fbclid=IwY2xjawODQCZleHRuA2FlbQIxMABicmlkETBib1BLcGpUR01PT2htUllxc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHl1WXxZUERnNEzlRVmJZ95cIEILzI2UpEfvQ55NCWI1QV6FECs_fXCdwp3io_aem_Tq2c3569pbZggjXEjdsd1g">](https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:pm000270/full/pct:25/0/default.jpg?fbclid=IwY2xjawODQCZleHRuA2FlbQIxMABicmlkETBib1BLcGpUR01PT2htUllxc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHl1WXxZUERnNEzlRVmJZ95cIEILzI2UpEfvQ55NCWI1QV6FECs_fXCdwp3io_aem_Tq2c3569pbZggjXEjdsd1g)
+
+
+[<img src="https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:ct001845/full/pct:25/0/default.jpg?fbclid=IwY2xjawODPvlleHRuA2FlbQIxMABicmlkETBib1BLcGpUR01PT2htUllxc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHhkUglJ8jCxVoDuF920JNKVW3TDRTbLCdDG7VFhKH-bouJCL7zUm-HacsIeR_aem_nRr_7SVRvE2mEAC1oRPHMw">]( https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:ct001845/full/pct:25/0/default.jpg?fbclid=IwY2xjawODPvlleHRuA2FlbQIxMABicmlkETBib1BLcGpUR01PT2htUllxc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHhkUglJ8jCxVoDuF920JNKVW3TDRTbLCdDG7VFhKH-bouJCL7zUm-HacsIeR_aem_nRr_7SVRvE2mEAC1oRPHMw)
+
+
+[<img src="https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:ct001797/full/pct:25/0/default.jpg?fbclid=IwY2xjawODPd5leHRuA2FlbQIxMABicmlkETBib1BLcGpUR01PT2htUllxc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjt6s4g6DGPGj-tS_csxPfnflXNU22OtxcJpaM2Hw9cPZBS0PTfXi7dzU_Wv_aem_I0geKLDNiCH2duPzyLI77A">]( https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:ct001797/full/pct:25/0/default.jpg?fbclid=IwY2xjawODPd5leHRuA2FlbQIxMABicmlkETBib1BLcGpUR01PT2htUllxc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjt6s4g6DGPGj-tS_csxPfnflXNU22OtxcJpaM2Hw9cPZBS0PTfXi7dzU_Wv_aem_I0geKLDNiCH2duPzyLI77A)
+
+[<img src="https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:pm000280/full/pct:25/0/default.jpg">](https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:pm000280/full/pct:25/0/default.jpg)
 
 @SPlunk @nasa-jpl @blackgirlscode [Linux_ing_update](https://rashardiman.github.io/linux/) 
 
