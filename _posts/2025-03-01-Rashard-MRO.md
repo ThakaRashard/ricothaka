@@ -6,6 +6,75 @@ published: true
 image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 ---
 
+
+
+[<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
+### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
+
+<img alt="image" src="https://github.com/user-attachments/assets/bcc4dd7b-4e9b-4a8a-b930-6d8c8e7df4f0" />
+
+
+<object class="scroller" data="https://eyes.nasa.gov/apps/solar-system/#/sc_mars_reconnaissance_orbiter" type="text/html"></object>
+
+
+
+
+# Mars Reconnaissance Orbiter (MRO)
+Project [pdf](https://planetarydata.jpl.nasa.gov/img/data/mro/marci/mrom_0001/document/mro_arch_plan.pdf)
+@BlackgirlsCode i wanna beg @normani on @github to never reply @nasa-pds ---
+
+`EXCERPTFROM` : [MRO 31-468 @nasa-jpl @TheSpaceDevs @BlueOrigin](https://planetarydata.jpl.nasa.gov/img/data/mro/marci/mrom_0001/document/mro_arch_plan.pdf)
+Assuming that the MRO Primary Science Mission extends for 2 Earth years and is supported by
+two nominally 8 hour X Band 34 m DSN passes per day and three 70m passes per week, the
+spacecraft is capable of returning a total of up to 34 terabits (Tbits) of data, transmitting at rates
+which vary throughout the mission from 20 to 100 and back to 20 gigabits (Gbits) of data per
+day. The lowest data rates occur at the start of the Primary Science Mission when the EarthMars range is greatest, and the highest data rates occur when the range is small, a period
+extending from late October 2007 to June 2008. Table 2 shows telemetry data volumes allocated
+to each instrument, based on full mission success criteria of 26 Tb data downlinked for all
+instruments combined. It is expected that 34.5 Tb as opposed to 26 Tb of data will be
+downlinked. Additional data may be transmitted using X Band 70 m DSN coverage, particularly
+early in the mission when data rates are otherwise low. MRO also carries a Ka Band
+demonstration package, which can be used on additional DSN passes to augment the nominal
+science data return. Additional data would also be acquired during any extended missions. Table
+3 shows estimated science product volumes for several data return cases.
+The generation of EDRs and RDRs from telemetry data typically results in a data volume
+expansion of at least an order of magnitude. Thus, archiving MRO data will be challenging
+indeed since at least several hundred terabits of data will be produ
+<img  alt="image" src="https://github.com/user-attachments/assets/c0ecd138-5a3e-4396-a4d1-dcc93c262b1e" />
+### Books
+
+[How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf)
+
+[Uplink-Downlink A History of the Deep Space Network 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf)
+
+[Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf)
+
+[Read You Loud and Clear!](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf)
+The Story of NASA's Spaceflight Tracking and Data Network
+
+[Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) 
+
+# N.A.S.A. space station 
+@TheSpaceDevs @BlackGirlsCode @emit-sds @stateofcalifornia @cityoflosangeles
+Library of Congress Control Number: [2019642104](https://www.loc.gov/item/2019642104/)
+Caption for frame no. 25: Chairman F. [James Sensenbrenner Jr](https://www.congress.gov/member/f-sensenbrenner/S000244)., R-Wis., makes his opening statement before the start of the [House Science Committee](https://science.house.gov/) hearing on the space station. [ScienceDems @whitehouse @stateofcalifornia](https://democrats-science.house.gov/)
+
+[<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62765v.jpg">](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62765v.jpg)
+
+[<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62763v.jpg">](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62763v.jpg)
+
+[<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62762v.jpg">](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62762v.jpg)
+
+[<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62761v.jpg">](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62761v.jpg)
+
+<div class="tupperware" markdown="1">
+	
+[<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62766v.jpg">](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62766v.jpg)
+[<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62764v.jpg">](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62764v.jpg)
+[<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62600/62669v.jpg">](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62600/62669v.jpg)	
+
+</div>
+
 ![Mars_Pathfinder](https://burodestruct.net/1997/mars/gfx/snowmars3.gif)
 # ABC News Live Reports
 ![ContinentalBreakFast @nasa-jpl @stateofCalifornia](https://s.abcnews.com/assets/dtci/images/abcnewslive-banner-navy.svg)
