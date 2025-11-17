@@ -5,11 +5,11 @@ title: Current
 
 
 
-# Currently Compiling 
+
 `jekyll.version`  {{ jekyll.version }}
 ## Wifi [IEEE 802.11b-1999](https://en.wikipedia.org/wiki/IEEE_802.11b-1999)
 
-<IMG class="whitebg" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/2.4_GHz_Wi-Fi_channels_%28802.11b%2Cg_WLAN%29.svg" />   
+  
 
 <img  alt="image @nasa @nasa-jpl @blackgirlscode" src="https://github.com/user-attachments/assets/80edb710-cf75-4062-9fee-676efd44293d" />
 
@@ -104,6 +104,7 @@ Long Beach Public Library we have a launch meeting in an hour dail in if you lik
 [Watch @blackgirlscode @nasajpl @stateofCalifornia](https://youtu.be/1n4SjH6URAo)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1n4SjH6URAo?si=LYJX4TyVSPsXHHKN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<IMG class="whitebg" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/2.4_GHz_Wi-Fi_channels_%28802.11b%2Cg_WLAN%29.svg" /> 
 
 ### MICRODEVICES LABORATORY 
 2024 | ANNUAL REPORT ::: @BlueOrigin
@@ -121,6 +122,37 @@ Supervisor Holly J. Mitchell this is our #AnnualReport https://microdevices.jpl.
 
 <img alt="@emit-sds @whitehouse @stateofcalifornia" src="https://github.com/user-attachments/assets/1c6da31d-2c4d-4502-a19d-b3fcdccf789f" />
 
+# Mars Relay Network 
+[Lessons Learned from the Mars Relay Network: Considerations for Future Relay Networks](https://ieeexplore.ieee.org/document/10521332)
+<object data="https://eyes.nasa.gov/apps/solar-system/#/home" width="100%" height=400px ></object>
+<object data="https://eyes.nasa.gov/apps/mrn/#/mars" width="100%" height=400px ></object>
+# Deep Space Network Now @nasa-jpl
+![DSN](https://eyes.nasa.gov/apps/dsn-now/images/intro/deep-space-network-logo@2x.png)
+
+<object type="text/html" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" style="height:500px;width:100%;" >
+    </object>
+
+
+
+# The Global CTX Mosaic of Mars
+[The Bruce Murray Laboratory](https://murray-lab.caltech.edu/) for Planetary Visualization has completed a 5.7 [terapixel](https://en.wikipedia.org/wiki/Gigapixel_image#:~:text=A%20terapixel%20image%20is%20an,collectively%20considered%20over%20one%20terapixel.) mosaic of the surface of Mars rendered at 5.0 m/px. Each pixel in the mosaic is about the size of a typical parking space, providing unprecedented resolution of the martian surface at the global scale.
+<object data="https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html" width="100%" height=400px >
+    </object>
+
+
+@nasa-jpl 
+[Star-Fox](https://youtu.be/ee0m9MzXodM?si=s9zFHMEpfa2PSzZP) looks [amazing](https://ia601004.us.archive.org/7/items/screen-20250802-093026/screen-20250802-100521.mp4) after [TheDocking](https://www.youtube.com/watch?v=zW13XnmbYnE&themeRefresh=1), my screenshare got deleted . . . @nasa @whitehouse i got to find some balance with broadcast @nbcnews bc i think they have [AndroidHAckers]() disabling bc i still work @usgs as helpdesk for the gear we build! ... https://gis.earthdata.nasa.gov/portal/home/index.html [NASA Earthdata](https://gis.earthdata.nasa.gov/portal/home/index.html) Congressmember Karen Bass imma make some notes on my workblog an see what i can do for County of Los Angeles
+
+- [4later gta5](https://www.rockstargames.com/gta-online) 
+
+<video controls  width="auto" height="400">
+   <source src="https://ia601004.us.archive.org/7/items/screen-20250802-093026/screen-20250802-100521.mp4" type="video/mp4" />
+
+  <source src="https://ia601004.us.archive.org/7/items/screen-20250802-093026/screen-20250802-100521.mp4" type="video/mp4" />
+
+
+</video>
+
 
 [@blackgirlscode APHEXTWiN](https://soundcloud.com/richarddjames/sets/blackbox-life-recorder-21f-1?si=46fa6a18b5cc4b838c5c9b8eacf68ff2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
@@ -130,14 +162,10 @@ Supervisor Holly J. Mitchell this is our #AnnualReport https://microdevices.jpl.
 <img alt="image" src="https://github.com/user-attachments/assets/bcc4dd7b-4e9b-4a8a-b930-6d8c8e7df4f0" />
 
 
-<object class="scroller" data="https://eyes.nasa.gov/apps/solar-system/#/sc_mars_reconnaissance_orbiter" type="text/html"></object>
+
  [@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) :: [@whitehosue @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419)
 
 
-
-
-Maintaining Commitment @Nasa-Jpl _3arthdata MRO/JUNO:ECOSTRESS- @BlackGirlsCode
-<iframe src="https://archive.org/embed/commitmentmaintenance" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [<img src="https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:pm000270/full/pct:25/0/default.jpg?fbclid=IwY2xjawODQCZleHRuA2FlbQIxMABicmlkETBib1BLcGpUR01PT2htUllxc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHl1WXxZUERnNEzlRVmJZ95cIEILzI2UpEfvQ55NCWI1QV6FECs_fXCdwp3io_aem_Tq2c3569pbZggjXEjdsd1g">](https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:pm000270/full/pct:25/0/default.jpg?fbclid=IwY2xjawODQCZleHRuA2FlbQIxMABicmlkETBib1BLcGpUR01PT2htUllxc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHl1WXxZUERnNEzlRVmJZ95cIEILzI2UpEfvQ55NCWI1QV6FECs_fXCdwp3io_aem_Tq2c3569pbZggjXEjdsd1g)
 
@@ -191,36 +219,6 @@ The [first spacecraft](https://www.whitehouse.gov/) to successfully land [on](ht
 [Browse Image Directories](https://planetarydata.jpl.nasa.gov/img/data/vl1_vl2-m-lcs-2-edr-v1.0/vl_0001/browse/index.htm)
 ![a0xx/12a010b4.gif](https://planetarydata.jpl.nasa.gov/img/data/vl1_vl2-m-lcs-2-edr-v1.0/vl_0001/browse/image/a0xx/12a010b4.gif)
 
-# Mars Relay Network 
-[Lessons Learned from the Mars Relay Network: Considerations for Future Relay Networks](https://ieeexplore.ieee.org/document/10521332)
-<object data="https://eyes.nasa.gov/apps/solar-system/#/home" width="100%" height=400px ></object>
-<object data="https://eyes.nasa.gov/apps/mrn/#/mars" width="100%" height=400px ></object>
-# Deep Space Network Now @nasa-jpl
-![DSN](https://eyes.nasa.gov/apps/dsn-now/images/intro/deep-space-network-logo@2x.png)
-
-<object type="text/html" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" style="height:500px;width:100%;" >
-    </object>
-
-
-
-# The Global CTX Mosaic of Mars
-[The Bruce Murray Laboratory](https://murray-lab.caltech.edu/) for Planetary Visualization has completed a 5.7 [terapixel](https://en.wikipedia.org/wiki/Gigapixel_image#:~:text=A%20terapixel%20image%20is%20an,collectively%20considered%20over%20one%20terapixel.) mosaic of the surface of Mars rendered at 5.0 m/px. Each pixel in the mosaic is about the size of a typical parking space, providing unprecedented resolution of the martian surface at the global scale.
-<object data="https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html" width="100%" height=400px >
-    </object>
-
-
-@nasa-jpl 
-[Star-Fox](https://youtu.be/ee0m9MzXodM?si=s9zFHMEpfa2PSzZP) looks [amazing](https://ia601004.us.archive.org/7/items/screen-20250802-093026/screen-20250802-100521.mp4) after [TheDocking](https://www.youtube.com/watch?v=zW13XnmbYnE&themeRefresh=1), my screenshare got deleted . . . @nasa @whitehouse i got to find some balance with broadcast @nbcnews bc i think they have [AndroidHAckers]() disabling bc i still work @usgs as helpdesk for the gear we build! ... https://gis.earthdata.nasa.gov/portal/home/index.html [NASA Earthdata](https://gis.earthdata.nasa.gov/portal/home/index.html) Congressmember Karen Bass imma make some notes on my workblog an see what i can do for County of Los Angeles
-
-- [4later gta5](https://www.rockstargames.com/gta-online) 
-
-<video controls  width="auto" height="400">
-   <source src="https://ia601004.us.archive.org/7/items/screen-20250802-093026/screen-20250802-100521.mp4" type="video/mp4" />
-
-  <source src="https://ia601004.us.archive.org/7/items/screen-20250802-093026/screen-20250802-100521.mp4" type="video/mp4" />
-
-
-</video>
 
 
 
