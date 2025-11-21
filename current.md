@@ -35,7 +35,8 @@ One day my blog will `RETURN true` when run from the [command](https://www.senat
 {% endhighlight %}
 
 [![Mission and spacecraft Library](https://space.jpl.nasa.gov/msl/images/msl_title.jpeg)](https://space.jpl.nasa.gov/msl/images/msl_title.jpeg)
-[![Mission and spacecraft Library](https://space.jpl.nasa.gov/msl/headers/nsn.gif)]([https://space.jpl.nasa.gov/msl/images/msl_title.jpeg](https://space.jpl.nasa.gov/msl/)
+
+[![Mission and spacecraft Library](https://space.jpl.nasa.gov/msl/headers/nsn.gif)](https://space.jpl.nasa.gov/msl/images/msl_title.jpeg](https://space.jpl.nasa.gov/msl/)
 
 [htau](https://rashardnasalosangelesjpl.github.io/ricothaka/)
 
