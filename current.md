@@ -30,8 +30,10 @@ One day my blog will `RETURN true` when run from the [command](https://www.senat
 @cityoflosangeles @nasa-jpl @nasa-pds [MayOR_KAREN_BASS](https://www.facebook.com/100084464911565/videos/764029446698006/)
 [@StateOfCalifornia gavin.newsom@ca.gov](https://www.facebook.com/100084464911565/videos/764029446698006/)
 
+<img  alt="image" src="https://github.com/user-attachments/assets/422b5afd-490a-4ec0-af1d-d42ea25f694e" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/b221cafa-4593-4f3b-a9bb-53d2be23bd3b" />
+
 
 
 [DuckStation](https://duckstation.org/) - [Demo](https://ia800307.us.archive.org/10/items/commitmentmaintenance/000007Duckstation-demo-cloudmobile-c8-az_recorder_20251026_055915.mp4)
