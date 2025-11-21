@@ -32,6 +32,8 @@ One day my blog will `RETURN true` when run from the [command](https://www.senat
 
 <img  alt="image" src="https://github.com/user-attachments/assets/422b5afd-490a-4ec0-af1d-d42ea25f694e" />
 
+[htau](https://rashardnasalosangelesjpl.github.io/ricothaka/)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/b221cafa-4593-4f3b-a9bb-53d2be23bd3b" />
 
 
