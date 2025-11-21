@@ -15,13 +15,6 @@ title: Current
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf) line!
 
-{% highlight python %}
-1 # HOLE_TO_ANOTHER_UNiVERSE####################SARTUZAHLAH
-2 # TO##############################################ViViAN#
-3 # ANOTHER########################################NORMANiE
-4 # UNiVERSE##########################################SARTU
-{% endhighlight %}
-
 
 
 ###  California_Linux: 
@@ -30,7 +23,19 @@ One day my blog will `RETURN true` when run from the [command](https://www.senat
 @cityoflosangeles @nasa-jpl @nasa-pds [MayOR_KAREN_BASS](https://www.facebook.com/100084464911565/videos/764029446698006/)
 [@StateOfCalifornia gavin.newsom@ca.gov](https://www.facebook.com/100084464911565/videos/764029446698006/)
 
+
+
 <img  alt="image" src="https://github.com/user-attachments/assets/422b5afd-490a-4ec0-af1d-d42ea25f694e" />
+
+{% highlight python %}
+1 # HOLE_TO_ANOTHER_UNiVERSE####################SARTUZAHLAH
+2 # TO##############################################ViViAN#
+3 # ANOTHER########################################NORMANiE
+4 # UNiVERSE##########################################SARTU
+{% endhighlight %}
+
+[![Mission and spacecraft Library](https://space.jpl.nasa.gov/msl/images/msl_title.jpeg)](https://space.jpl.nasa.gov/msl/images/msl_title.jpeg)
+[![Mission and spacecraft Library](https://space.jpl.nasa.gov/msl/headers/nsn.gif)]([https://space.jpl.nasa.gov/msl/images/msl_title.jpeg](https://space.jpl.nasa.gov/msl/)
 
 [htau](https://rashardnasalosangelesjpl.github.io/ricothaka/)
 
