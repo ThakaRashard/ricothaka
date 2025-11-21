@@ -27,12 +27,40 @@ One day my blog will `RETURN true` when run from the [command](https://www.senat
 
 <img  alt="image" src="https://github.com/user-attachments/assets/422b5afd-490a-4ec0-af1d-d42ea25f694e" />
 
+
+
 {% highlight python %}
-1 # HOLE_TO_ANOTHER_UNiVERSE####################SARTUZAHLAH
-2 # TO##############################################ViViAN#
-3 # ANOTHER########################################NORMANiE
-4 # UNiVERSE##########################################SARTU
+1 # HOLE_TO_ANOTHER_UNiVERSE#####@NASA-JPL######hiCORAL###
+2 # ### How Wildfire Looked Across @CityOfLosAngeles #####
+3 # @StateOfCalifornia #`BrandyNorwood @BlackGirlsCode `##
 {% endhighlight %}
+
+
+
+<video controls  width="400" height="auto">
+   <source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/nasa-worldview-2024DEC26-to-2025JAN14-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4" />
+
+  <source src="https://ia800307.us.archive.org/10/items/commitmentmaintenance/nasa-worldview-2024DEC26-to-2025JAN14-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4" />
+
+
+</video>
+
+
+{% highlight python %}
+2 # ### How Wildfire looks across the continent ##############
+3 # ANOTHER########`BrandyNorwood @BlackGirlsCode `Production#
+{% endhighlight %}
+
+<video controls  width="400" height="auto">
+   <source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/nasa-worldview-2024DEC26-to-2025JAN14-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4" />
+
+  <source src="https://ia800307.us.archive.org/10/items/commitmentmaintenance/nasa-worldview-2024DEC26-to-2025JAN14-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4" />
+
+
+</video>
+
+
+
 
 [Mission and spacecraft Library](https://space.jpl.nasa.gov/msl/images/msl_title.jpeg)
 
@@ -250,7 +278,7 @@ Supervisor Holly J. Mitchell this is our #AnnualReport https://microdevices.jpl.
 
 - [4later gta5](https://www.rockstargames.com/gta-online) 
 
-<video controls  width="auto" height="400">
+<video controls  width="400" height="auto">
    <source src="https://ia601004.us.archive.org/7/items/screen-20250802-093026/screen-20250802-100521.mp4" type="video/mp4" />
 
   <source src="https://ia601004.us.archive.org/7/items/screen-20250802-093026/screen-20250802-100521.mp4" type="video/mp4" />
