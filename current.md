@@ -15,6 +15,63 @@ title: Current
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf) line!
 
+[comment]: <> (Emergency Files )
+
+
+<video controls> 
+
+<source src="https://ia800307.us.archive.org/10/items/commitmentmaintenance/0000000_AAA_0000AW_DTLA_BIRDFEEDiNG_VID_20251126_105508_700.mp4" type="video/mp4">
+<source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000_AAA_0000AW_DTLA_BIRDFEEDiNG_VID_20251126_105508_700.mp4" type="video/mp4">
+
+</video> 
+
+
+
+# GLifford Fire
+2021 to 2025 Area Comparison
+100% Contained
+131,614 Acres
+2 Counties: San Luis Obispo, Santa Barbara
+[@StateOfCalifornia](https://www.fire.ca.gov/incidents/2025/8/1/gifford-fire)
+
+<div class="tupperware">
+ 
+<video controls> 
+
+<source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/ezgif-743af2e85bf09573.mp4" type="video/mp4">
+<source src="https://ia800307.us.archive.org/10/items/commitmentmaintenance/ezgif-743af2e85bf09573.mp4" type="video/mp4">
+
+</video> 
+
+<video controls> 
+
+<source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000_AAA_0000AW_DTLA_BIRDFEEDiNG_VID_20251126_105508_700.mp4" type="video/mp4">
+<source src="https://ia800307.us.archive.org/10/items/commitmentmaintenance/nasa-worldview-2025AUG01-to-2025SEP04-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4">
+
+</video> 
+
+</div>
+
+[Los Angeles River - The Unpredictable!](https://waterandpower.org/museum/Los_Angeles_River_The_Unpredictable!.html) [@ladwp history](https://ladpw.org/wmd/watershed/LA/History.cfm)
+ @blackgirlscode @podaac
+
+
+
+<video controls  > 
+
+
+<source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000_AA_0000AVID_20251123_191233_244.mp4" type="video/mp4">
+
+
+</video> 
+
+
+![π√π](https://waterandpower.org/M7%20Historic%20Photos%20M7/LA_River_1931.jpg) 
+
+![¥](https://waterandpower.org/1%20Historic%20Photos%201/Flood_1938.jpg)
+
+![stateofcaliforna](https://recovery.lacounty.gov/wp-content/uploads/2021/07/la-county-recovers-style-logo.png)
+
 
 # Entomological warfare 
 
