@@ -17,6 +17,11 @@ One day my blog will `RETURN true` when run from the [command](https://www.senat
 
 [comment]: <> (Emergency Files )
 
+### After Three Years on Mars, NASA’s Ingenuity Helicopter Mission Ends
+[@nasa-pds @nasa-jpl link](https://www.nasa.gov/news-release/after-three-years-on-mars-nasas-ingenuity-helicopter-mission-ends/)
+Jan. 18 flight sent to Earth this week indicates one or more of its rotor blades sustained damage during landing, and it is no longer capable of flight.
+<img   alt="image" src="https://github.com/user-attachments/assets/a6c27925-f21b-4bdc-a2a0-865ad4241541" />
+
 
 <video controls> 
 
