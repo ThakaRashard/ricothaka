@@ -17,6 +17,19 @@ One day my blog will `RETURN true` when run from the [command](https://www.senat
 
 [comment]: <> (Emergency Files )
 
+### NASA's ECOSTRESS Captures Short-Lived Heat Wave in L.A. Area
+July 21, [2025](https://youtu.be/4abP93C1MAU) 
+
+The heat lingered into the evening hours, as captured by NASA's Ecosystem Spaceborne Thermal Radiometer Experiment on Space Station ( [ECOSTRESS](https://ecostress.jpl.nasa.gov/) ) instrument. - [read](https://www.jpl.nasa.gov/images/pia26651-nasas-ecostress-captures-short-lived-heat-wave-in-la-area/) 
+
+![jpegPIA26651](https://github.com/user-attachments/assets/01f68834-d643-4107-9acc-b40f5b41988c)
+
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+    <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+</picture>
+
 ### After Three Years on Mars, NASA’s Ingenuity Helicopter Mission Ends
 [@nasa-pds @nasa-jpl link](https://www.nasa.gov/news-release/after-three-years-on-mars-nasas-ingenuity-helicopter-mission-ends/)
 Jan. 18 flight sent to Earth this week indicates one or more of its rotor blades sustained damage during landing, and it is no longer capable of flight.
