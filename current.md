@@ -17,6 +17,15 @@ One day my blog will `RETURN true` when run from the [command](https://www.senat
 
 [comment]: <> (Emergency Files )
 
+
+[MyBinder](https://thakarashard.github.io/mybinder/)
+Came about while i was working out of a 3 prong binder and github pages @podaac. Im stll learning how to organize my learning @nasa-jpl. Right now its a good spot to drop work notes taht are not developed into full presentable concepts like the Aquatic Analysis I hae been doing in [NASA STREAM](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=12.51/-13148353.44/3990503.41&layers=aqv_tss_20251208_sentinel:1.00:0.00:30.00:default&grids=1,0) that eveolved into [L.A. ECology](https://rashardgds.github.io/la/eco/ecostress/space/dsn/nsn/climate/weather/2025/12/10/LosAngelesEcology.html) a report i use to share my @podaac / earthdata with our local governement @CityOfLosAngeles + [tv](https://lacityview.org/live) / @StateOfCalifornia [web](https://cww.water.ca.gov/) : [La_County](https://lacounty.gov/). They told me to do that @blackgirlsCode Trice !
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6fc7215b-449a-472a-94b6-ac8907d701a5" />
+
+
+
+
 ### NASA's ECOSTRESS Captures Short-Lived Heat Wave in L.A. Area
 July 21, [2025](https://youtu.be/4abP93C1MAU) 
 
