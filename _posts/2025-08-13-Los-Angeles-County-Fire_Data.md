@@ -6,6 +6,26 @@ title: LA_COUNTY_FiREDATA
 image: shocked-i-know-this.gif
 ---
 
+
+
+** EatonCanyon Before and after**
+
+2022
+
+![2022](https://data.asf.alaska.edu/archive/datasets/uavsar/www/UA_crparc_09118_22001_013_220413_L090_CX_01/crparc_09118_22001_013_220413_L090_CX_01.gif)
+
+2025
+
+![2025](https://data.asf.alaska.edu/archive/datasets/uavsar/www/UA_crparc_09118_25032_007_250930_L090_CX_01/crparc_09118_25032_007_250930_L090_CX_01.gif)
+
+
+
+<img src="https://aviris.jpl.nasa.gov/ql/25qlook/f250501t01p00r09_geo.jpeg" alt="ECO image"/>
+
+
+<img src="https://ecostress.jpl.nasa.gov/downloads/gallery/wildfire/00155_gifford_fire.png" alt="ECO image"/>
+
+
 # About One-third of Malibu Burned In The Palisades Fire. Where Does It Go From Here?
 @nasa-jpl [Latimes @datadesk](https://github.com/datadesk) made a doc @nasa 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0zsMg7gkC6Y?si=rU9ah5V22lcxwE6W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
