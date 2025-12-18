@@ -17,6 +17,14 @@ One day my blog will `RETURN true` when run from the [command](https://www.senat
 
 [comment]: <> (Emergency Files )
 
+[link](https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&TIME=2025-12-17T22:20:00Z&BBOX=12.3438,-141.8597,56.5009,-53.5456&CRS=EPSG:4326&LAYERS=MODIS_Terra_CorrectedReflectance_TrueColor,GOES-West_ABI_FireTemp,VIIRS_NOAA21_DayNightBand,GRanD_Dams,GRanD_Reservoirs,GRUMP_Settlements,MODIS_Terra_Thermal_Anomalies_All,MODIS_Combined_Thermal_Anomalies_Night,MODIS_Combined_Thermal_Anomalies_All,MODIS_Terra_Thermal_Anomalies_Night,MODIS_Aqua_Thermal_Anomalies_Night,MODIS_Aqua_Thermal_Anomalies_All,MODIS_Terra_L2_Sea_Surface_Temp_Night,MODIS_Aqua_L2_Sea_Surface_Temp_Night,Coastlines_15m&WRAP=day,x,none,x,x,x,none,none,none,none,none,none,day,day,x&FORMAT=image/png&WIDTH=2010&HEIGHT=1005&colormaps=,,VIIRS_SNPP_DayNightBand_ENCC,GRanD_Dams,GRanD_Reservoirs,GRUMP_Settlements,MODIS_All_Thermal_Anomalies,MODIS_All_Thermal_Anomalies,MODIS_All_Thermal_Anomalies,MODIS_All_Thermal_Anomalies,MODIS_All_Thermal_Anomalies,MODIS_All_Thermal_Anomalies,MODIS_Sea_Surface_Temperature,MODIS_Sea_Surface_Temperature,&OPACITIES=,0.36,,,,,,,,,,,,,&ts=1766099932488)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e9cdf9d8-20e2-4425-aaeb-0492219ba8bb" />
+
+@cityoflosangeles @nasa-pds @nasa-jpl Dams ` Water Management` [ClickHere](https://go.nasa.gov/4p8ICHX)
+<img  alt="image" src="https://github.com/user-attachments/assets/dd3b91d9-86f1-4f5f-934d-a56a303222c5" />
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02YvFRdLGhg23bhBGLC7FtjkPgkPFXNHyUm8bEuSYAyvGbw8m8Hz2nUu6E2gxG1Hrdl%26id%3D100084464911565&show_text=true&width=500" width="500" height="781" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 [MyBinder](https://thakarashard.github.io/mybinder/)
 Came about while i was working out of a 3 prong binder and github pages @podaac. Im stll learning how to organize my learning @nasa-jpl. Right now its a good spot to drop work notes taht are not developed into full presentable concepts like the Aquatic Analysis I hae been doing in [NASA STREAM](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=12.51/-13148353.44/3990503.41&layers=aqv_tss_20251208_sentinel:1.00:0.00:30.00:default&grids=1,0) that eveolved into [L.A. ECology](https://rashardgds.github.io/la/eco/ecostress/space/dsn/nsn/climate/weather/2025/12/10/LosAngelesEcology.html) a report i use to share my @podaac [web](https://podaac.jpl.nasa.gov/) / [earthdata](https://search.earthdata.nasa.gov/) with our local governement @CityOfLosAngeles + [tv](https://lacityview.org/live) / @StateOfCalifornia [web](https://cww.water.ca.gov/) : [La_County](https://lacounty.gov/). They told me to do that @blackgirlsCode Trice !
