@@ -3,7 +3,27 @@ layout: default
 title: Current
 ---
 
-![coral i love you @blackgirlscode](https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png?fbclid=IwY2xjawOMSrVleHRuA2FlbQIxMABicmlkETFYUTY2dTB2elNja3lGaFg2c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHv_gHFvfu91t--upXMkwrOb9gCnPX1MlZdPC2md_VI3ai7fPq2KmzJ6XUX_t_aem_8misQL4NIvcM-OWEf3EGsg) 
+<div class="tupperware">
+{% for post in site.posts %}
+  {% if post.categories contains 'coral' %}
+
+  <article itemprop="blogPosts" itemscope itemtype="https://schema.org/BlogPosting" >
+  <a href="{{ site.github.url }}{{ post.url }}">
+
+<div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+ <h2 itemprop="headline"><span>{{ post.title }}</span></h2>
+
+    </div>
+  </a>
+</article>
+
+  {% endif %}
+{% endfor %}
+
+
+</div>
+
+![coral i love youackgirlscode](https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png?fbclid=IwY2xjawOMSrVleHRuA2FlbQIxMABicmlkETFYUTY2dTB2elNja3lGaFg2c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHv_gHFvfu91t--upXMkwrOb9gCnPX1MlZdPC2md_VI3ai7fPq2KmzJ6XUX_t_aem_8misQL4NIvcM-OWEf3EGsg) 
 
 ### Books
 
