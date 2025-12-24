@@ -5,7 +5,23 @@ title: Current
 
 
 
+<div class="tupperware">
+{% for post in site.posts %}
+  {% if post.categories contains 'current' %}
 
+  <article itemprop="blogPosts" itemscope itemtype="https://schema.org/BlogPosting" >
+  <a href="{{ site.github.url }}{{ post.url }}">
+    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+      <h2 itemprop="headline"><span>{{ post.title }}</span></h2>
+    </div>
+  </a>
+</article>
+
+  {% endif %}
+{% endfor %}
+
+
+</div>
 `jekyll.version`  {{ jekyll.version }}
 ## Wifi [IEEE 802.11b-1999](https://en.wikipedia.org/wiki/IEEE_802.11b-1999)
 
