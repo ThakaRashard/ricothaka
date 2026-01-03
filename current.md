@@ -33,6 +33,26 @@ One day my blog will `RETURN true` when run from the [command](https://www.senat
 
 [comment]: <> (Emergency Files )
 
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1027516186&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/selectabwoy" title="Selectabwoy" target="_blank" style="color: #cccccc; text-decoration: none;">Selectabwoy</a> · <a href="https://soundcloud.com/selectabwoy/dj-premier-crooklyn-cuts-volume-iii-tape-a-1996" title="DJ Premier - Crooklyn Cuts, Volume III Tape A (1996)" target="_blank" style="color: #cccccc; text-decoration: none;">DJ Premier - Crooklyn Cuts, Volume III Tape A (1996)</a></div>
+
+<div class="tupperware">
+	
+<img   alt="ViRTiSERVLATRiCERASHARDSMAP4KEiSHA_and_TheKemps_Night_imagerysnapshot-2026-01-02T00_00_00Z" src="https://github.com/user-attachments/assets/68f38390-93ce-4f9c-887c-4dbe2c211d2c" />
+
+<img  alt="ViRTiSERVLATRiCERASHARDSMAP4KEiSHA_and_TheKemps_2026-01-03-00_00_2026-01-03-23_59_DEM_COPERNICUS_30_Topographic" src="https://github.com/user-attachments/assets/20706619-7b04-466b-89f5-4ce951aacf0a" />
+
+</div>
+
+
+## CHARLESTON_SOUTHCAROLiNA_ECOv002_L2T_LSTE_42159_006_17SNR_20251212T113715_0713_01
+
+<img   alt="CHARLESTON_SOUTHCAROLiNA_ECOv002_L2T_LSTE_42159_006_17SNR_20251212T113715_0713_01" src="https://github.com/user-attachments/assets/3724af35-a130-4be3-a294-efd1db9f9c2a" />
+
+# MidWest 
+<img  alt="2026-01-03-00_00_2026-01-03-23_59_DEM_COPERNICUS_30_Topographic (1)" src="https://github.com/user-attachments/assets/eb404f08-1ed5-4948-bdee-98e9efce822d" />
+
+
 [link](https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&TIME=2025-12-17T22:20:00Z&BBOX=12.3438,-141.8597,56.5009,-53.5456&CRS=EPSG:4326&LAYERS=MODIS_Terra_CorrectedReflectance_TrueColor,GOES-West_ABI_FireTemp,VIIRS_NOAA21_DayNightBand,GRanD_Dams,GRanD_Reservoirs,GRUMP_Settlements,MODIS_Terra_Thermal_Anomalies_All,MODIS_Combined_Thermal_Anomalies_Night,MODIS_Combined_Thermal_Anomalies_All,MODIS_Terra_Thermal_Anomalies_Night,MODIS_Aqua_Thermal_Anomalies_Night,MODIS_Aqua_Thermal_Anomalies_All,MODIS_Terra_L2_Sea_Surface_Temp_Night,MODIS_Aqua_L2_Sea_Surface_Temp_Night,Coastlines_15m&WRAP=day,x,none,x,x,x,none,none,none,none,none,none,day,day,x&FORMAT=image/png&WIDTH=2010&HEIGHT=1005&colormaps=,,VIIRS_SNPP_DayNightBand_ENCC,GRanD_Dams,GRanD_Reservoirs,GRUMP_Settlements,MODIS_All_Thermal_Anomalies,MODIS_All_Thermal_Anomalies,MODIS_All_Thermal_Anomalies,MODIS_All_Thermal_Anomalies,MODIS_All_Thermal_Anomalies,MODIS_All_Thermal_Anomalies,MODIS_Sea_Surface_Temperature,MODIS_Sea_Surface_Temperature,&OPACITIES=,0.36,,,,,,,,,,,,,&ts=1766099932488)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/e9cdf9d8-20e2-4425-aaeb-0492219ba8bb" />
