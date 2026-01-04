@@ -3,7 +3,7 @@ layout: post
 title:  Perseverance[ROVER]
 published: true
 tags: mars dsn "Deep Space Network" robotics 6wheels rover
-image: PIA26339.jpg
+image: NRB_819804781EDR_F1200538NCAM00117M_.jpg
 categories: current 
 author: "RashardKelly @nasa-jpl"
 ---
