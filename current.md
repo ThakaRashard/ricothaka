@@ -36,6 +36,13 @@ One day my blog will `RETURN true` when run from the [command](https://www.senat
 
 <img src="https://archive.org/download/NewsScans_LACOUNTY_NASAJPL_virtiserv_bitmap/0000_firedata_virtiserv_SimpleScanStation20260105145139-09.png" alt="item image #7"/><img  alt="image" src="https://github.com/user-attachments/assets/3cbfbf61-e4dc-4e60-915c-5c0e4f843bc4" />
 
+[https://archive.org/details/NewsScans_LACOUNTY_NASAJPL_virtiserv_bitmap/0000_firedata_virtiserv_SimpleScanStation20260105145139-13.png](https://archive.org/details/NewsScans_LACOUNTY_NASAJPL_virtiserv_bitmap/0000_firedata_virtiserv_SimpleScanStation20260105145139-13.png) 
+
+[NewsScansPapersMags @LACOUNTY_NASA_JPL:virtiserv:JPG/PNG-BitMAP](https://archive.org/details/NewsScans_LACOUNTY_NASAJPL_virtiserv_bitmap/0000_firedata_virtiserv_SimpleScanStation20260105145139-09.png) @blackgirlscode @nasa-jpl @cityoflosangeles@blackgirlscode
+
+<img src="https://archive.org/download/NewsScans_LACOUNTY_NASAJPL_virtiserv_bitmap/0000_firedata_virtiserv_SimpleScanStation20260105145139-09.png" alt="item image #7"/>
+
+
 
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1027516186&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/selectabwoy" title="Selectabwoy" target="_blank" style="color: #cccccc; text-decoration: none;">Selectabwoy</a> · <a href="https://soundcloud.com/selectabwoy/dj-premier-crooklyn-cuts-volume-iii-tape-a-1996" title="DJ Premier - Crooklyn Cuts, Volume III Tape A (1996)" target="_blank" style="color: #cccccc; text-decoration: none;">DJ Premier - Crooklyn Cuts, Volume III Tape A (1996)</a></div>
