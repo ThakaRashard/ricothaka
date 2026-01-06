@@ -51,7 +51,7 @@ Current // [HelioPhysics](https://science.gsfc.nasa.gov/670/aboutheliophysics.ht
 
 [NewsScansPapersMags @LACOUNTY_NASA_JPL:virtiserv:JPG/PNG-BitMAP](https://archive.org/details/NewsScans_LACOUNTY_NASAJPL_virtiserv_bitmap/0000_firedata_virtiserv_SimpleScanStation20260105145139-09.png) @blackgirlscode @nasa-jpl @cityoflosangeles
 
-<img src="https://archive.org/download/NewsScans_LACOUNTY_NASAJPL_virtiserv_bitmap/0000_firedata_virtiserv_SimpleScanStation20260105145139-09.png" alt="item image #7"/><img  alt="image" src="https://github.com/user-attachments/assets/3cbfbf61-e4dc-4e60-915c-5c0e4f843bc4" />
+<img src="https://dn710101.ca.archive.org/0/items/NewsScans_LACOUNTY_NASAJPL_virtiserv_bitmap/0000_firedata_virtiserv_SimpleScanStation20260105145139-13.png" alt="item image #7"/>
 
 [https://archive.org/details/NewsScans_LACOUNTY_NASAJPL_virtiserv_bitmap/0000_firedata_virtiserv_SimpleScanStation20260105145139-13.png](https://archive.org/details/NewsScans_LACOUNTY_NASAJPL_virtiserv_bitmap/0000_firedata_virtiserv_SimpleScanStation20260105145139-13.png) 
 
