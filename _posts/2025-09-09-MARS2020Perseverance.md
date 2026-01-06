@@ -3,7 +3,7 @@ layout: post
 title:  Perseverance[ROVER]
 published: true
 tags: mars dsn "Deep Space Network" robotics 6wheels rover
-image: PIA26339.jpg
+image: NRB_819804781EDR_F1200538NCAM00117M_.jpg
 categories: current 
 author: "RashardKelly @nasa-jpl"
 ---
@@ -12,6 +12,10 @@ author: "RashardKelly @nasa-jpl"
 NASA's Mars Exploration Program includes current missions Odyssey, MRO, Mars Express, MSL, InSight, and Mars 2020 [READMORE](https://pds-geosciences.wustl.edu/missions/mep/index.htm)
 
 ![PDS_GEOCiENCES](https://pds-geosciences.wustl.edu/images/geo_banner_main.jpg)
+
+Curiosity Raw Images
+Sol 4765: Right Navigation Camera [Link](https://mars.nasa.gov/raw_images/1544476/?site=msl)
+![images](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04765/opgs/edr/ncam/NRB_820500992EDR_F1200538NCAM00400M_.JPG)
 
 # NEWS
 ![mars2020](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
