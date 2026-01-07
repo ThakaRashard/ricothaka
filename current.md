@@ -32,6 +32,12 @@ title: Current
 One day my blog will `RETURN true` when run from the [command](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf) line!
 
 [comment]: <> (Emergency Files )
+
+[itwaslive](https://vimeo.com/396000267?fl=pl&fe=sh) @abc7 @datadesk @cbs-news-data ask [@blackgirlscode](https://vimeo.com/396000267?fl=pl&fe=sh) @la-county-isd @lacounty-isab @webb
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/86171ea2-b884-4b8d-9fae-f3483dea1082" />
+
 [cabral](https://www.youtube.com/watch?v=ecbg-1sn35s)  @blackgirlscode i wanna be harmonious trice
 <img  alt="image" src="https://github.com/user-attachments/assets/4314deea-a9c7-4f47-9f78-f92dbcd9b994" />
 
