@@ -32,6 +32,8 @@ title: Current
 One day my blog will `RETURN true` when run from the [command](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf) line!
 
 [comment]: <> (Emergency Files )
+[cabral](https://www.youtube.com/watch?v=ecbg-1sn35s)  @blackgirlscode i wanna be harmonious trice
+<img  alt="image" src="https://github.com/user-attachments/assets/4314deea-a9c7-4f47-9f78-f92dbcd9b994" />
 
 
 @nasa-pds something is wrong with [barbara thompsons](https://science.gsfc.nasa.gov/sci/bio/barbara.j.thompson) website. [ImageMagick](https://github.com/ImageMagick/ImageMagick) may be broken. My videos are not playing either that i compile on my [CloudMobile](https://www.cloudmobileusa.com/) in @termux @blackgirlscode so [@ffmpeg](https://github.com/FFmpeg/FFmpeg) wont spit out a good file atm [https://isd.lacounty.gov/](https://isd.lacounty.gov/)  @la-county-isd
