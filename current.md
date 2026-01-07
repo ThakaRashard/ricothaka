@@ -61,6 +61,243 @@ Current // [HelioPhysics](https://science.gsfc.nasa.gov/670/aboutheliophysics.ht
 
 
 
+@usnavy @nasa-jpl
+im blocked from Persevere Raw files at Long Beeach Public library
+[https://mars.nasa.gov/mars2020/multimedia/raw-images/image-of-the-week/](https://mars.nasa.gov/mars2020/multimedia/raw-images/image-of-the-week/) details on gist [ThakaRashard/gist:a13f551064025001be2cf28e89d825d5](https://gist.github.com/ThakaRashard/a13f551064025001be2cf28e89d825d5) @Noaagov @weather-gov @usgs hi @blackgirlscode [AphexTwinMellowNow](https://youtu.be/Xw5AiRVqfqk?list=RDMM&t=489) u think he a hollywood drunk ? 
+```
+Common Name (CN)	mars.nasa.gov
+Organization (O)	NASA Jet Propulsion Laboratory
+Organizational Unit (OU)	<Not Part Of Certificate>
+Common Name (CN)	DigiCert Global G2 TLS RSA SHA256 2020 CA1
+Organization (O)	DigiCert Inc
+Organizational Unit (OU)	<Not Part Of Certificate>
+Issued On	Monday, January 6, 2025 at 4:00:00 PM
+Expires On	Tuesday, January 6, 2026 at 3:59:59 PM
+Certificate	3ba593630bda263f8bf9ac61b97c6fc06d46e1552964a07ba9c2d4d5c20cd61c
+Public Key	2c6cf10fbd45910e6af840987734f229db0e2c421c5a067c064f2ef26b9d6cfa
+```
+
+Your connection is not private
+Attackers might be trying to steal your information from mars.nasa.gov (for example, passwords, messages, or credit cards). Learn more about this warning
+net::ERR_CERT_DATE_INVALID
+Subject: mars.nasa.gov
+
+Issuer: DigiCert Global G2 TLS RSA SHA256 2020 CA1
+
+Expires on: Jan 6, 2026
+
+Current date: Jan 6, 2026
+
+PEM encoded chain:
+```
+-----BEGIN CERTIFICATE-----
+MIIHJzCCBg+gAwIBAgIQDFBcsNGh41qvbjLbpuPW2zANBgkqhkiG9w0BAQsFADBZ
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypE
+aWdpQ2VydCBHbG9iYWwgRzIgVExTIFJTQSBTSEEyNTYgMjAyMCBDQTEwHhcNMjUw
+MTA3MDAwMDAwWhcNMjYwMTA2MjM1OTU5WjB2MQswCQYDVQQGEwJVUzETMBEGA1UE
+CBMKQ2FsaWZvcm5pYTERMA8GA1UEBxMIUGFzYWRlbmExJzAlBgNVBAoTHk5BU0Eg
+SmV0IFByb3B1bHNpb24gTGFib3JhdG9yeTEWMBQGA1UEAxMNbWFycy5uYXNhLmdv
+djCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALZacHRpdMy3Uu0cvVMa
+IgWmzKDArXQGQ/HdYmAzlIt5kcbkQ15h69bApkNlbCDVDv/3/SPE7Ln/XafSn2GH
+khx1RmOAz/85OcmwRU1Ovvh8xq2w6ItF8WmZYI0/m1vmEpW6mSF8OC8Oh69MPqH3
+02TqB+N2m2wzDBbS1EEyj7iNQfKG4Jngx11T8oaX1V+M1LaCcAU2DkuD+JB2AjZh
+6peSRa1TDV6569PfKI5vbBzqZ0eYR1lbQdZAQaIkTPNomYi/BWU64mcBb0sOgk52
+oSjjRslhl69xTKFSVcmWKOorLI4X97ekkQlbLhRqQVGJxx7hXuzANu24EEk/MODP
+ngcCAwEAAaOCA8wwggPIMB8GA1UdIwQYMBaAFHSFgMBmx9833s+9KTeqAx2+7c0X
+MB0GA1UdDgQWBBSyo6HgmUPPf+EhTOMsVj8L15IfoDBdBgNVHREEVjBUgg1tYXJz
+Lm5hc2EuZ292ghFtYXJzLmpwbC5uYXNhLmdvdoIZc3RhZ2luZy1tYXJzLmpwbC5u
+YXNhLmdvdoIVc3RhZ2luZy1tYXJzLm5hc2EuZ292MD4GA1UdIAQ3MDUwMwYGZ4EM
+AQICMCkwJwYIKwYBBQUHAgEWG2h0dHA6Ly93d3cuZGlnaWNlcnQuY29tL0NQUzAO
+BgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMIGf
+BgNVHR8EgZcwgZQwSKBGoESGQmh0dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9EaWdp
+Q2VydEdsb2JhbEcyVExTUlNBU0hBMjU2MjAyMENBMS0xLmNybDBIoEagRIZCaHR0
+cDovL2NybDQuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xvYmFsRzJUTFNSU0FTSEEy
+NTYyMDIwQ0ExLTEuY3JsMIGHBggrBgEFBQcBAQR7MHkwJAYIKwYBBQUHMAGGGGh0
+dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBRBggrBgEFBQcwAoZFaHR0cDovL2NhY2Vy
+dHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xvYmFsRzJUTFNSU0FTSEEyNTYyMDIw
+Q0ExLTEuY3J0MAwGA1UdEwEB/wQCMAAwggF8BgorBgEEAdZ5AgQCBIIBbASCAWgB
+ZgB1AA5XlLzzrqk+MxssmQez95Dfm8I9cTIl3SGpJaxhxU4hAAABlEJkGQoAAAQD
+AEYwRAIgfMFPld0AHE6pMNkWkWQln65yT5rYm/bC5JYwgPE5l30CIEbPW81qMmLU
+QGW3FHqUl7kW/8AZ7mTnDV6nTysOUKaDAHUA7TxL1ugGwqSiAFfbyyTiOAHfUS/t
+xIbFcA8g3bc+P+AAAAGUQmQZLgAABAMARjBEAiBTiPGmIN49Q3fN/SOYPhWP2qad
+khajne41lpfblLPTAgIgZV8XdaKB/CmN0ZySsOuGGWw9TnLkrGCrjrOPyujeAnsA
+dgBkEcRspBLsp4kcogIuALyrTygH1B41J6vq/tUDyX3N8AAAAZRCZBkwAAAEAwBH
+MEUCIAXJzMzb41FlwPMKzDFyjBz2BCdI4DV3lEcTArKpOqDlAiEA5dJRe26S/eXQ
+2SswJ+cgWILgZPdHMIpytiPv8kxBaXgwDQYJKoZIhvcNAQELBQADggEBABK7Abks
+dis74MrUOSV/smz3/PC/RQG+CNZRryDK1ex8XwnGCvyYc9RYs4UJRrT+Mqmx0ZOK
+wBczsP9QyNV3Wwf+vuJSDVAOovqwttBsliIU5rYW4+5xNSs3JSdVs99M06t7Pnff
+4U1FPNCAdHJ41GKLWibV1+6lERxo7Pri7C6i5l9BM88YxBbORLedtmx0DuIWQKCz
+EDkA01IfxFV88CZGTzCp1YCSzLKm4p/DWJ+jIekeJ14DiUp4MJU5bG56s3CWg+r6
+BctT91gCsRC31cTTSSF4yoOzinOtzhLemtEa81Alay9Rg3F28B9XoJHGAkSCctoD
+tWRN3O+C2l6M+Vk=
+-----END CERTIFICATE-----
+-----BEGIN CERTIFICATE-----
+MIIEyDCCA7CgAwIBAgIQDPW9BitWAvR6uFAsI8zwZjANBgkqhkiG9w0BAQsFADBh
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMSAwHgYDVQQDExdEaWdpQ2VydCBHbG9iYWwgUm9vdCBH
+MjAeFw0yMTAzMzAwMDAwMDBaFw0zMTAzMjkyMzU5NTlaMFkxCzAJBgNVBAYTAlVT
+MRUwEwYDVQQKEwxEaWdpQ2VydCBJbmMxMzAxBgNVBAMTKkRpZ2lDZXJ0IEdsb2Jh
+bCBHMiBUTFMgUlNBIFNIQTI1NiAyMDIwIENBMTCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAMz3EGJPprtjb+2QUlbFbSd7ehJWivH0+dbn4Y+9lavyYEEV
+cNsSAPonCrVXOFt9slGTcZUOakGUWzUb+nv6u8W+JDD+Vu/E832X4xT1FE3LpxDy
+FuqrIvAxIhFhaZAmunjZlx/jfWardUSVc8is/+9dCopZQ+GssjoP80j812s3wWPc
+3kbW20X+fSP9kOhRBx5Ro1/tSUZUfyyIxfQTnJcVPAPooTncaQwywa8WV0yUR0J8
+osicfebUTVSvQpmowQTCd5zWSOTOEeAqgJnwQ3DPP3Zr0UxJqyRewg2C/Uaoq2yT
+zGJSQnWS+Jr6Xl6ysGHlHx+5fwmY6D36g39HaaECAwEAAaOCAYIwggF+MBIGA1Ud
+EwEB/wQIMAYBAf8CAQAwHQYDVR0OBBYEFHSFgMBmx9833s+9KTeqAx2+7c0XMB8G
+A1UdIwQYMBaAFE4iVCAYlebjbuYP+vq5Eu0GF485MA4GA1UdDwEB/wQEAwIBhjAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwdgYIKwYBBQUHAQEEajBoMCQG
+CCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wQAYIKwYBBQUHMAKG
+NGh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEdsb2JhbFJvb3RH
+Mi5jcnQwQgYDVR0fBDswOTA3oDWgM4YxaHR0cDovL2NybDMuZGlnaWNlcnQuY29t
+L0RpZ2lDZXJ0R2xvYmFsUm9vdEcyLmNybDA9BgNVHSAENjA0MAsGCWCGSAGG/WwC
+ATAHBgVngQwBATAIBgZngQwBAgEwCAYGZ4EMAQICMAgGBmeBDAECAzANBgkqhkiG
+9w0BAQsFAAOCAQEAkPFwyyiXaZd8dP3A+iZ7U6utzWX9upwGnIrXWkOH7U1MVl+t
+wcW1BSAuWdH/SvWgKtiwla3JLko716f2b4gp/DA/JIS7w7d7kwcsr4drdjPtAFVS
+slme5LnQ89/nD/7d+MS5EHKBCQRfz5eeLjJ1js+aWNJXMX43AYGyZm0pGrFmCW3R
+bpD0ufovARTFXFZkAdl9h6g4U5+LXUZtXMYnhIHUfoyMo5tS58aI7Dd8KvvwVVo4
+chDYABPPTHPbqjc1qCmBaZx2vN4Ye5DUys/vZwP9BFohFrH/6j/f3IL16/RZkiMN
+JCqVJUzKoZHm1Lesh3Sz8W2jmdv51b2EQJ8HmA==
+-----END CERTIFICATE-----
+-----BEGIN CERTIFICATE-----
+MIIDjjCCAnagAwIBAgIQAzrx5qcRqaC7KGSxHQn65TANBgkqhkiG9w0BAQsFADBh
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMSAwHgYDVQQDExdEaWdpQ2VydCBHbG9iYWwgUm9vdCBH
+MjAeFw0xMzA4MDExMjAwMDBaFw0zODAxMTUxMjAwMDBaMGExCzAJBgNVBAYTAlVT
+MRUwEwYDVQQKEwxEaWdpQ2VydCBJbmMxGTAXBgNVBAsTEHd3dy5kaWdpY2VydC5j
+b20xIDAeBgNVBAMTF0RpZ2lDZXJ0IEdsb2JhbCBSb290IEcyMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuzfNNNx7a8myaJCtSnX/RrohCgiN9RlUyfuI
+2/Ou8jqJkTx65qsGGmvPrC3oXgkkRLpimn7Wo6h+4FR1IAWsULecYxpsMNzaHxmx
+1x7e/dfgy5SDN67sH0NO3Xss0r0upS/kqbitOtSZpLYl6ZtrAGCSYP9PIUkY92eQ
+q2EGnI/yuum06ZIya7XzV+hdG82MHauVBJVJ8zUtluNJbd134/tJS7SsVQepj5Wz
+tCO7TG1F8PapspUwtP1MVYwnSlcUfIKdzXOS0xZKBgyMUNGPHgm+F6HmIcr9g+UQ
+vIOlCsRnKPZzFBQ9RnbDhxSJITRNrw9FDKZJobq7nMWxM4MphQIDAQABo0IwQDAP
+BgNVHRMBAf8EBTADAQH/MA4GA1UdDwEB/wQEAwIBhjAdBgNVHQ4EFgQUTiJUIBiV
+5uNu5g/6+rkS7QYXjzkwDQYJKoZIhvcNAQELBQADggEBAGBnKJRvDkhj6zHd6mcY
+1Yl9PMWLSn/pvtsrF9+wX3N3KjITOYFnQoQj8kVnNeyIv/iPsGEMNKSuIEyExtv4
+NeF22d+mQrvHRAiGfzZ0JFrabA0UWTW98kndth/Jsw1HKj2ZL7tcu7XUIOGZX1NG
+Fdtom/DzMNU+MeKNhJ7jitralj41E6Vf8PlwUHBHQRFXGU7Aj64GxJUTFy8bJZ91
+8rGOmaFvE7FBcf6IKshPECBV1/MUReXgRPTqh5Uykw7+U0b6LJ3/iyK5S9kJRaTe
+pLiaWN0bfVKfjllDiIGknibVb63dDcY3fe0Dkhvld1927jyNxF1WW6LZZm6zNTfl
+MrY=
+-----END CERTIFICATE-----
+
+Certificate Transparency:
+
+SCT Google 'Argon2026h1' log (Embedded in certificate, Verified)
+
+SCT DigiCert 'Wyvern2025h2' Log (Embedded in certificate, Verified)
+
+SCT DigiCert 'Wyvern2026h1' (Embedded in certificate, Verified)
+```
+@TheSpaceDevs [NASA Sets Coverage for Axiom Mission 2 Departure from Space Station](https://web.archive.org/web/20230528003338/https://www.nasa.gov/press-release/nasa-sets-coverage-for-axiom-mission-2-departure-from-space-station) @nasa-jpl @NASA-GISS @emit-sds [Lifestyles Of The Rich And Shameless](https://youtu.be/tGymCvtVZUY?list=RDMM) made someone attack my heart! the headpohne jack is like an EKG!!! @la-county-isd OUCH!!!!!!!!!!! 
+<img  alt="image" src="https://github.com/user-attachments/assets/34237b4f-26ae-4a46-b99c-22738cc6ea8a" />
+
+@nasa Explorers program [https://explorers.gsfc.nasa.gov/gallery.html#](https://explorers.gsfc.nasa.gov/gallery.html#) @blackgirlscode : @nasa-pds the link is dead on the current site @nasa-develop  [Ames' Involvement in the Interface Region Imaging Spectrograph (IRIS)](https://web.archive.org/web/20230528005924/https://www.nasa.gov/centers/ames/research/ames-iris-contributions.html)
+
+<img width="700" height="466" alt="image" src="https://github.com/user-attachments/assets/1c8fe5b7-b2ec-4778-8e9c-7d5bc16b0002" />
+
+Another bill again-Tony Rebel [watch](https://www.youtube.com/watch?v=U9ZLAgyn2-Q&list=RDMM&index=2) @blackgirlscode @nasa-pds @podaac @cityoflosangeles its a heliophysics mission that sent data today [iris](https://iris.gsfc.nasa.gov/) its corals middle name @la-county-isd
+<img alt="image" src="https://github.com/user-attachments/assets/c1ca158b-e767-4652-93fd-8ac9e2f3a8cb" />
+
+![https://www.nasa.gov/wp-content/uploads/2023/03/iris_20150428_100823_0.gif](https://www.nasa.gov/wp-content/uploads/2023/03/iris_20150428_100823_0.gif)
+
+<a href="https://rashardgds.github.io/" itemscope itemtype="https://schema.org/Person" itemprop="name">👦🏾RashardGDS[MRO/JUNO]</a>
+
+<a href="{{ site.url }}{{ site.baseurl }}/compiling">👦🏾💻./CompilingBlog=></a>        
+
+<a href="https://thakarashard.github.io/">Thaka👦🏾Rashard</a>
+
+<a href="{{ site.url }}{{ site.baseurl }}/rashardlearned/la/frontpage/sub/blog/2025/10/21/currentlycompiling.html">RashardLearned📚</a>
+
+
+@BLACKGiRLSCODE LATRiCE
+ [DesignWork](https://codepen.io/thakarashard/pen/EajrepQ)
+`virtiserv`
+<img  alt="image" src="https://github.com/user-attachments/assets/892ca261-590b-4874-8b1f-025a9b86825b" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/c3bdc6b4-3b7e-4ffd-ad7d-1d4f0a0c3e4f" />
+
+gm latrice of Virtiserv @nasa-jpl @cityoflosangeles KarenBass I am going to visit Augustine by sea. I hope they have a bagel. Lafirstumc is closed today for `The Advent` @blackgirlscode I need protection, I heard [Ctrl](https://youtu.be/oUzIlVuGdtE?si=yvZ8JDQ_W8A5n0z4). it's about a girl healing her sex life with an rem cycle his wife did not have an interest in utilizing and I remember hardly anything @stateofcalifornia HollyMithell, Gavin Newsom @newshour I know y'all don't care like tht I have to ask normani if [Go Gina](https://m.soundcloud.com/szababy2/go-gina?in=bemox3x/sets/yuh) is her giving latrice permission to court me. There is anger but they both play NCAA team sports at points in their growth so @nasa-pds I'm trying to clear some things connected to my missing cassini work @blackgirlscode it was on the hot pepper and my Motorola that were pilfered @libretro
+
+```
+Name: Rashard I Kelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Fri Dec 26 10:42:04 PST 2025
+    December 2025
+Su Mo Tu We Th Fr Sa
+    1  2  3  4  5  6
+ 7  8  9 10 11 12 13
+14 15 16 17 18 19 20
+21 22 23 24 25 26 27
+28 29 30 31
+
+
+
+
+Linux localhost 4.19.191 #1 SMP PREEMPT Fri Dec 5 09:50:13 CST 2025 aarch64 Android
+ 10:42:04 up 7 days, 20:55,  load average: 14.58, 16.10, 16.47
+~ $ nc -t horizons.jpl.nasa.gov 6775              ��������!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ Unable to negotiate connection within 2 seconds. Defaults:
+                                                  
+ TERM= vt102, ROWS= 9999, COLUMNS= 9999, ECHO on, FULL-DUPLEX
+                                                  
+ Your terminal, command-line, telnet, or connection program
+ may not be compliant with RFC 854 and RFC 1073 standards:
+                                                  
+           http://tools.ietf.org/rfc/rfc854.txt   
+           http://tools.ietf.org/rfc/rfc1073.txt  
+                                                  
+ Using a different program to connect may solve the problem.
+                          -OR -                   
+ The network may be slow and need > 2 seconds (try again).
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+  ======================================================================
+  |                     Jet Propulsion Laboratory                      |
+  |                                                                                                 JPL Horizons, version 4.98d                       Type '?' for brief help, '?!' for details,        '-' for previous prompt, 'x' to exit              System news updated November 13, 2025                                                               Horizons> 8                                       Inactive connection ... terminating Horizons!   
+~ $ 
+```
+
+# ORB_026200_026299/ESP_026202_1620_ESP_018277_1620
+[Files](https://hirise-pds.lpl.arizona.edu/PDS/) / [FiLE](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_026200_026299/ESP_026202_1620_ESP_018277_1620/ESP_026202_1620_ESP_018277_1620_RED.browse.png)
+@nasa-pds thats my exploring . . . @Blackgirlscode Tell Latrice i will mark reports complete in some fashion and she free to harvest what she needs for virtiserv @cityoflosangeles thats who im working with if she not a criminal @datadesk normani might no be my bookkeeper if she trying to do flight scheduling, im just keeping @nasa-jpl safe from strangers . . . -rashard 
+@datadesk @howard-university-web-services MARS 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/69c9af47-5c90-4b87-9b9a-b105fed07458" />
+
+# Jovian [PRESSKiT](https://www.jpl.nasa.gov/news/press_kits/juno/pdf/juno-lores.pdf)
+[[ joh-vee-uhn ]](https://en.wiktionary.org/wiki/Jovian) ([astronomy](https://www.nasa.gov/solar-system/skywatching/astronomy/)) Pertaining to the planet [Jupiter](https://ssd.jpl.nasa.gov/api/horizons.api?format=text&COMMAND=%27599%27&OBJ_DATA=%27YES%27&MAKE_EPHEM=%27YES%27&EPHEM_TYPE=%27OBSERVER%27&CENTER=%27500@399%27&START_TIME=%272006-01-01%27&STOP_TIME=%272006-01-20%27&STEP_SIZE=%271%20d%27&QUANTITIES=%271,9,20,23,24,29%27).
+[Jupiter is](https://www.jpl.nasa.gov/edu/resources/gallery/exploring-jupiter/)...the largest planet in our solar system – if it were a hollow shell, 1,000 Earths could fit inside [Jupiter Facts](https://science.nasa.gov/jupiter/jupiter-facts/) [Fiction/Fandom](https://aliens.fandom.com/wiki/Jovian) [Physicality @nasa PhotoJournal](https://photojournal.jpl.nasa.gov/target/jupiter) - [Program and Project Management](https://www.jpl.nasa.gov/news/press_kits/juno/management/) ~> [Directors](https://x.com/RicoThaka/status/1899890387977949299)
+[SPaniSH Deets](https://ciencia.nasa.gov/mission/europaclipper/) [Planetary Protection](https://sma.nasa.gov/sma-disciplines/planetary-protection) is the practice of protecting solar system bodies from contamination by Earth life and protecting Earth from possible life forms that may be returned from other solar system bodies. 
+[aster](https://asterweb.jpl.nasa.gov/map/) [mission](https://asterweb.jpl.nasa.gov/mission.asp)
+[JUPiTER_PHOTOGALLERY - nssdc.gsfc.@nasa.gov](https://nssdc.gsfc.nasa.gov/photo_gallery/photogallery-jupiter.html) [Galileo](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1989-084B)
+
+
+Europa Clipper Newsroom @nasa-pds @nasa @nasa-jpl
+[news](https://science.nasa.gov/mission/europa-clipper/newsroom/)
+NASA’s Europa Clipper Observes Comet 3I/ATLAS + [STORiES!](https://science.nasa.gov/mission/europa-clipper/stories/)
+[Europa Clipper Captures Mars, Phobos, and Deimos](https://science.nasa.gov/photojournal/europa-clipper-captures-mars-phobos-and-deimos/) : [Europa Clipper Captures Infrared Image of Mars (Color Added)](https://science.nasa.gov/photojournal/europa-clipper-captures-infrared-image-of-mars-color-added/) [End-run around radiation – The saga and surprise vulnerabilities of Europa Clipper](https://spacenews.com/end-run-around-radiation-the-saga-and-surprise-vulnerabilities-of-europa-clipper/)
+[Link](https://science.nasa.gov/blogs/europa-clipper/2025/12/18/nasas-europa-clipper-observes-comet-3i-atlas/) 
+![atlas](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/jupiter/moons/1-IMAGE%20-%20UVS_3I_ATLAS_blog-DRAFT2.png?w=2287&h=1047&fit=clip&crop=faces%2Cfocalpoint)
+
+[WeFunkRadio +](https://www.wefunkradio.com/radio/) [latest LordSear](https://soundcloud.com/djlordsear/dj-holly-grove-no-mix-10-24-2025?si=82a4b5f012894629a00dc960f6862f85&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) && [Show 1270 seem good @blackgirlscode](https://www.wefunkradio.com/show/1270/play_aa)
+
+
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
+# EatonCanyon Before and after
+@nasa-jpl someone poisoned me, it smells horrible @blackgirlscode imma get off and try to eat at [COA](https://www.coalongbeach.org/)
+
+![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/0594adca-ec4c-4aca-84ff-8876a79c4766)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9cdc7a54-edba-49c7-bde2-fd5b661a7dff" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/425d9118-3085-4864-958c-887973711b88" />
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1027516186&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/selectabwoy" title="Selectabwoy" target="_blank" style="color: #cccccc; text-decoration: none;">Selectabwoy</a> · <a href="https://soundcloud.com/selectabwoy/dj-premier-crooklyn-cuts-volume-iii-tape-a-1996" title="DJ Premier - Crooklyn Cuts, Volume III Tape A (1996)" target="_blank" style="color: #cccccc; text-decoration: none;">DJ Premier - Crooklyn Cuts, Volume III Tape A (1996)</a></div>
 
