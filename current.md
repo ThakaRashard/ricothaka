@@ -36,6 +36,9 @@ One day my blog will `RETURN true` when run from the [command](https://www.senat
 
 ## Los Angeles County[!](https://youtu.be/xjEoo14xHRs)
 
+[NASA76 - BiCENTENNiALREPORT @nasa](https://spinoff.nasa.gov/back_issues_archives/1976.pdf)
+
+<img alt="image" src="https://github.com/user-attachments/assets/ea909063-7d37-40d4-accc-60ac8db12d22" />
 
 [MAPPiNG @CityOfLosAngles Trees @StateOfCalifornia](https://ntrs.nasa.gov/api/citations/20250007467/downloads/2025Sum_JPL_LosAngelesCountyEco_Presentation_FD.pdf) 
  
