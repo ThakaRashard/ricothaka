@@ -33,7 +33,7 @@ One day my blog will `RETURN true` when run from the [command](https://www.senat
 
 [comment]: <> (Emergency Files )
 
-
+@nasa-jpl @nasa  the horizons entry for Artemis 1 has a website listed `https://www.nasa.gov/artemis-1` [[1](https://www.nasa.gov/artemis-1) but it is forwarding to a different URL 
 
 ## Behind the Stripes Muna Ahmed
 [Read](https://www.atlutd.com/news/behind-the-stripes/muna-ahmed) ::: [OBituary](https://www.wagesfuneralhome.com/obituaries/Muna-Ahmed?obId=38042500) 
