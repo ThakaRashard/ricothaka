@@ -34,6 +34,98 @@ One day my blog will `RETURN true` when run from the [command](https://www.senat
 [comment]: <> (Emergency Files )
 
 
+
+## Behind the Stripes Muna Ahmed
+[Read](https://www.atlutd.com/news/behind-the-stripes/muna-ahmed) ::: [OBituary](https://www.wagesfuneralhome.com/obituaries/Muna-Ahmed?obId=38042500) 
+@nasa-jpl @la-county-isd @podaac @nasajpl is @uber into mars ? i dont trust them @repkarenbass @lacounty @hollyjmitchell @normani remember i got poisoned and jumped as a driver ? erika left me after maybe the ceo her pimp atmagic @uber someone tampered with your @youtube comments [VideoLink](https://www.youtube.com/watch?v=1FarcBkP-xk) @blackgirlscode ::: [NORMANi - ALL_YOURS `nice song`](https://youtu.be/YRp1vqmAZoM?si=cFFi9PpAwFk3X2zf)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/460f6949-27d0-4d6b-8eec-db25fda36034" />
+
+
+[SONG - 
+Prophet Posse](https://youtu.be/1FarcBkP-xk) ... [
+Solid Steel presents DJ Food & DK - "Now, Listen Again!" (mixed CD)](https://youtu.be/ye3rGmEJqY0?t=934)
+
+[Firms](https://firms.modaps.eosdis.nasa.gov/) [FirMS - Map](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@-114.497,34.761,14.107z) [KML SHAPES and Archives](https://firms.modaps.eosdis.nasa.gov/usfs/active_fire/) @blackgirlscode 
+
+[Part 1: Post-Fire Imagery and Smoke Monitoring - pdf] [[READ](https://earthdata.nasa.gov/s3fs-public/2025-11/AdvFIRMS_Part1_BB_MFC_DD_JO.pdf?VersionId=_b9T2QWdP0ahe_j7EV1gEVclTsYOuxTg)]
+[Advanced NASA Earth Observations and Tools for Active Fire, Smoke, and
+Post-Fire Monitoring](https://earthdata.nasa.gov/s3fs-public/2025-11/AdvFIRMS_Part1_BB_MFC_DD_JO.pdf?VersionId=_b9T2QWdP0ahe_j7EV1gEVclTsYOuxTg)
+
+[NASA ARSET: Post-Fire Imagery and Smoke Monitoring Part 1/2](https://youtu.be/dk4TWK0aOUI)
+How Are You Making the Most of Your Imagery and Lidar? A Guide to the Power of Derivative Products [watch](https://www.youtube.com/watch?v=Kg9uCbF4ooQ)
+NASA ARSET: Introduction to Satellite-Based Active Fire Detection using FIRMS, Part 1/3 [watch](https://youtu.be/2Us91BGL3Q4?si=sJCwh90Si0wPya1f)
+
+Hazard Mapping System Fire and Smoke Product [more](https://www.ospo.noaa.gov/products/land/hms.html) @noaa @nasa-jpl
+
+
+
+
+The Police - Walking On The Moon (Official Music Video) [watch](https://www.youtube.com/watch?v=zPwMdZOlPo8) @la-county-isd @emit-sds
+
+
+
+![ita.lacity.gov](https://ita.lacity.gov/sites/g/files/wph1626/files/202409_STRY0023274_ITA_WebLogo_v1_400x120.svg) @la-county-isd
+[SMART_LA](https://www.youtube.com/@LAThisWeek) <~ @ISRO this document does not include us @USGS or @nasa-jpl and i dont know how so many of us are digitally disabled and playboy mobbed up with all the technology and we make the shit ... ultimately... i dont understand capitalism mr trump @whitehouse [How Will LA Look in 2028? A Look at the City's Plan To Embrace
+Transformational Tech](https://s42263.pcdn.co/wp-content/uploads/2023/01/230103_dot.LA_How-Will-LA-Look-in-2023.pdf) :: [Los Angeles Climate Smart Cities
+TRAINING GUIDE](https://site.tplgis.org/lacscsecure/css/pdfs/LA_CSC_DRAFT.pdf)
+[laincubator.org/ZERO_EMiSSiONS_ROADMAP - PDF](https://laincubator.org/wp-content/uploads/LA_Roadmap2.0_Final2.2.pdf)
+@CityOfLosAngeles 
+<img   alt="image" src="https://github.com/user-attachments/assets/c9aeb13a-fe2f-45dc-8095-acd1933aaaf9" />
+
+
+[CityOfAlameda - WifiPlan - READ_PDF](https://www.alamedaca.gov/files/assets/public/v/2/it/alameda-smart-city-master-plan_final.pdf#page=65) `idea space` @la-county-isd hollyjmitchell
+Recommendation #2: Deploy
+Wi-Fi in Public Spaces
+Internet access is considered an essential
+service and is recognized as a human right in
+some countries. Wireless connection to the
+internet has become almost ubiquitous in our
+society as more and more common everyday
+devices, such as kitchen appliances, are now
+“on-line.” Wireless networks (Wi-Fi), and the
+resulting access to the internet, has become
+commonplace throughout our work
+environment and at home. Public agencies and
+organizations initially deployed Wi-Fi at their
+facilities to support municipal operations but
+have expanded the use to provide a public
+benefit such as digital inclusion, economic
+development, and services to an underserved
+population who do not have internet access at
+home. The recent pandemic has required
+students to transition to on-line schooling,
+workers to work from home, and has even
+meant that seeing a doctor was done on-line via
+telehealth/telemedicine.
+As a first phase, it is recommended that the City
+deploy a public Wi-Fi service starting with city
+buildings and city-owned outdoor spaces. For
+city buildings, this would include both City Hall
+buildings, Police Department, Emergency
+Operations Center, Maintenance Service
+Center, and recreation centers. For outdoors
+spaces, this would include most city parks, the
+three ferry terminal lots, key corridors including
+Park Street and Webster Street and priority
+equity neighborhoods such as Alameda Point.
+For later implementation phases, City staff will
+conduct further input to ensure that the public
+Wi-Fi is deployed at high priority locations for
+community members beyond the locations
+mentioned above, such as at bus stops or other
+gathering places. Operations and maintenance
+of these networks will likely fall to IT and
+depending on the extent of deployment may
+require additional staffing to support the
+system. Deployment of this system will largely
+depend on the deployment of the supporting
+fiber optic communication network which
+would affect deployment timeframe. 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/478a223d-fc46-427a-85b5-5f46f3ee050f" />
+
+
 ## Los Angeles County[!](https://youtu.be/xjEoo14xHRs)
 
 [NASA76 - BiCENTENNiALREPORT @nasa](https://spinoff.nasa.gov/back_issues_archives/1976.pdf)
