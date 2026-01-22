@@ -66,9 +66,9 @@ The Police - Walking On The Moon (Official Music Video) [watch](https://www.yout
 
 
 ![ita.lacity.gov](https://ita.lacity.gov/sites/g/files/wph1626/files/202409_STRY0023274_ITA_WebLogo_v1_400x120.svg) @la-county-isd
-[SMART_LA](https://www.youtube.com/@LAThisWeek) <~ @ISRO this document does not include us @USGS or @nasa-jpl and i dont know how so many of us are digitally disabled and playboy mobbed up with all the technology and we make the shit ... ultimately... i dont understand capitalism mr trump @whitehouse [How Will LA Look in 2028? A Look at the City's Plan To Embrace
+[SmartLA_2028.pdf](https://ita.lacity.gov/sites/g/files/wph1626/files/2021-05/SmartLA2028%20-%20Smart%20City%20Strategy.pdf) <~ @ISRO this document does not include us @USGS or @nasa-jpl and i dont know how so many of us are digitally disabled and playboy mobbed up with all the technology and we make the shit ... ultimately... i dont understand capitalism mr trump @whitehouse [How Will LA Look in 2028? A Look at the City's Plan To Embrace
 Transformational Tech](https://s42263.pcdn.co/wp-content/uploads/2023/01/230103_dot.LA_How-Will-LA-Look-in-2023.pdf) :: [Los Angeles Climate Smart Cities
-TRAINING GUIDE](https://site.tplgis.org/lacscsecure/css/pdfs/LA_CSC_DRAFT.pdf)
+TRAINING GUIDE](https://site.tplgis.org/lacscsecure/css/pdfs/LA_CSC_DRAFT.pdf) [@LAThisWeek](https://www.youtube.com/@LAThisWeek) 
 [laincubator.org/ZERO_EMiSSiONS_ROADMAP - PDF](https://laincubator.org/wp-content/uploads/LA_Roadmap2.0_Final2.2.pdf)
 @CityOfLosAngeles 
 <img   alt="image" src="https://github.com/user-attachments/assets/c9aeb13a-fe2f-45dc-8095-acd1933aaaf9" />
