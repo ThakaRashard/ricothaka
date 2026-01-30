@@ -38,6 +38,21 @@ One day my blog will `RETURN true` when run from the [command](https://www.senat
 [<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
 ### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
 
+_NASA Glenn Research Center developed this collection of interactive simulation exercises to accompany our Beginners Guide to Aeronautics educational content_ @blackgirlscode [**READMORE**](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/bga-simulations/)
+<img  alt="image" src="https://github.com/user-attachments/assets/b7bc7e99-fc8f-439f-95b8-4032c8019132" />
+
+[Cleavland](https://www.news5cleveland.com/news/local-news/new-nasa-administrator-visits-cleveland-talks-future-with-the-moon-mars-and-nasa-glenn) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6f764dcb-7681-4589-b863-b24cb64f0fb9" />
+
+`YOUNGSTOWN_HiRES_ViRTiSERV_LATRiCE - RASHARD-NASAJPL@EARTHDATA` 
+[HiReZ]()
+<img  alt="image" src="https://github.com/user-attachments/assets/8e3744e0-aed8-478e-8f07-f219301199bf" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/029cd036-08c4-4d72-9aea-83930d2d01a5" />
+<img  alt="image" src="https://github.com/user-attachments/assets/53af3c19-d3d0-4720-9ee4-18a6564c9aaa" />
+
+
 
 alt="@eu-cdse ohio looks great i the snow"  @blackgirlscode
 <img   alt="@eu-cdse ohio looks great i the snow" src="https://github.com/user-attachments/assets/96e85ca5-973f-444f-bc4c-7d3a9de0e498" />
