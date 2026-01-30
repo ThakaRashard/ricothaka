@@ -40,7 +40,15 @@ One day my blog will `RETURN true` when run from the [command](https://www.senat
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A16860322&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/interscope" title="Interscope Records" target="_blank" style="color: #cccccc; text-decoration: none;">Interscope Records</a> · <a href="https://soundcloud.com/interscope/bad-meets-evil-living-proof" title="Bad Meets Evil - Living Proof" target="_blank" style="color: #cccccc; text-decoration: none;">Bad Meets Evil - Living Proof</a></div>
 
+# Aqua MODIS Level-3 Global Mapped Remote-Sensing Reflectance (RRS) Data, version 2022.0
+### Description [LiNK](https://www.earthdata.nasa.gov/data/catalog/ob-cloud-modisa-l3m-rrs-2022.0)
+MODIS (or Moderate-Resolution Imaging Spectroradiometer) is a key instrument aboard the Terra (EOS AM) and Aqua (EOS PM) satellites. Terra's orbit around the Earth is timed so that it passes from north to south across the equator in the morning, while Aqua passes south to north over the equator in the afternoon. Terra MODIS and Aqua MODIS are viewing the entire Earth's surface every 1 to 2 days, acquiring data in 36 spectral bands, or groups of wavelengths (see MODIS Technical Specifications). These data will improve our understanding of global dynamics and processes occurring on the land, in the oceans, and in the lower atmosphere. MODIS is playing a vital role in the development of validated, global, interactive Earth system models able to predict global change accurately enough to assist policy makers in making sound decisions concerning the protection of our environment.
+
 Time Averaged Map of Remote sensing reflectance at 547 nm (water only) monthly 4 km [MODIS-Aqua MODISA_L3m_RRS v2022.0] sr^-1 _bad meets evil_ good shit `https://www.wefunkradio.com/radio/play` @blackgirlscode 
+Time Averaged Map of Normalized Fluorescence Line Height (water only) monthly 4 km [MODIS-Aqua MODISA_L3m_FLH v2022.0] W m^-2 um^-1 sr^-1
+over `2021-Jul - 2025-Oct`
+
+<img  alt="GIOVANNI-output7uaTEzrO" src="https://github.com/user-attachments/assets/34641681-677f-469b-b8d1-9c3e604676b8" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/6c82f4be-523e-43b5-9e80-decc141f4b00" />
 
