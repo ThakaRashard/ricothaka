@@ -23,17 +23,118 @@ title: Current
 
 </div>
 `jekyll.version`  {{ jekyll.version }}
-## Wifi [IEEE 802.11b-1999](https://en.wikipedia.org/wiki/IEEE_802.11b-1999)
 
-
-  
-![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf) line!
 
 [comment]: <> (Emergency Files )
 [https://archive.org/details/NewsScans_LACOUNTY_NASAJPL_virtiserv_bitmap/0000_firedata_virtiserv_SimpleScanStation20260105145139-13.png](https://archive.org/details/NewsScans_LACOUNTY_NASAJPL_virtiserv_bitmap/0000_firedata_virtiserv_SimpleScanStation20260105145139-13.png) @blackgirlscode 
 <img src="https://archive.org/download/NewsScans_LACOUNTY_NASAJPL_virtiserv_bitmap/0000_firedata_virtiserv_SimpleScanStation20260105145139-13.png" alt="item image #11"/><img  alt="image" src="https://github.com/user-attachments/assets/4586c878-20e6-49f1-9e11-38ced21d3aae" />
+
+[https://sentiwiki.copernicus.eu/web/s2-processing#S2Processing-L1CAlgorithmsS2-Processing-L1C-Algorithmstrue](https://sentiwiki.copernicus.eu/web/s2-processing#S2Processing-L1CAlgorithmsS2-Processing-L1C-Algorithmstrue)
+@blackgirlscode ... @whitehouse i dont know where [latrice fitzpatrick](https://www.facebook.com/thevirtiservway/) work exactly @la-county-isd but i am processing some images for the landing of the space capsule @nasa-jpl @cityoflosangeles @eu-cdse [https://workspace.dataspace.copernicus.eu/workspace/processing-status/order/7832167](https://workspace.dataspace.copernicus.eu/workspace/processing-status/order/7832167) _VirtiServLatriceSandiagoSplashDownorder-2026-02-04T00:27:28.945Z%20order-2026-02-04T00:31:35.778Z_ hi @salesforce [@intuit](https://www.bbb.org/us/oh/youngstown/profile/financial-planning-consultants/count-profits-0432-20020936)
+<img  alt="image" src="https://github.com/user-attachments/assets/d1b44883-0624-4b28-ae9a-f67ea953cf58" />
+
+[https://www.atc.co.jp/products/detail/rental/1359](https://www.atc.co.jp/products/detail/rental/1359) ttps://www.atc.co.jp/products/detail/rental/1359) @blackgirlscode see my resume @fiserv @la-county-isd @cityoflosangeles @nasa-jpl .
+ [https://www.atc.co.jp/products/detail/rental/1359](https://www.atc.co.jp/products/detail/rental/1359)
+
+[https://archive.org/download/2025-12-20-00-00-2025-12-20-23-59-sentinel-2-l-2-a-true-color/ohio_latrice_virtiserv_earthdata_NASA_JPL-GLENN.zip/ohio_latrice_virtiserv_earthdata_NASA_JPL-GLENN%2FBrowser_images.zip](https://archive.org/download/2025-12-20-00-00-2025-12-20-23-59-sentinel-2-l-2-a-true-color/ohio_latrice_virtiserv_earthdata_NASA_JPL-GLENN.zip/ohio_latrice_virtiserv_earthdata_NASA_JPL-GLENN%2FBrowser_images.zip) @nasa Cleveland virtiserv @blackgirlscode normanikordei 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/958777d3-155f-4f99-9040-cfa7945e7c83" />
+
+@la-county-isd 
+```
+Your message couldn't be delivered to
+karen.bass47@gmail.com.
+Their inbox is full,
+or it's getting too much mail right now.
+```
+New NASA Administrator visits Cleveland, talks future with the moon, Mars and [NASA Glenn](https://archive.org/search?query=creator%3A%22NASA%2FGlenn+Research+Center%22)
+
+<div class="tupperware">
+	
+<img   alt="Screenshot 2026-02-03 7 43 18 PM" src="https://github.com/user-attachments/assets/61841e97-6005-437f-83e5-23c6d7a32605" />
+
+<img   alt="Screenshot 2026-02-03 7 44 28 PM" src="https://github.com/user-attachments/assets/05719125-b3d3-4216-885e-8bf5afab9f3c" />
+
+<img   alt="Screenshot 2026-02-03 7 45 53 PM" src="https://github.com/user-attachments/assets/765cfbf3-d5a2-4aa9-952d-48edf9d304e3" />
+
+</div>
+
+[<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
+### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) 
+: [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
+
+
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+[_https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04793/opgs/edr/ncam/NRB_823000360EDR_M1200574NCAM00579M_.JPG_](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04793/opgs/edr/ncam/NRB_823000360EDR_M1200574NCAM00579M_.JPG)
+![https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04793/opgs/edr/ncam/NRB_823000360EDR_M1200574NCAM00579M_.JPG](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04793/opgs/edr/ncam/NRB_823000360EDR_M1200574NCAM00579M_.JPG)
+[DECATUR](509 N. McDonough St. | PO Box 220 Decatur, GA, 30031 ) [Link](https://www.decaturga.com/contact-us?page=1)  [Atlanta Government Web Tech dept](https://www.atlantaga.gov/government/mayor-s-office/executive-offices/office-of-technology-and-innovation) @la-county-isd
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a6387f1f-4b65-483d-8f1a-0bf37deeaeb7" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/a109404a-9f32-48a0-a088-7f58df639bb2" />
+
+![https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/148000/148350/erie_tmo_2021132_lrg.jpg](https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/148000/148350/erie_tmo_2021132_lrg.jpg) 
+[Link]()
+<img   alt="image" src="https://github.com/user-attachments/assets/798fd579-6809-49e7-97da-18478717c485" />
+<img  alt="image" src="https://github.com/user-attachments/assets/633e2b3a-4b9c-4016-9c7a-4d02905c45c7" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/e96550dd-6454-4786-90a2-2facba8e2fc0" />
+<img alt="image" src="https://github.com/user-attachments/assets/ec807452-801a-42f1-8949-98a0b872614a" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/876168b0-7aad-4489-82a6-7ca4c132b008" />
+
+_NASA Glenn Research Center developed this collection of interactive simulation exercises to accompany our Beginners Guide to Aeronautics educational content_ @blackgirlscode [**READMORE**](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/bga-simulations/)
+<img  alt="image" src="https://github.com/user-attachments/assets/b7bc7e99-fc8f-439f-95b8-4032c8019132" />
+
+[Cleavland](https://www.news5cleveland.com/news/local-news/new-nasa-administrator-visits-cleveland-talks-future-with-the-moon-mars-and-nasa-glenn) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6f764dcb-7681-4589-b863-b24cb64f0fb9" />
+
+`YOUNGSTOWN_HiRES_ViRTiSERV_LATRiCE - RASHARD-NASAJPL@EARTHDATA` 
+  
+<img  alt="image" src="https://github.com/user-attachments/assets/8e3744e0-aed8-478e-8f07-f219301199bf" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/029cd036-08c4-4d72-9aea-83930d2d01a5" />
+<img  alt="image" src="https://github.com/user-attachments/assets/53af3c19-d3d0-4720-9ee4-18a6564c9aaa" />
+
+
+
+alt="@eu-cdse ohio looks great i the snow"  @blackgirlscode
+<img   alt="@eu-cdse ohio looks great i the snow" src="https://github.com/user-attachments/assets/96e85ca5-973f-444f-bc4c-7d3a9de0e498" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/5053fd8e-1c75-450e-91eb-f097a7b0b20a" />
+
+
+
+
+# Aqua MODIS Level-3 Global Mapped Remote-Sensing Reflectance (RRS) Data, version 2022.0
+### Description [LiNK](https://www.earthdata.nasa.gov/data/catalog/ob-cloud-modisa-l3m-rrs-2022.0)
+MODIS (or Moderate-Resolution Imaging Spectroradiometer) is a key instrument aboard the Terra (EOS AM) and Aqua (EOS PM) satellites. Terra's orbit around the Earth is timed so that it passes from north to south across the equator in the morning, while Aqua passes south to north over the equator in the afternoon. Terra MODIS and Aqua MODIS are viewing the entire Earth's surface every 1 to 2 days, acquiring data in 36 spectral bands, or groups of wavelengths (see MODIS Technical Specifications). These data will improve our understanding of global dynamics and processes occurring on the land, in the oceans, and in the lower atmosphere. MODIS is playing a vital role in the development of validated, global, interactive Earth system models able to predict global change accurately enough to assist policy makers in making sound decisions concerning the protection of our environment.
+
+Time Averaged Map of Remote sensing reflectance at 547 nm (water only) monthly 4 km [MODIS-Aqua MODISA_L3m_RRS v2022.0] sr^-1 _bad meets evil_ good shit `https://www.wefunkradio.com/radio/play` @blackgirlscode 
+Time Averaged Map of Normalized Fluorescence Line Height (water only) monthly 4 km [MODIS-Aqua MODISA_L3m_FLH v2022.0] W m^-2 um^-1 sr^-1
+over `2021-Jul - 2025-Oct`
+
+<img  alt="GIOVANNI-output7uaTEzrO" src="https://github.com/user-attachments/assets/34641681-677f-469b-b8d1-9c3e604676b8" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6c82f4be-523e-43b5-9e80-decc141f4b00" />
+
+<img  alt="GIOVANNI-outputlwKift1t" src="https://github.com/user-attachments/assets/a21d2eff-5002-4de0-94c6-f78c88fc60d6" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0063e572-5b35-4c18-aea2-6a28ca44db18" />
+
+
+
+
+
+
+[EnvironmentalPages - LONGBEACH](https://thakarashard.github.io/rashardmro/longbeach) @NASA-OPENSCAPES @la-county-isd @nasa-jpl
+
+<img  alt="image" src="https://github.com/user-attachments/assets/d9512aee-0df5-480a-add5-d892c4fa0967" />
+
 
 @nasa-jpl @nasa  the horizons entry for Artemis 1 has a website listed `https://www.nasa.gov/artemis-1` [[1](https://www.nasa.gov/artemis-1)] but it is forwarding to `https://www.nasa.gov/images/` [[nasa.gov/images/](https://www.nasa.gov/images/) @nasa-giss @nasa-develop @blackgirlscode @newshour @datadesk 
 
@@ -127,6 +228,8 @@ would affect deployment timeframe.
 
 <img  alt="image" src="https://github.com/user-attachments/assets/478a223d-fc46-427a-85b5-5f46f3ee050f" />
 
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A16860322&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/interscope" title="Interscope Records" target="_blank" style="color: #cccccc; text-decoration: none;">Interscope Records</a> · <a href="https://soundcloud.com/interscope/bad-meets-evil-living-proof" title="Bad Meets Evil - Living Proof" target="_blank" style="color: #cccccc; text-decoration: none;">Bad Meets Evil - Living Proof</a></div>
 
 ## Los Angeles County[!](https://youtu.be/xjEoo14xHRs)
 
