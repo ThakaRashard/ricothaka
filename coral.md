@@ -25,6 +25,27 @@ title: Current
 
 ![coral i love youackgirlscode](https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png?fbclid=IwY2xjawOMSrVleHRuA2FlbQIxMABicmlkETFYUTY2dTB2elNja3lGaFg2c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHv_gHFvfu91t--upXMkwrOb9gCnPX1MlZdPC2md_VI3ai7fPq2KmzJ6XUX_t_aem_8misQL4NIvcM-OWEf3EGsg) 
 
+
+
+### California_Linux: 
+Maintaining Commitment NasaJpl_3arthdata 
+MRO/JUNO:ECOSTRESS-BlackGirlsCodeVID 
+@ISRO @CALTECH @BLACKGIRLSCODE @nasa-jpl RajVuchatu @isro [archive](https://archive.org/details/@thakaserika_selassie_kelly)
+`You hae to jump to *ViID* the ones that start with `VID` @foratlanta @newshour
+
+<iframe src="https://archive.org/embed/commitmentmaintenance" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[https://www.nasa.gov/wp-content/uploads/2023/05/11.-soa-ground-data-systems-2022.pdf](https://www.nasa.gov/wp-content/uploads/2023/05/11.-soa-ground-data-systems-2022.pdf)
+<img  alt="image" src="https://github.com/user-attachments/assets/d19e8e4f-9c42-43cc-910b-e02af28c0020" />
+
+[Japan Spacecraft Departing Station Soon on NASA+](https://www.nasa.gov/blogs/spacestation/2026/03/06/japan-spacecraft-departing-station-soon-on-nasa/) 
+[Chris Williams](https://www.nasa.gov/humans-in-space/astronauts/nasa-astronaut-christopher-l-williams/) @nasa-giss @nasa-develop @nasa-jpl @la-county-isd  will monitored the spacecraft’s systems during its departure. `Thisone is done from my perspective, there is no landing! @blackgirlscode [@CityOfLosAngeles](https://www.youtube.com/live/JRUb5umOw6M?si=O-v6DRLkrQ4tBkI5) its just a one way trip for [ground data systems](https://www.nasa.gov/wp-content/uploads/2023/05/11.-soa-ground-data-systems-2022.pdf) @nasa-jpl
+
+The HTV-X1 spacecraft will remain in orbit for more than three months acting as a scientific platform for JAXA’s experiments. Following the command for deorbit, the spacecraft will dispose of several thousand pounds of trash during re-entry into Earth’s atmosphere, where it will burn up harmlessly. 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/cecd2320-408b-4ed1-bc9b-157a946d3ba8" />
+
+
 ### Books
 
 [How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf)
