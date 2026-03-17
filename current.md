@@ -28,6 +28,8 @@ title: Current
 One day my blog will `RETURN true` when run from the [command](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf) line!
 
 [comment]: <> (Emergency Files )
+[https://archive.org/details/NewsScans_LACOUNTY_NASAJPL_virtiserv_bitmap/0000_firedata_virtiserv_SimpleScanStation20260105145139-13.png](https://archive.org/details/NewsScans_LACOUNTY_NASAJPL_virtiserv_bitmap/0000_firedata_virtiserv_SimpleScanStation20260105145139-13.png) @blackgirlscode 
+<img src="https://archive.org/download/NewsScans_LACOUNTY_NASAJPL_virtiserv_bitmap/0000_firedata_virtiserv_SimpleScanStation20260105145139-13.png" alt="item image #11"/><img  alt="image" src="https://github.com/user-attachments/assets/4586c878-20e6-49f1-9e11-38ced21d3aae" />
 
 
 
