@@ -69,6 +69,41 @@ carousels:
 {% endfor %}
 
 
+@LongBeachInnovationTeam
+I was trying to run your Jupiter Notebook. I am Active Mission @nasa-jpl and i need you to know its not religious, like im really on like that JUNO/MARS and fighting  a lot of rumors, but im helpdesk! And Dibert Donut ass style _nigga_ and im doing my best to `WeWork` out of the library to support area education as i was instructed at the base . . . ill check back another day try this binder from @nasa/ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nasa/ECOSTRESS-Data-Resources.git/HEAD) 
+
+this note book will not open with a .git copy paste into myBinder 
+https://github.com/LongBeachInnovationTeam/git-jupyter-demo
+
+```python
+23.72  Package installation failed...
+------
+Dockerfile:147
+--------------------
+ 146 |     USER ${NB_USER}
+ 147 | >>> RUN (cd . && \
+ 148 | >>>                     PATH="${KERNEL_PYTHON_PREFIX}/bin:$PATH" \
+ 149 | >>>                         pipenv install --ignore-pipfile --system --dev && \
+ 150 | >>>                         pipenv --clear \
+ 151 | >>>                 )
+ 152 |     
+--------------------
+ERROR: failed to solve: process "/bin/sh -c (cd . &&                     PATH=\"${KERNEL_PYTHON_PREFIX}/bin:$PATH\"                         pipenv install --ignore-pipfile --system --dev &&                         pipenv --clear                 )" did not complete successfully: exit code: 1
+Error during build: Command '['docker', 'buildx', 'build', '--progress', 'plain', '--push', '--build-arg', 'NB_USER=jovyan', '--build-arg', 'NB_UID=1000', '--tag', 'registry.gesis.mybinder.org/mybinder-builds/i-longbeachinnovationteam-2dgit-2djupyter-2ddemo-35acae:e99a02ccc6a25ed7f740f199d4088d066830d63b', '--platform', 'linux/amd64', '/tmp/tmpn51xbn42']' returned non-zero exit status 1.Error in event stream: Error
+```
+
+https://mybinder.org/v2/gh/LongBeachInnovationTeam/git-jupyter-demo.git/HEAD 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nasa/ECOSTRESS-Data-Resources.git/HEAD) 
+
+@la-county-isd im over 18 @CityOflosangeles Holly Mitchell Karen Bass `Selected Criminal Penalties Under Proposition 64
+AGES 18-21 YEARS OLD` - 
+[https://dcba.lacounty.gov/selected-criminal-penalties-under-proposition-64/](https://dcba.lacounty.gov/selected-criminal-penalties-under-proposition-64/)
+<img  alt="image" src="https://github.com/user-attachments/assets/b8787fa9-efe0-43a6-8f71-354b4038dffa" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/8ca56ed8-8541-464b-a4b7-166e6eb4cd7b" />
+
+
 [https://s.id/1kmbG](https://s.id/1kmbG)
 [EBOOK_READER @newshour](https://github.com/kovidgoyal/calibre) 
 <p><a href="https://commons.wikimedia.org/wiki/File:Calibre_logo_SVG_version.svg#/media/File:Calibre_logo_SVG_version.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Calibre_logo_SVG_version.svg" alt="Calibre logo SVG version.svg" height="1024" width="1024"></a><br>By Kovid Goyal - <a rel="nofollow" class="external free" href="https://github.com/kovidgoyal/calibre/blob/712dadf69ba87ea343f66eddf081b52086b8f4b0/imgsrc/calibre.svg">https://github.com/kovidgoyal/calibre/blob/712dadf69ba87ea343f66eddf081b52086b8f4b0/imgsrc/calibre.svg</a>, <a href="http://www.gnu.org/licenses/gpl-3.0.html" title="GNU General Public License v3">GPLv3</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=162170356">Link</a></p>
