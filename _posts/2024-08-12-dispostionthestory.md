@@ -155,12 +155,12 @@ https://x.com/MooNLOVER404/status/1799143139263066343
 <ul id="linklist">
 <li id="active"><a href="#" id="current">Item one</a></li>
 <li><a href="https://thakarashard.github.io/">FAiLOVER</a></li>
-           <li><a href="{{ site.url }}{{ site.baseurl }}.github.io/CV">CV</a></li>
-            <li><a href="https://thakasartu.github.io/thaka/">JustMe</a></li>
-            <li><a href="https://ricothaka.github.io/twitters.html">TwitterS</a></li>
-            <li><a href="https://moonlov3r.wordpress.com/blog-feed/">WordPress</a></li>
-            <li><a href="https://bubblegumpop01.tumblr.com/">BubbleGumPop01</a></li>
-            <li><a href="https://bubblegumfm01.tumblr.com/">BubbleGumFM</a></li>
+ <li><a href="{{ site.url }}{{ site.baseurl }}.github.io/CV">CV</a></li>
+ <li><a href="https://thakasartu.github.io/thaka/">JustMe</a></li>
+<li><a href="https://rashardiman.github.io/twitters.html">TwitterS</a></li>
+ <li><a href="https://moonlov3r.wordpress.com/blog-feed/">WordPress</a></li>
+ <li><a href="https://bubblegumpop01.tumblr.com/">BubbleGumPop01</a></li>
+ <li><a href="https://bubblegumfm01.tumblr.com/">BubbleGumFM</a></li>
 </ul>
 </nav>
 
