@@ -29,6 +29,61 @@ title: Current
 One day my blog will `RETURN true` when run from the [command](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf) line!
 
 [comment]: <> (Emergency Files )
+
+
+
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+  
+</picture>
+
+
+[Madden Screens on android](https://rashardmro.tumblr.com/post/816827131037401088) // [NatGeoSociety - _LA92_@CityOfLosAngeles @Blackgirlscode @dhs-gov @icegov](https://rashardmro.tumblr.com/post/816918203134541824/la-92-full-documentary-national-geographic?is_related_post=1)
+<img alt="tumblr_47c08880567a0dbb9b587bcfb30b443d_74c737c5_1280" src="https://github.com/user-attachments/assets/ef60ee5d-35f4-43d8-b856-b2aadec36c4f" />
+
+
+PSP 
+<img  alt="tumblr_09763d15c01ccc690b762038726ecdd3_abf9d015_1280" src="https://github.com/user-attachments/assets/a9b26184-7162-4e8d-9977-4ae7c0f869f3" />
+
+### Hardware
+
+**MANUFACTURER**: `Cloud Mobile`  
+**BRAND**: `Cloud_Mobile`  
+**BOARD**: `W20_X65`  
+**HARDWARE**: `mt6765`  
+**DEVICE**: `Stratus_C8`  
+**SUPPORTED_32_BIT_ABIS**: `armeabi-v7a, armeabi`  
+**SUPPORTED_64_BIT_ABIS**: `arm64-v8a`  
+
+
+
+[ @la-county-isd @stateofcalifornia prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf](prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf)
+
+<img alt="tumblr_20314efa840849119aa130534117d035_f3195337_1280" src="https://github.com/user-attachments/assets/5228474c-bb6f-4dcf-882d-2ac2e5d25163" />
+
+[@whitehouse @CityOfLosAngeles @blackgirlscode prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf](prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf)
+
+[@CityOfLosAngeles @nasa-jpl pubmed.ncbi.nlm.nih.gov/33576818/ @NIHGOV](https://pubmed.ncbi.nlm.nih.gov/33576818/)
+
+<img  alt="tumblr_ec60c5d536f6ff51dfae060c429d867a_f4c89e6c_1280" src="https://github.com/user-attachments/assets/c2fc86ff-1bff-4d52-a8d2-1fe34749e0cb" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/74509e8b-f820-49ba-9f9d-08196ac6504c" />
+
+
+
+[https://www.reddit.com/r/cybersecurity_help/comments/1hvy0vy/what_is_a_captive_portal_login/](https://www.reddit.com/r/cybersecurity_help/comments/1hvy0vy/what_is_a_captive_portal_login/)
+
+
+@nasa @activision <img  alt=" @nasa @activision tumblr_a721b5f901f41436c7a3d577177af3d8_d634f14b_1280" src="https://github.com/user-attachments/assets/f9dbbc0f-5a10-40dc-b43c-386e78c7acfb" />
+
+
+SNES 
+<img  alt="tumblr_30dabd9981efe3ea0ff33e8291ecea62_70d3e949_1280" src="https://github.com/user-attachments/assets/db8dff63-b0dd-497b-9982-1ecac905f957" />
+<img  alt="tumblr_58436a88d92fe9d628d5bbe1352f38a0_2d083e14_1280" src="https://github.com/user-attachments/assets/b69235a7-e50c-4a00-b28e-3cbb66961ac2" />
+<img   alt="tumblr_74f1b71e972dd6a477fd2214bd7567a6_a5136724_1280" src="https://github.com/user-attachments/assets/a62cd177-116d-41be-af43-4866bfffc43f" />
 [https://archive.org/details/NewsScans_LACOUNTY_NASAJPL_virtiserv_bitmap/0000_firedata_virtiserv_SimpleScanStation20260105145139-13.png](https://archive.org/details/NewsScans_LACOUNTY_NASAJPL_virtiserv_bitmap/0000_firedata_virtiserv_SimpleScanStation20260105145139-13.png) @blackgirlscode 
 
 
