@@ -41,6 +41,18 @@ One day my blog will `RETURN true` when run from the [command](https://www.senat
 </picture>
 
 
+
+Curiosity
+
+![https://d2pn8kiwq2w21t.cloudfront.net/images/28-mission-current-MSL-Curiosity-alt.height-700.png](https://d2pn8kiwq2w21t.cloudfront.net/images/28-mission-current-MSL-Curiosity-alt.height-700.png) 
+
+
+<img width="752" height="432" alt="CuriositySurfaceCheckMay2626a" src="https://github.com/user-attachments/assets/c963e43f-cf48-4d13-bfa6-2f7db65590b1" />
+
+
+![https://mars.nasa.gov/msl-raw-images/msss/04904/mcam/4904MR1093890102502510C00_DXXX.jpg](https://mars.nasa.gov/msl-raw-images/msss/04904/mcam/4904MR1093890102502510C00_DXXX.jpg) 
+
+
 [Madden Screens on android](https://rashardmro.tumblr.com/post/816827131037401088) // [NatGeoSociety - _LA92_@CityOfLosAngeles @Blackgirlscode @dhs-gov @icegov](https://rashardmro.tumblr.com/post/816918203134541824/la-92-full-documentary-national-geographic?is_related_post=1)
 <img alt="tumblr_47c08880567a0dbb9b587bcfb30b443d_74c737c5_1280" src="https://github.com/user-attachments/assets/ef60ee5d-35f4-43d8-b856-b2aadec36c4f" />
 
