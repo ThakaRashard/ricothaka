@@ -25,6 +25,42 @@ image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="@nasa-jpl @la-county-isd @cityoflosangeles @stateofcalifornia @nasa-giss @usatoday @newshour @United States Of America" />
+
+
+
+
+<pre>
+
+                      ______
+                     /|      ;
+      HAPPY        ,'/       |   _______.._    __          _,.-''--,
+              _,-'`.'        | /|        | |/;'  |      .'` /      |
+             |::_.'  /|      || .-,    .-| |:|   |     /  ::|  ,---'
+           ,_.-'  ._'_|      '-/ /|    |:| |_'   |     | _ _|  |__
+       _,-'|                   |':|    | |  _.   |  _.-'` |       |
+     |`  ::|                   || |    | | |.|   | |  _,._|_      |
+     |    :, _____            _;| |    | | |:|   |.-:''_`'. |   .-'
+     |  _,-'`  _.-'          |.'._|____|_|_|_|__ | / .' `\ \|   |
+     |_:.___,-'  |           |/|                `;:| |:. | ;|   |
+           |:::  |           | |'                |:\  '-'  /|   |
+           |:    |           |_.__________.......;__:..__.'-'.--------.
+           |___._|___...,---='. .-----.-'""";-;"'   ' '\'.::/        /
+          ."" ""|       |     |:'     |     |  \        \::/        /
+          |     |       |     ||      |     |   `.       `'        /
+          |     |       |     ||      |     |     \               ,
+          |     |       |     |;      |     |\  :::`.            /
+   ___.,__|_ :::|       |     '/      |     | \  ::::\          /
+ |`'--.-''  | ::|       |             |     |_|_____  |        |
+ |    |      \_,'       |             |             `.'        |
+ |    |                 |             |              ||        |
+ ;    |                 |             |              ||        |
+ '    ;                ;'             |              |;        |
+  \ :::\              /::\           /|              ||        |mx||/
+||/'. ::;       _\\||-''--`\|.____,.'-\\|..\|/"""----""''''\\||/''||
+  \\|`'--`'---'`  -.___||/                     --''.___,|/
+
+</pre>
 ![https://web.archive.org/web/19970519060142im_/http://nssdc.gsfc.nasa.gov/logo/nssdc_logo_bg.gif](https://web.archive.org/web/19970519060142im_/http://nssdc.gsfc.nasa.gov/logo/nssdc_logo_bg.gif) 
 [https://web.archive.org/web/19970519060142/http://nssdc.gsfc.nasa.gov/ 1997 @nasa-giss @nasa-jpl](https://web.archive.org/web/19970519060142/http://nssdc.gsfc.nasa.gov/)
 <img   alt="image" src="https://github.com/user-attachments/assets/3f7bea67-3d5b-4142-8134-6db3b6f9e640" />
